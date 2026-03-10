@@ -1,9 +1,12 @@
+import { useState } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
 import MagicParticles from '../components/MagicParticles';
 import HeroSection from '../components/HeroSection';
 import MouseSparkle from '../components/MouseSparkle';
 import LocationCard from '../components/LocationCard';
 
 export default function Home() {
+    const [heroDone, setHeroDone] = useState(false);
     return (
         <div
             style={{
@@ -21,20 +24,27 @@ export default function Home() {
             <MouseSparkle />
 
             {/* Hero section */}
-            <HeroSection />
+            <HeroSection onRevealDoneCallback={() => setHeroDone(true)} />
 
             {/* Location Section */}
-            <div
-                style={{
-                    position: 'relative',
-                    zIndex: 10,
-                    display: 'flex',
-                    justifyContent: 'center',
-                    padding: '40px clamp(16px, 5vw, 48px) 80px',
-                }}
-            >
-                <LocationCard />
-            </div>
+            <AnimatePresence>
+                {heroDone && (
+                    <motion.div
+                        initial={{ opacity: 0, y: 30 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.8, delay: 0.6 }}
+                        style={{
+                            position: 'relative',
+                            zIndex: 10,
+                            display: 'flex',
+                            justifyContent: 'center',
+                            padding: '40px clamp(16px, 5vw, 48px) 80px',
+                        }}
+                    >
+                        <LocationCard />
+                    </motion.div>
+                )}
+            </AnimatePresence>
         </div>
     );
 }

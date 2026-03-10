@@ -39,7 +39,7 @@ function Stars() {
     );
 }
 
-export default function HeroSection() {
+export default function HeroSection({ onRevealDoneCallback }) {
     const [revealDone, setRevealDone] = useState(false);
     // null | 'register' | 'brochure'
     const [modal, setModal] = useState(null);
@@ -72,7 +72,10 @@ export default function HeroSection() {
             <div className="mist-layer-2" />
 
             {/* ── Logo ── */}
-            <LogoReveal onRevealDone={() => setRevealDone(true)} />
+            <LogoReveal onRevealDone={() => {
+                setRevealDone(true);
+                if (onRevealDoneCallback) onRevealDoneCallback();
+            }} />
 
             {/* ── Tagline ── */}
             <motion.p {...fadeUp(0.1)} style={{ textAlign: 'center' }}>
