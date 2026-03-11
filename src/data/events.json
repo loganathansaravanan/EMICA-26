@@ -11,16 +11,16 @@
             "id": "cse",
             "name": "CSE",
             "fullName": "Computer Science & Engineering",
-            "icon": "\ud83d\udcbb",
+            "icon": "💻",
             "color": "#00d4ff",
             "events": [
                 {
                     "id": "cse-t1",
                     "name": "Code War",
                     "category": "Technical",
-                    "description": "The Code Battle contest consists of three rounds: MCQ, Coding Challenge, and Rapid Fire Coding, designed to test participants\u2019 programming knowledge and problem-solving abilities.\n\nThe first round is an MCQ quiz containing questions from Java and Python programming, data structures, and basic algorithms, covering fundamental programming concepts, syntax, and output analysis.\n\nThe second round is a coding challenge with problems similar to those on the LeetCode platform, focusing on array and string-based problems with varying difficulty levels.\n\nThe final round is a rapid fire coding round where participants must quickly solve simple programming problems within a limited time. This round evaluates speed, accuracy, and logical thinking in coding",
+                    "description": "The Code Battle contest consists of three rounds: MCQ, Coding Challenge, and Rapid Fire Coding, designed to test participants’ programming knowledge and problem-solving abilities.\n\nThe first round is an MCQ quiz containing questions from Java and Python programming, data structures, and basic algorithms, covering fundamental programming concepts, syntax, and output analysis.\n\nThe second round is a coding challenge with problems similar to those on the LeetCode platform, focusing on array and string-based problems with varying difficulty levels.\n\nThe final round is a rapid fire coding round where participants must quickly solve simple programming problems within a limited time. This round evaluates speed, accuracy, and logical thinking in coding",
                     "rules": [
-                        "Team of 1\u20132 members",
+                        "Team of 1–2 members",
                         "Languages allowed: C, C++, Java, Python",
                         "3 rounds with elimination after each",
                         "No internet access during the contest",
@@ -101,7 +101,7 @@
                     "category": "Technical",
                     "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
                     "rules": [
-                        "Team of 1\u20132 members",
+                        "Team of 1–2 members",
                         "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
                         "Abstract submission required before event day",
                         "Presentation: 8 minutes + 2 minutes Q&A",
@@ -113,7 +113,7 @@
                         "start": "10:00 AM",
                         "end": "11:15 AM"
                     },
-                    "teamSize": "1\u20132 Members",
+                    "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
                             "name": "S.Lakshanth",
@@ -141,7 +141,7 @@
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
                     "rules": [
-                        "Team of 2\u20134 members",
+                        "Team of 2–4 members",
                         "Must have a working demo or prototype",
                         "Project report must be submitted beforehand",
                         "Presentation: 10 minutes + 3 minutes Q&A",
@@ -153,7 +153,7 @@
                         "start": "11:30 AM",
                         "end": "12:45 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "S.Lakshanth",
@@ -179,7 +179,7 @@
                     "id": "cse-nt1",
                     "name": "Connection",
                     "category": "Non-Technical",
-                    "description": "Connection Game is a fun non-technical event that tests participants\u2019 thinking ability, observation skills, and teamwork. Teams must find the common connection between given words, pictures, or clues within the given time. The event consists of three rounds with increasing difficulty.",
+                    "description": "Connection Game is a fun non-technical event that tests participants’ thinking ability, observation skills, and teamwork. Teams must find the common connection between given words, pictures, or clues within the given time. The event consists of three rounds with increasing difficulty.",
                     "rules": [
                         "Team of 2 - 4 members",
                         "judges decision is final Winner"
@@ -224,7 +224,7 @@
                         "Participants must present their advertisement creatively and professionally.",
                         "Preparation time : 5 - 6 mins",
                         "Presentation time : 1 - 2 mins",
-                        "The judges\u2019 decision will be final and binding"
+                        "The judges’ decision will be final and binding"
                     ],
                     "venue": "Main Block",
                     "date": "2026-03-28",
@@ -260,7 +260,7 @@
             "id": "it",
             "name": "IT",
             "fullName": "Information Technology",
-            "icon": "\ud83c\udf10",
+            "icon": "🌐",
             "color": "#a78bfa",
             "events": [
                 {
@@ -306,7 +306,7 @@
                     "id": "it-t2",
                     "name": "code X paradise",
                     "category": "Technical",
-                    "description": "This is Code arena:\n\nRound-1: Reverse Coding \u2013 Event Description: \n\n Reverse Coding is a fun and challenging programming event where participants must identify the logic behind a given output. Instead of writing code from a problem statement, participants will be provided with the expected output, and they must write the correct program to produce that output. This round tests the participant\u2019s logical thinking, coding skills, and problem-solving ability. The participant who successfully writes the correct code within the given time will score the highest.\n\nRound-2 : HackerRank Contest \u2013 Event Description: \n\n The HackerRank Contest is a competitive coding event where participants solve programming challenges within a limited time using the HackerRank platform. Participants must write efficient code to solve various problems related to algorithms, logic, and data structures. The contest evaluates coding accuracy, problem-solving skills, and time management. Participants are ranked based on the number of problems solved and the time taken to complete them.",
+                    "description": "This is Code arena:\n\nRound-1: Reverse Coding – Event Description: \n\n Reverse Coding is a fun and challenging programming event where participants must identify the logic behind a given output. Instead of writing code from a problem statement, participants will be provided with the expected output, and they must write the correct program to produce that output. This round tests the participant’s logical thinking, coding skills, and problem-solving ability. The participant who successfully writes the correct code within the given time will score the highest.\n\nRound-2 : HackerRank Contest – Event Description: \n\n The HackerRank Contest is a competitive coding event where participants solve programming challenges within a limited time using the HackerRank platform. Participants must write efficient code to solve various problems related to algorithms, logic, and data structures. The contest evaluates coding accuracy, problem-solving skills, and time management. Participants are ranked based on the number of problems solved and the time taken to complete them.",
                     "rules": [
                         "Team of 2 members",
                         "Languages allowed: Any language",
@@ -346,7 +346,7 @@
                     "id": "it-nt1",
                     "name": "Rhythm Rush",
                     "category": "Non-Technical",
-                    "description": "~Start music game description : \n\nStart Music is a fun game where players identify Tamil cinema songs using small clues. The clues may be a BGM (background music), a line of lyrics, or a picture related to the song. Players listen or look at the clue and try to guess the correct song as quickly as possible.\n\nThe player who correctly identifies the song first earns points. This game tests players\u2019 memory, listening skills, and knowledge of Tamil movie songs, making it exciting and entertaining for music lovers. \n\n\u2022Round 1 \u2013 BGM Round:Players listen to a short background music (BGM) clip from a Tamil movie song and guess the correct song.\n\n\u2022Round 2 \u2013 Picture Round:Players see a picture related to a song (such as a movie scene, actor, or object) and identify the song connected to it.\n\n\u2022Round 3 \u2013 Missing Lyrics Round:Players are given a line from a song with missing words and must fill in the correct lyrics",
+                    "description": "~Start music game description : \n\nStart Music is a fun game where players identify Tamil cinema songs using small clues. The clues may be a BGM (background music), a line of lyrics, or a picture related to the song. Players listen or look at the clue and try to guess the correct song as quickly as possible.\n\nThe player who correctly identifies the song first earns points. This game tests players’ memory, listening skills, and knowledge of Tamil movie songs, making it exciting and entertaining for music lovers. \n\n•Round 1 – BGM Round:Players listen to a short background music (BGM) clip from a Tamil movie song and guess the correct song.\n\n•Round 2 – Picture Round:Players see a picture related to a song (such as a movie scene, actor, or object) and identify the song connected to it.\n\n•Round 3 – Missing Lyrics Round:Players are given a line from a song with missing words and must fill in the correct lyrics",
                     "rules": [
                         "Team of 2 members",
                         "3 rounds: Melody, Rapid Fire, and Finals",
@@ -386,10 +386,10 @@
                     "id": "it-nt2",
                     "name": "IPL Themed Event",
                     "category": "Non-Technical",
-                    "description": "This IPL Acution:\n\nThe event consists of three exciting rounds based on the Indian Premier League (IPL) to test participants\u2019 cricket knowledge, observation skills, and strategic thinking.\n\nRound 1: IPL Quiz Participants answer questions related to IPL teams, players, records, and history. This round tests the cricket knowledge and quick thinking of the teams.\n\nRound 2: Historical moments of IPL Teams identify IPL players, team logos, stadiums, or memorable moments from pictures shown on the screen. This round checks visual recognition and cricket awareness.\n\nRound 3: IPL Auction Teams act as IPL franchise owners and use a virtual budget to bid for players and build their team. The winner is decided based on team balance, player selection, and budget management.Overall, the event is designed to be fun, interactive, and competitive, encouraging teamwork while celebrating the excitement of the Indian Premier League",
+                    "description": "This IPL Acution:\n\nThe event consists of three exciting rounds based on the Indian Premier League (IPL) to test participants’ cricket knowledge, observation skills, and strategic thinking.\n\nRound 1: IPL Quiz Participants answer questions related to IPL teams, players, records, and history. This round tests the cricket knowledge and quick thinking of the teams.\n\nRound 2: Historical moments of IPL Teams identify IPL players, team logos, stadiums, or memorable moments from pictures shown on the screen. This round checks visual recognition and cricket awareness.\n\nRound 3: IPL Auction Teams act as IPL franchise owners and use a virtual budget to bid for players and build their team. The winner is decided based on team balance, player selection, and budget management.Overall, the event is designed to be fun, interactive, and competitive, encouraging teamwork while celebrating the excitement of the Indian Premier League",
                     "rules": [
-                        "Team of 3\u20134 members",
-                        "Each team gets a virtual budget of \u20b980 Crores",
+                        "Team of 3–4 members",
+                        "Each team gets a virtual budget of ₹80 Crores",
                         "Minimum 11 players must be bought",
                         "Auctioneer's decision is final",
                         "No communication between teams during bidding"
@@ -400,7 +400,7 @@
                         "start": "2:00 PM",
                         "end": "2:45 PM"
                     },
-                    "teamSize": "3\u20134 Members",
+                    "teamSize": "3–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "Vikas.R - III IT",
@@ -428,7 +428,7 @@
                     "category": "Technical",
                     "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
                     "rules": [
-                        "Team of 1\u20132 members",
+                        "Team of 1–2 members",
                         "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
                         "Abstract submission required before event day",
                         "Presentation: 8 minutes + 2 minutes Q&A",
@@ -440,7 +440,7 @@
                         "start": "10:00 AM",
                         "end": "11:15 AM"
                     },
-                    "teamSize": "1\u20132 Members",
+                    "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
                             "name": "Lathiga T S III -IT",
@@ -472,7 +472,7 @@
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
                     "rules": [
-                        "Team of 2\u20134 members",
+                        "Team of 2–4 members",
                         "Must have a working demo or prototype",
                         "Project report must be submitted beforehand",
                         "Presentation: 10 minutes + 3 minutes Q&A",
@@ -484,7 +484,7 @@
                         "start": "11:30 AM",
                         "end": "12:45 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "Lathiga T S III -IT",
@@ -516,14 +516,14 @@
             "id": "aids",
             "name": "AI&DS",
             "fullName": "Artificial Intelligence & Data Science",
-            "icon": "\ud83e\udd16",
+            "icon": "🤖",
             "color": "#34d399",
             "events": [
                 {
                     "id": "aids-t1",
                     "name": "Bug buster",
                     "category": "Technical",
-                    "description": "Debugging Challenge is a two-round Python and C programming event designed to test participants\u2019 ability to identify, analyze, and fix errors in code. Participants must demonstrate logical thinking, problem-solving skills, and strong understanding of Programming concepts. The event challenges programmers to quickly debug faulty programs and produce correct outputs within the given time",
+                    "description": "Debugging Challenge is a two-round Python and C programming event designed to test participants’ ability to identify, analyze, and fix errors in code. Participants must demonstrate logical thinking, problem-solving skills, and strong understanding of Programming concepts. The event challenges programmers to quickly debug faulty programs and produce correct outputs within the given time",
                     "rules": [
                         "Individual participation",
                         "Participants must bring their own laptops",
@@ -603,7 +603,7 @@
                     "category": "Technical",
                     "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
                     "rules": [
-                        "Team of 1\u20132 members",
+                        "Team of 1–2 members",
                         "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
                         "Abstract submission required before event day",
                         "Presentation: 8 minutes + 2 minutes Q&A",
@@ -615,7 +615,7 @@
                         "start": "10:00 AM",
                         "end": "11:15 AM"
                     },
-                    "teamSize": "1\u20132 Members",
+                    "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
                             "name": "Vinoth K III -IT",
@@ -650,7 +650,7 @@
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
                     "rules": [
-                        "Team of 2\u20134 members",
+                        "Team of 2–4 members",
                         "Must have a working demo or prototype",
                         "Project report must be submitted beforehand",
                         "Presentation: 10 minutes + 3 minutes Q&A",
@@ -662,7 +662,7 @@
                         "start": "11:30 AM",
                         "end": "12:45 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "Sanjay Krishna B",
@@ -695,7 +695,7 @@
                     "id": "aids-nt1",
                     "name": "Memory Challenge",
                     "category": "Non-Technical",
-                    "description": "A fun non-technical event that tests participants\u2019 memory, observation, and concentration through exciting challenges. Teams must quickly observe information and accurately recall patterns, sequences, and details to win",
+                    "description": "A fun non-technical event that tests participants’ memory, observation, and concentration through exciting challenges. Teams must quickly observe information and accurately recall patterns, sequences, and details to win",
                     "rules": [
                         "Individual participation",
                         "judges decision is final Winner"
@@ -772,7 +772,7 @@
             "id": "eee",
             "name": "EEE",
             "fullName": "Electrical & Electronics Engineering",
-            "icon": "\u26a1",
+            "icon": "⚡",
             "color": "#f59e0b",
             "events": [
                 {
@@ -857,7 +857,7 @@
                     "category": "Technical",
                     "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
                     "rules": [
-                        "Team of 2 \u2013 4 members",
+                        "Team of 2 – 4 members",
                         "Topics: Power Systems, Renewable Energy, Smart Grid, Electric Vehicles or relavent to EEE.",
                         "Presentation: 5 - 8 minutes + 2 minutes Q&A"
                     ],
@@ -867,7 +867,7 @@
                         "start": "10:15 AM",
                         "end": "12:00 PM"
                     },
-                    "teamSize": "1\u20132 Members",
+                    "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
                             "name": "Balaji - IV EEE",
@@ -895,7 +895,7 @@
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
                     "rules": [
-                        "Team of 2\u20134 members",
+                        "Team of 2–4 members",
                         "Working demo or prototype",
                         "Judges decision is final"
                     ],
@@ -905,7 +905,7 @@
                         "start": "12:00 PM",
                         "end": "1:00 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "S. Lalith - IV EEE",
@@ -1006,7 +1006,7 @@
             "id": "ice",
             "name": "ICE",
             "fullName": "Instrumentation & Control Engineering",
-            "icon": "\ud83c\udf9b\ufe0f",
+            "icon": "🎛️",
             "color": "#ec4899",
             "events": [
                 {
@@ -1026,7 +1026,7 @@
                         "start": "2:00 PM",
                         "end": "3:30 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "Vidhyasagar J - III ICE",
@@ -1054,7 +1054,7 @@
                     "category": "Technical",
                     "description": "Identify the components and their functions.",
                     "rules": [
-                        "2 member participation",
+                        "Individual participation",
                         "component should be identified in 1 minute.",
                         "Obsered componets should be written in paper",
                         "2 rounds",
@@ -1066,7 +1066,7 @@
                         "start": "2:00 PM",
                         "end": "3:30 PM"
                     },
-                    "teamSize": "2 Members",
+                    "teamSize": "Individual",
                     "studentCoordinators": [
                         {
                             "name": "Mohamed sheik - III ICE",
@@ -1094,7 +1094,7 @@
                     "category": "Technical",
                     "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
                     "rules": [
-                        "Team of 2\u20134 members",
+                        "Team of 2–4 members",
                         "Topics: IoT, Sensors, Automation, Robotics, Smart Systems",
                         "Abstract submission required before event day",
                         "Presentation: 8 minutes + 2 minutes Q&A"
@@ -1105,7 +1105,7 @@
                         "start": "10:15 AM",
                         "end": "12:00 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "Manoj C - III ICE",
@@ -1129,7 +1129,7 @@
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
                     "rules": [
-                        "Team of 2\u20134 members",
+                        "Team of 2–4 members",
                         "Must have a working demo or prototype",
                         "Project report must be submitted beforehand",
                         "Presentation: 10 minutes + 3 minutes Q&A",
@@ -1141,7 +1141,7 @@
                         "start": "12:00 PM",
                         "end": "1:00 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "Senthilnathan - III ICE",
@@ -1165,7 +1165,7 @@
                     "category": "Non-Technical",
                     "description": "Create a reel related to the given topics.",
                     "rules": [
-                        "Team of 3\u20135 members",
+                        "Team of 3–5 members",
                         "Don't use ai for script or editing",
                         "the reel will done by 45 mins",
                         "reels must be 30 - 60 seconds"
@@ -1176,7 +1176,7 @@
                         "start": "2:00 PM",
                         "end": "3:30 PM"
                     },
-                    "teamSize": "3\u20135 Members",
+                    "teamSize": "3–5 Members",
                     "studentCoordinators": [
                         {
                             "name": "Nishanth R - III ICE",
@@ -1243,7 +1243,7 @@
             "id": "ece",
             "name": "ECE",
             "fullName": "Electronics & Communication Engineering",
-            "icon": "\ud83d\udce1",
+            "icon": "📡",
             "color": "#06b6d4",
             "events": [
                 {
@@ -1252,13 +1252,13 @@
                     "category": "Technical",
                     "description": "The Lab Lockdown event consists of three exciting rounds focused entirely on electronics. In the first round, participants will take a mini digital electronics test to check their basic knowledge. The second round involves a lab circuit finding challenge, where participants must identify and analyze circuits in the lab. In the final round, teams will design and build a mini electronic circuit project, testing their creativity and practical skills. ",
                     "rules": [
-                        "Individual or team of 2 \u2013 3 members",
+                        "Individual or team of 2 – 3 members",
                         "Participants must follow lab safety rules",
                         "Electronic components will be provided by the organizers",
                         "Mobile phones are not allowed during the event",
                         "Participants must complete the tasks within the given time",
                         "Any form of malpractice will lead to disqualification",
-                        "Judges\u2019 decision will be final"
+                        "Judges’ decision will be final"
                     ],
                     "venue": "Main Block",
                     "date": "2026-03-28",
@@ -1269,11 +1269,11 @@
                     "teamSize": "2 - 3 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Ealumalai \u2013 IV ECE",
+                            "name": "Ealumalai – IV ECE",
                             "phone": "+91 87542 65590"
                         },
                         {
-                            "name": "SANDHIYA S \u2013 III ECE",
+                            "name": "SANDHIYA S – III ECE",
                             "phone": "+91 8825449729"
                         }
                     ],
@@ -1294,13 +1294,13 @@
                     "category": "Technical",
                     "description": "The Line Follower Robot Competition challenges participants to design and program an autonomous robot that can follow a predefined line track using sensors and a microcontroller. Each team will consist of 1-3 members. The robot must complete the track accurately and in the shortest possible time without human control. This event encourages skills in robotics, programming, electronics, and teamwork.",
                     "rules": [
-                        "Individual or team of 1 \u2013 3 members",
+                        "Individual or team of 1 – 3 members",
                         "Participants must bring their own robot and components",
                         "Robot must be completely autonomous (no human control)",
                         "Robot should follow the given line track correctly",
                         "Robot completing the track in the shortest time will score higher",
                         "Any damage to the track will lead to disqualification",
-                        "Judges\u2019 decision is final \ud83e\udd16\ud83c\udfc1"
+                        "Judges’ decision is final 🤖🏁"
                     ],
                     "venue": "Main Block",
                     "date": "2026-03-28",
@@ -1311,7 +1311,7 @@
                     "teamSize": "1 - 3 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Seshan \u2013 IV ECE",
+                            "name": "Seshan – IV ECE",
                             "phone": "+91 63836 81807"
                         },
                         {
@@ -1336,7 +1336,7 @@
                     "category": "Technical",
                     "description": "A Paper Presentation event here participants can showcase their innovative ideas and research in the field of electronics. Each team must consist of 1 to 3 members. The topics should be strictly related to electronics and emerging technologies. Participants will present their ideas using slides and explain the concept, working principle, applications, and future scope. This event encourages students to improve their technical knowledge, presentation skills, and creativity.",
                     "rules": [
-                        "Team of 1\u20133 members",
+                        "Team of 1–3 members",
                         "Topics must be related to electronics and emerging technologies",
                         "Abstract submission required before the event day",
                         "Presentation: 8 minutes + 2 minutes Q&A",
@@ -1349,14 +1349,14 @@
                         "start": "10:15 AM",
                         "end": "12:00 PM"
                     },
-                    "teamSize": "1\u20133 Members",
+                    "teamSize": "1–3 Members",
                     "studentCoordinators": [
                         {
-                            "name": "RENUKA\u2013 IV ECE",
+                            "name": "RENUKA– IV ECE",
                             "phone": "96000 36892"
                         },
                         {
-                            "name": "LOHITH M M \u2013 III ECE",
+                            "name": "LOHITH M M – III ECE",
                             "phone": "+91 6380249693"
                         }
                     ],
@@ -1377,7 +1377,7 @@
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
                     "rules": [
-                        "Team of 2\u20134 members",
+                        "Team of 2–4 members",
                         "Must have a working demo or prototype",
                         "Project report must be submitted beforehand",
                         "Presentation: 10 minutes + 3 minutes Q&A",
@@ -1389,7 +1389,7 @@
                         "start": "12:00 PM",
                         "end": "1:00 PM"
                     },
-                    "teamSize": "2\u20134 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
                             "name": "MERCY GAYATHRI. I - III Ece",
@@ -1433,15 +1433,15 @@
                     "teamSize": "Individual",
                     "studentCoordinators": [
                         {
-                            "name": "DAMIEN JERISH A \u2013 IV ECE",
+                            "name": "DAMIEN JERISH A – IV ECE",
                             "phone": "+91 8610159795"
                         },
                         {
-                            "name": "HARSHAN M\u2013 III ECE",
+                            "name": "HARSHAN M– III ECE",
                             "phone": "+91 8428209549"
                         },
                         {
-                            "name": "Madhavan \u2013 IV ECE",
+                            "name": "Madhavan – IV ECE",
                             "phone": "+91 8220263670"
                         },
                         {
@@ -1468,7 +1468,7 @@
                     "rules": [
                         "Participants can take part in teams (2 members).",
                         "Each team will be asked a series of rapid questions.",
-                        "Time limit: 30 seconds \u2013 1 minute per round.",
+                        "Time limit: 30 seconds – 1 minute per round.",
                         "Each correct answer = 1 point.",
                         "Participants must answer quickly without using mobile phones or internet.",
                         "If a team cannot answer, the question may be passed to the next team.",
@@ -1484,11 +1484,11 @@
                     "teamSize": "5 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Madhesh \u2013 IV ECE",
+                            "name": "Madhesh – IV ECE",
                             "phone": "+91 8148790059"
                         },
                         {
-                            "name": "AKAASH P\u2013 III ECE",
+                            "name": "AKAASH P– III ECE",
                             "phone": "+91 9787619447"
                         }
                     ],
@@ -1506,324 +1506,232 @@
             ]
         },
         {
-            "id": "mech-civil-auto",
-            "name": "Mech/Civil/Auto",
-            "fullName": "Mechanical, Civil & Automobile Engineering",
-            "icon": "\u2699\ufe0f",
+            "id": "mech",
+            "name": "Mechanical",
+            "fullName": "Mechanical Engineering",
+            "icon": "⚙️",
             "color": "#ff7a00",
             "events": [
                 {
-                    "id": "mca-t1",
-                    "name": "Project Expo",
+                    "id": "mech-t1",
+                    "name": "Robo Wars",
                     "category": "Technical",
-                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
+                    "description": "Design and build a remote-controlled or autonomous robot capable of fighting a one-on-one tournament.",
                     "rules": [
-                        "Team of 2\u20134 members",
-                        "Must have a working demo or prototype",
-                        "Project report must be submitted beforehand",
-                        "Presentation: 10 minutes + 3 minutes Q&A",
-                        "Judging based on innovation, feasibility, and execution"
+                        "Max weight limit: 15kg",
+                        "No explosives or liquids allowed",
+                        "Matches last 3 minutes"
                     ],
-                    "venue": "Main Block",
+                    "venue": "MECH Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
-                    },
-                    "teamSize": "2\u20134 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "Project",
-                        "Innovation",
-                        "Demo"
-                    ]
-                },
-                {
-                    "id": "mca-t2",
-                    "name": "Paper Presentation",
-                    "category": "Technical",
-                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
-                    "rules": [
-                        "Team of 1\u20132 members",
-                        "Topics: Mechanical, Civil or Auto related",
-                        "Abstract submission required before event day",
-                        "Presentation: 8 minutes + 2 minutes Q&A",
-                        "PPT with maximum 15 slides"
-                    ],
-                    "venue": "Techno park seminar hall",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:15 AM",
-                        "end": "12:00 PM"
-                    },
-                    "teamSize": "1\u20132 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "Research",
-                        "Presentation",
-                        "Innovation"
-                    ]
-                },
-                {
-                    "id": "mca-t3",
-                    "name": "CAD Design",
-                    "category": "Technical",
-                    "description": "Showcase your drafting and modeling skills in this fast-paced CAD design challenge. Participants will have to design complex components under a time limit.",
-                    "rules": [
-                        "Individual participation",
-                        "Software: AutoCAD, SolidWorks, or similar",
-                        "Problem statement given on the spot",
-                        "Time limit will be strictly enforced",
-                        "Judges decision is final"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "CAD",
-                        "Design",
-                        "Modeling"
-                    ]
-                },
-                {
-                    "id": "mca-t4",
-                    "name": "Workshop",
-                    "category": "Technical",
-                    "description": "An interactive hands-on workshop covering the latest advancements in Mechanical, Civil, and Automobile engineering domains.",
-                    "rules": [
-                        "Open to all participants",
-                        "Requires prior registration",
-                        "Participation certificate will be provided"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "Workshop",
-                        "Learning",
-                        "Hands-on"
-                    ]
-                },
-                {
-                    "id": "mca-nt1",
-                    "name": "Photography",
-                    "category": "Non-Technical",
-                    "description": "Capture the spirit of EMICA 26! Test your photography skills by capturing the best moments of the symposium on given themes.",
-                    "rules": [
-                        "Individual participation",
-                        "Use of DSLR or Mobile phone allowed",
-                        "No heavy editing or manipulation",
-                        "Theme announced on the spot"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "Photography",
-                        "Creative",
-                        "Fun"
-                    ]
-                },
-                {
-                    "id": "mca-nt2",
-                    "name": "Minute to Win It",
-                    "category": "Non-Technical",
-                    "description": "Can you complete the challenge in just 60 seconds? A series of fun, fast-paced, and hilarious tasks using everyday items.",
-                    "rules": [
-                        "Individual or Team of 2",
-                        "Tasks will be revealed on the spot",
-                        "Maximum time: 60 seconds per task",
-                        "Referee decision is final"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
                     "teamSize": "1-2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
+                            "name": "Kavin M",
+                            "phone": "+91 98765 43210"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
+                        "name": "Mr. Rajendran K",
+                        "designation": "Assistant Professor",
+                        "phone": "+91 98765 43211"
                     },
                     "tags": [
-                        "Fun",
-                        "Games",
-                        "Challenge"
+                        "Robotics",
+                        "Hardware",
+                        "Competition"
                     ]
                 },
                 {
-                    "id": "mca-nt3",
-                    "name": "Marketing",
+                    "id": "mech-nt1",
+                    "name": "Junkyard Wars",
                     "category": "Non-Technical",
-                    "description": "Show off your persuasive skills! Pitch a completely absurd or ordinary product to the judges and convince them to buy it.",
+                    "description": "Use your creativity to build something useful or aesthetic out of discarded mechanical scrap and junkyard items.",
                     "rules": [
-                        "Team of 2-4 members",
-                        "Product will be given on the spot",
-                        "Preparation time: 5 mins",
-                        "Pitch time: 2-3 mins"
+                        "Only provided scrap materials can be used",
+                        "Time limit: 2 hours",
+                        "Team size: 2-3 members"
                     ],
-                    "venue": "Main Block",
+                    "venue": "MECH Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
-                    "teamSize": "2-4 Members",
+                    "teamSize": "1-2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
+                            "name": "Sanjay R",
+                            "phone": "+91 98765 43212"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
+                        "name": "Mr. Rajendran K",
+                        "designation": "Assistant Professor",
+                        "phone": "+91 98765 43211"
                     },
                     "tags": [
-                        "Marketing",
-                        "Pitch",
-                        "Creative"
+                        "Creative",
+                        "Fun",
+                        "Teamwork"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "civil",
+            "name": "Civil",
+            "fullName": "Civil Engineering",
+            "icon": "🏗️",
+            "color": "#fb923c",
+            "events": [
+                {
+                    "id": "civil-t1",
+                    "name": "Bridge Design Challenge",
+                    "category": "Technical",
+                    "description": "Construct the strongest possible bridge using popsicle sticks and glue. Bridges will be tested with increasing loads until structural failure.",
+                    "rules": [
+                        "Max length: 50cm",
+                        "Only popsicles and Fevicol allowed",
+                        "Load capacity to weight ratio will decide the winner"
+                    ],
+                    "venue": "CIVIL Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
+                    },
+                    "teamSize": "1-2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Arjun V",
+                            "phone": "+91 98765 43213"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mrs. Revathi S",
+                        "designation": "Associate Professor",
+                        "phone": "+91 98765 43214"
+                    },
+                    "tags": [
+                        "Structure",
+                        "Load Testing",
+                        "Design"
                     ]
                 },
                 {
-                    "id": "mca-nt4",
-                    "name": "Find the Song",
+                    "id": "civil-nt1",
+                    "name": "Survey Hunt",
                     "category": "Non-Technical",
-                    "description": "Listen to short audio clips, BGMs, or look at visual clues and find the correct song. A fun event for all music lovers!",
+                    "description": "A treasure hunt infused with basic surveying techniques. Crack the clues, measure distances, and find the hidden treasure around the campus.",
                     "rules": [
-                        "Team of 2 members",
-                        "Various rounds including BGM, Visuals, and Lyrics",
-                        "No mobile phones allowed",
-                        "Fastest team to answer gets the points"
+                        "Time-based event",
+                        "Teams of 2-4 members",
+                        "Mobiles prohibited during search"
                     ],
-                    "venue": "Main Block",
+                    "venue": "CIVIL Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
-                    "teamSize": "2 Members",
+                    "teamSize": "1-2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
-                            "phone": ""
-                        },
-                        {
-                            "name": "",
-                            "phone": ""
+                            "name": "Naveen K",
+                            "phone": "+91 98765 43215"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
+                        "name": "Mrs. Revathi S",
+                        "designation": "Associate Professor",
+                        "phone": "+91 98765 43214"
                     },
                     "tags": [
-                        "Music",
+                        "Outdoor",
                         "Fun",
-                        "Entertainment"
+                        "Adventure"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "auto",
+            "name": "Automobile",
+            "fullName": "Automobile Engineering",
+            "icon": "🚗",
+            "color": "#f87171",
+            "events": [
+                {
+                    "id": "auto-t1",
+                    "name": "Engine Assembly Challenge",
+                    "category": "Technical",
+                    "description": "Test your mechanical skills by assembling and dismantling a 4-stroke engine in the shortest time possible.",
+                    "rules": [
+                        "Proper safety gear is mandatory",
+                        "Time will be recorded for both dismantling and assembly",
+                        "Accuracy and proper fitment are required"
+                    ],
+                    "venue": "AUTO Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
+                    },
+                    "teamSize": "1-2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Kishore T",
+                            "phone": "+91 98765 43216"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr. Vignesh P",
+                        "designation": "Assistant Professor",
+                        "phone": "+91 98765 43217"
+                    },
+                    "tags": [
+                        "Automotive",
+                        "Speed",
+                        "Mechanics"
+                    ]
+                },
+                {
+                    "id": "auto-nt1",
+                    "name": "RC Racing",
+                    "category": "Non-Technical",
+                    "description": "Bring your custom-built or store-bought RC cars and compete in an intense off-road dirt track racing tournament.",
+                    "rules": [
+                        "Max battery capacity limits apply",
+                        "Race spans 5 laps",
+                        "Deliberate ramming is grounds for disqualification"
+                    ],
+                    "venue": "AUTO Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
+                    },
+                    "teamSize": "1-2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Manoj D",
+                            "phone": "+91 98765 43218"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr. Vignesh P",
+                        "designation": "Assistant Professor",
+                        "phone": "+91 98765 43217"
+                    },
+                    "tags": [
+                        "Racing",
+                        "Fun",
+                        "Esports"
                     ]
                 }
             ]
@@ -1833,11 +1741,11 @@
         "registrationDesk": {
             "opens": "8:45 AM",
             "closes": "10:30 AM",
-            "venue": "Main Entrance \u2013 College Gate"
+            "venue": "Main Entrance – College Gate"
         },
         "inauguration": {
             "time": "9:00 - 10:00 AM",
-            "venue": "Main Stage \u2013 Auditorium",
+            "venue": "Main Stage – Auditorium",
             "chiefGuest": "To be announced"
         },
         "lunchBreak": {
@@ -1846,7 +1754,7 @@
         },
         "valedictory": {
             "time": "4:00 PM",
-            "venue": "Main Stage \u2013 Auditorium",
+            "venue": "Main Stage – Auditorium",
             "description": "Prize distribution, vote of thanks, and closing ceremony"
         }
     },

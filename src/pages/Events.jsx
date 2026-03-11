@@ -1,4 +1,4 @@
-import { useState, useMemo, useRef } from 'react';
+import { useState, useMemo, useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import MagicParticles from '../components/MagicParticles';
 import EventCard from '../components/EventCard';
@@ -28,6 +28,38 @@ export default function Events() {
 
     /* Total events count */
     const totalEvents = eventsData.departments.reduce((sum, d) => sum + d.events.length, 0);
+
+    /* Handle browser back button for mobile overlay */
+    useEffect(() => {
+        // Only push state when a modal is actively selected
+        if (selectedEvent) {
+            window.history.pushState({ modalPanelOpen: true }, '', window.location.pathname);
+        }
+
+        const handlePopState = (e) => {
+            // When user clicks the hardware/browser back button:
+            // Since they are backing out, we immediately clear the modal.
+            if (selectedEvent) {
+                setSelectedEvent(null);
+            }
+        };
+
+        window.addEventListener('popstate', handlePopState);
+        return () => {
+            window.removeEventListener('popstate', handlePopState);
+        };
+    }, [selectedEvent]);
+
+    const handleClosePanel = () => {
+        // User clicked the close panel button manually
+        if (window.history.state && window.history.state.modalPanelOpen) {
+            // Revert the history state we pushed
+            window.history.back();
+        } else {
+            // Fallback for safety
+            setSelectedEvent(null);
+        }
+    };
 
     return (
         <div
@@ -547,7 +579,7 @@ export default function Events() {
             {selectedEvent && (
                 <EventDetailPanel
                     event={selectedEvent}
-                    onClose={() => setSelectedEvent(null)}
+                    onClose={handleClosePanel}
                 />
             )}
         </div>

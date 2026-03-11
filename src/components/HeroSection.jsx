@@ -5,7 +5,7 @@ import LogoReveal from './LogoReveal';
 import CountdownTimer from './CountdownTimer';
 import MagicalButton, { ComingSoonModal } from './MagicalButton';
 import { createPortal } from 'react-dom';
-import brochureImg from '../brochure/3.jpg.jpeg';
+import brochureImg from '../brochure/2K26_SYMPOSIM_3.jpeg';
 
 /* ── Brochure Modal ─────────────────────────────── */
 function BrochureModal({ onClose }) {
@@ -231,7 +231,7 @@ export default function HeroSection({ onRevealDoneCallback }) {
                     justifyContent: 'center',
                 }}
             >
-                <MagicalButton variant="primary" onClick={() => window.open('https://forms.gle/TTSLjxhzKxfpLH4A6', '_blank')}>
+                <MagicalButton variant="primary" onClick={() => setModal('register')}>
                     ✨ Register Now
                 </MagicalButton>
                 <MagicalButton variant="secondary" onClick={() => navigate('/events')}>
