@@ -8,6 +8,7 @@ import Events from './pages/Events';
 import Developers from './pages/Developers';
 import About from './pages/About';
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 export default function App() {
   return (
@@ -21,6 +22,7 @@ export default function App() {
         <Route path="/about" element={<About />} />
       </Routes>
       <Analytics />
+      <SpeedInsights />
     </>
   );
 }
