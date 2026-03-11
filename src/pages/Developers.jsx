@@ -27,7 +27,7 @@ const DEVELOPERS = [
     },
     {
         name: 'Lakshanth',
-        role: 'All desgin workes',
+        role: 'All Poster Designer',
         department: "CSE",
         image: LakshanthImg,
         instagramLink: 'https://www.instagram.com/chocolate_lux5',

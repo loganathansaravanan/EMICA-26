@@ -30,8 +30,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "11:15 AM"
                     },
                     "teamSize": "1-2 members",
                     "studentCoordinators": [
@@ -70,8 +70,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "11:30 AM",
+                        "end": "12:45 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -110,24 +110,24 @@
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:15 AM",
-                        "end": "12:00 PM"
+                        "start": "10:00 AM",
+                        "end": "11:15 AM"
                     },
                     "teamSize": "1\u20132 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "S.Lakshanth",
+                            "phone": "+91 74186 45163"
                         },
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "E.Saravanakumar",
+                            "phone": "+91 99949 99662"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "",
-                        "designation": "",
-                        "phone": ""
+                        "name": "Dr.V.Deepika",
+                        "designation": "Assistant Professor, AI&DS",
+                        "phone": "+91 8610720605"
                     },
                     "tags": [
                         "Research",
@@ -150,18 +150,18 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
+                        "start": "11:30 AM",
+                        "end": "12:45 PM"
                     },
                     "teamSize": "2\u20134 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "S.Lakshanth",
+                            "phone": "+91 74186 45163"
                         },
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "E.Saravanakumar",
+                            "phone": "+91 99949 99662"
                         }
                     ],
                     "staffCoordinator": {
@@ -187,8 +187,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "11:30 AM",
+                        "end": "12:30 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -229,8 +229,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "12:30 PM",
+                        "end": "1:00 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -265,7 +265,7 @@
             "events": [
                 {
                     "id": "it-t1",
-                    "name": "Prompt Engineering (Promptify X)",
+                    "name": " Promptify X",
                     "category": "Technical",
                     "description": "About Prompt Engineering:\n\nPrompt engineering is the process of creating clear and effective instructions for AI to get accurate and useful results.Participants will be given a simple reference image and must recreate it by writing an effective AI prompt. This round tests their ability to observe visual details and convert them into clear instructions for AI generation.Rounds in the Event.\n\n Round 1:  First 5 mins refer the basics of prompt Engineering.Then 10 mins Q/A 10 questions.\n\n Round 2: Advance in promoting.See the picture and write the prompt for it,then the prompt is exact to that picture i.e the image contains all the elements as same in that picture",
                     "rules": [
@@ -278,7 +278,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "end": "2:45 PM"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -304,9 +304,9 @@
                 },
                 {
                     "id": "it-t2",
-                    "name": "Code arena(code X paradise)",
+                    "name": "code X paradise",
                     "category": "Technical",
-                    "description": "Round-1: Reverse Coding \u2013 Event Description: \n\n Reverse Coding is a fun and challenging programming event where participants must identify the logic behind a given output. Instead of writing code from a problem statement, participants will be provided with the expected output, and they must write the correct program to produce that output. This round tests the participant\u2019s logical thinking, coding skills, and problem-solving ability. The participant who successfully writes the correct code within the given time will score the highest.\n\nRound-2 : HackerRank Contest \u2013 Event Description: \n\n The HackerRank Contest is a competitive coding event where participants solve programming challenges within a limited time using the HackerRank platform. Participants must write efficient code to solve various problems related to algorithms, logic, and data structures. The contest evaluates coding accuracy, problem-solving skills, and time management. Participants are ranked based on the number of problems solved and the time taken to complete them.",
+                    "description": "This is Code arena:\n\nRound-1: Reverse Coding \u2013 Event Description: \n\n Reverse Coding is a fun and challenging programming event where participants must identify the logic behind a given output. Instead of writing code from a problem statement, participants will be provided with the expected output, and they must write the correct program to produce that output. This round tests the participant\u2019s logical thinking, coding skills, and problem-solving ability. The participant who successfully writes the correct code within the given time will score the highest.\n\nRound-2 : HackerRank Contest \u2013 Event Description: \n\n The HackerRank Contest is a competitive coding event where participants solve programming challenges within a limited time using the HackerRank platform. Participants must write efficient code to solve various problems related to algorithms, logic, and data structures. The contest evaluates coding accuracy, problem-solving skills, and time management. Participants are ranked based on the number of problems solved and the time taken to complete them.",
                     "rules": [
                         "Team of 2 members",
                         "Languages allowed: Any language",
@@ -317,8 +317,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "11:30 AM",
+                        "end": "12:45 PM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -344,7 +344,7 @@
                 },
                 {
                     "id": "it-nt1",
-                    "name": "Rhythm Rush(start music)",
+                    "name": "Rhythm Rush",
                     "category": "Non-Technical",
                     "description": "~Start music game description : \n\nStart Music is a fun game where players identify Tamil cinema songs using small clues. The clues may be a BGM (background music), a line of lyrics, or a picture related to the song. Players listen or look at the clue and try to guess the correct song as quickly as possible.\n\nThe player who correctly identifies the song first earns points. This game tests players\u2019 memory, listening skills, and knowledge of Tamil movie songs, making it exciting and entertaining for music lovers. \n\n\u2022Round 1 \u2013 BGM Round:Players listen to a short background music (BGM) clip from a Tamil movie song and guess the correct song.\n\n\u2022Round 2 \u2013 Picture Round:Players see a picture related to a song (such as a movie scene, actor, or object) and identify the song connected to it.\n\n\u2022Round 3 \u2013 Missing Lyrics Round:Players are given a line from a song with missing words and must fill in the correct lyrics",
                     "rules": [
@@ -357,8 +357,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "11:30 AM",
+                        "end": "12:30 PM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -386,7 +386,7 @@
                     "id": "it-nt2",
                     "name": "IPL Themed Event",
                     "category": "Non-Technical",
-                    "description": "The event consists of three exciting rounds based on the Indian Premier League (IPL) to test participants\u2019 cricket knowledge, observation skills, and strategic thinking.\n\nRound 1: IPL Quiz Participants answer questions related to IPL teams, players, records, and history. This round tests the cricket knowledge and quick thinking of the teams.\n\nRound 2: Historical moments of IPL Teams identify IPL players, team logos, stadiums, or memorable moments from pictures shown on the screen. This round checks visual recognition and cricket awareness.\n\nRound 3: IPL Auction Teams act as IPL franchise owners and use a virtual budget to bid for players and build their team. The winner is decided based on team balance, player selection, and budget management.Overall, the event is designed to be fun, interactive, and competitive, encouraging teamwork while celebrating the excitement of the Indian Premier League",
+                    "description": "This IPL Acution:\n\nThe event consists of three exciting rounds based on the Indian Premier League (IPL) to test participants\u2019 cricket knowledge, observation skills, and strategic thinking.\n\nRound 1: IPL Quiz Participants answer questions related to IPL teams, players, records, and history. This round tests the cricket knowledge and quick thinking of the teams.\n\nRound 2: Historical moments of IPL Teams identify IPL players, team logos, stadiums, or memorable moments from pictures shown on the screen. This round checks visual recognition and cricket awareness.\n\nRound 3: IPL Auction Teams act as IPL franchise owners and use a virtual budget to bid for players and build their team. The winner is decided based on team balance, player selection, and budget management.Overall, the event is designed to be fun, interactive, and competitive, encouraging teamwork while celebrating the excitement of the Indian Premier League",
                     "rules": [
                         "Team of 3\u20134 members",
                         "Each team gets a virtual budget of \u20b980 Crores",
@@ -398,7 +398,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "end": "2:45 PM"
                     },
                     "teamSize": "3\u20134 Members",
                     "studentCoordinators": [
@@ -437,18 +437,22 @@
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:15 AM",
-                        "end": "12:00 PM"
+                        "start": "10:00 AM",
+                        "end": "11:15 AM"
                     },
                     "teamSize": "1\u20132 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
+                            "name": "Lathiga T S III -IT",
                             "phone": ""
                         },
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "Gokul S G III -IT",
+                            "phone": "+91 9597583479"
+                        },
+                        {
+                            "name": "Vinoth K III -IT",
+                            "phone": "+91 8939605612"
                         }
                     ],
                     "staffCoordinator": {
@@ -477,18 +481,22 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
+                        "start": "11:30 AM",
+                        "end": "12:45 PM"
                     },
                     "teamSize": "2\u20134 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
+                            "name": "Lathiga T S III -IT",
                             "phone": ""
                         },
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "Gokul S G III -IT",
+                            "phone": "+91 9597583479"
+                        },
+                        {
+                            "name": "Vinoth K III -IT",
+                            "phone": "+91 8939605612"
                         }
                     ],
                     "staffCoordinator": {
@@ -525,8 +533,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "11:15 AM"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -565,7 +573,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "end": "2:45 PM"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -604,18 +612,18 @@
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:15 AM",
-                        "end": "12:00 PM"
+                        "start": "10:00 AM",
+                        "end": "11:15 AM"
                     },
                     "teamSize": "1\u20132 Members",
                     "studentCoordinators": [
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "Vinoth K III -IT",
+                            "phone": "+91 8939605612"
                         },
                         {
-                            "name": "",
-                            "phone": ""
+                            "name": "S.Lakshanth",
+                            "phone": "+91 74186 45163"
                         }
                     ],
                     "staffCoordinator": [
@@ -651,8 +659,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
+                        "start": "11:30 AM",
+                        "end": "12:45 PM"
                     },
                     "teamSize": "2\u20134 Members",
                     "studentCoordinators": [
@@ -695,8 +703,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "12:00 PM",
+                        "end": "12:45 PM"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -734,7 +742,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "end": "2:45 PM"
                     },
                     "teamSize": "4 Members",
                     "studentCoordinators": [
@@ -1456,10 +1464,10 @@
                     "id": "ece-nt2",
                     "name": "RAPID FIRE QUIZ",
                     "category": "Non-Technical",
-                    "description": "Test your speed and electronics knowledge in this fast-paced quiz! Teams will face a series of rapid-fire questions to score points and prove their expertise.",
+                    "description": "Test your speed and knowledge in this fast-paced quiz! Teams will face a series of rapid-fire questions to score points and prove their expertise.",
                     "rules": [
                         "Participants can take part in teams (2 members).",
-                        "Each team will be asked a series of rapid questions Based on electronics.",
+                        "Each team will be asked a series of rapid questions.",
                         "Time limit: 30 seconds \u2013 1 minute per round.",
                         "Each correct answer = 1 point.",
                         "Participants must answer quickly without using mobile phones or internet.",
@@ -1828,7 +1836,7 @@
             "venue": "Main Entrance \u2013 College Gate"
         },
         "inauguration": {
-            "time": "10:30 AM",
+            "time": "9:00 - 10:00 AM",
             "venue": "Main Stage \u2013 Auditorium",
             "chiefGuest": "To be announced"
         },
