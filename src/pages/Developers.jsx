@@ -27,11 +27,11 @@ const DEVELOPERS = [
     },
     {
         name: 'Lakshanth',
-        role: 'All Poster Designer',
+        role: 'All Graphic Designer',
         department: "CSE",
         image: LakshanthImg,
         instagramLink: 'https://www.instagram.com/chocolate_lux5',
-        linkedinLink: '',
+        linkedinLink: 'https://www.linkedin.com/in/lakshanth-s-8813162a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         portfolioLink: '',
     }
 ];
