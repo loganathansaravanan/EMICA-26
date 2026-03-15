@@ -16,7 +16,7 @@
             "events": [
                 {
                     "id": "cse-t1",
-                    "name": "Code War",
+                    "name": "Algowar (Code War)",
                     "category": "Technical",
                     "description": "The Code Battle contest consists of three rounds: MCQ, Coding Challenge, and Rapid Fire Coding, designed to test participants’ programming knowledge and problem-solving abilities.\n\nThe first round is an MCQ quiz containing questions from Java and Python programming, data structures, and basic algorithms, covering fundamental programming concepts, syntax, and output analysis.\n\nThe second round is a coding challenge with problems similar to those on the LeetCode platform, focusing on array and string-based problems with varying difficulty levels.\n\nThe final round is a rapid fire coding round where participants must quickly solve simple programming problems within a limited time. This round evaluates speed, accuracy, and logical thinking in coding",
                     "rules": [
@@ -30,17 +30,17 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:00 AM",
-                        "end": "11:15 AM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "1-2 members",
                     "studentCoordinators": [
                         {
-                            "name": "Aakash. K",
+                            "name": "Aakash. K - III CSE",
                             "phone": "+91 93441 75382"
                         },
                         {
-                            "name": "Jayasri.A",
+                            "name": "Jayasri.A - III CSE",
                             "phone": "+91 74183 54882"
                         }
                     ],
@@ -70,17 +70,17 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:30 AM",
-                        "end": "12:45 PM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Ranjith kumar. P",
+                            "name": "Ranjith kumar. P - III CSE",
                             "phone": "+91 88389 00846"
                         },
                         {
-                            "name": "Swetha Lakshmi. S",
+                            "name": "Swetha Lakshmi. S - III CSE",
                             "phone": "+91 81240 74540"
                         }
                     ],
@@ -110,17 +110,17 @@
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:00 AM",
-                        "end": "11:15 AM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "S.Lakshanth",
+                            "name": "S.Lakshanth - III CSE",
                             "phone": "+91 74186 45163"
                         },
                         {
-                            "name": "E.Saravanakumar",
+                            "name": "E.Saravanakumar - III CSE",
                             "phone": "+91 73391 08896"
                         }
                     ],
@@ -152,17 +152,17 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:30 AM",
-                        "end": "12:45 PM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "S.Lakshanth",
+                            "name": "S.Lakshanth - III CSE",
                             "phone": "+91 74186 45163"
                         },
                         {
-                            "name": "E.Saravanakumar",
+                            "name": "E.Saravanakumar - III CSE",
                             "phone": "+91 99949 99662"
                         }
                     ],
@@ -191,17 +191,17 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:30 AM",
-                        "end": "12:30 PM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "VaitheesWaran.M",
+                            "name": "VaitheesWaran.M - III CSE",
                             "phone": "+91 73055 18959"
                         },
                         {
-                            "name": "Shanmathy. A",
+                            "name": "Shanmathy. A - III CSE",
                             "phone": "+91 9361356009"
                         }
                     ],
@@ -233,17 +233,17 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:30 PM",
-                        "end": "1:00 PM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Hariraj.R",
+                            "name": "Hariraj.R - III CSE",
                             "phone": "+91 93455 05218"
                         },
                         {
-                            "name": "Dhivyanavamathi. M",
+                            "name": "Dhivyanavamathi. M - III CSE",
                             "phone": "+91 78451 24252"
                         }
                     ],
@@ -281,8 +281,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "2:45 PM"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -321,8 +321,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:30 AM",
-                        "end": "12:45 PM"
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -361,8 +361,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:30 AM",
-                        "end": "12:30 PM"
+                        "start": "2:00 AM",
+                        "end": "3:00 PM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -401,8 +401,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "2:45 PM"
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
                     },
                     "teamSize": "3–4 Members",
                     "studentCoordinators": [
@@ -427,7 +427,7 @@
                     ]
                 },
                 {
-                    "id": "cse-t3",
+                    "id": "it-t3",
                     "name": "TECHTALK ARENA (paper presentation)",
                     "category": "Technical",
                     "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
@@ -442,7 +442,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
-                        "end": "11:15 AM"
+                        "end": "-"
                     },
                     "teamSize": "1–2 Members",
                     "studentCoordinators": [
@@ -471,7 +471,7 @@
                     ]
                 },
                 {
-                    "id": "cse-t4",
+                    "id": "it-t4",
                     "name": "INVENTRA(project expo)",
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
@@ -485,8 +485,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:30 AM",
-                        "end": "12:45 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
@@ -537,8 +537,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:00 AM",
-                        "end": "11:15 AM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -576,8 +576,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "2:45 PM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -617,16 +617,16 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
-                        "end": "11:15 AM"
+                        "end": "-"
                     },
                     "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Vinoth K III -IT",
+                            "name": "Vinoth K - III IT",
                             "phone": "+91 8939605612"
                         },
                         {
-                            "name": "S.Lakshanth",
+                            "name": "S.Lakshanth - III CSE",
                             "phone": "+91 74186 45163"
                         }
                     ],
@@ -663,18 +663,18 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:30 AM",
-                        "end": "12:45 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Sanjay Krishna B",
-                            "phone": "+91 95567 89012"
+                            "name": "-",
+                            "phone": "-"
                         },
                         {
-                            "name": "Meenakshi D",
-                            "phone": "+91 84567 89013"
+                            "name": "-",
+                            "phone": "-"
                         }
                     ],
                     "staffCoordinator": [
@@ -707,8 +707,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:00 PM",
-                        "end": "12:45 PM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -745,8 +745,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "2:45 PM"
+                        "start": "-",
+                        "end": "-"
                     },
                     "teamSize": "4 Members",
                     "studentCoordinators": [
@@ -792,8 +792,8 @@
                     "venue": "EEE Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -830,8 +830,8 @@
                     "venue": "EEE Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -868,8 +868,8 @@
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:15 AM",
-                        "end": "12:00 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "1–2 Members",
                     "studentCoordinators": [
@@ -906,8 +906,8 @@
                     "venue": "EEE Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
+                        "start": "10:00 PM",
+                        "end": "-"
                     },
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
@@ -944,8 +944,8 @@
                     "venue": "EEE Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -982,7 +982,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "end": "3:00 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -1107,7 +1107,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
-                        "end": ""
+                        "end": "-"
                     },
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
@@ -1143,7 +1143,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
-                        "end": "11:00 AM"
+                        "end": "-"
                     },
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
@@ -1267,8 +1267,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
                     },
                     "teamSize": "2 - 3 Members",
                     "studentCoordinators": [
@@ -1309,8 +1309,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "1 - 3 Members",
                     "studentCoordinators": [
@@ -1350,8 +1350,8 @@
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:15 AM",
-                        "end": "12:00 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "1–3 Members",
                     "studentCoordinators": [
@@ -1390,8 +1390,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
@@ -1431,8 +1431,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -1482,8 +1482,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
                     },
                     "teamSize": "5 Members",
                     "studentCoordinators": [
@@ -1530,7 +1530,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
-                        "end": "12:00 PM"
+                        "end": "-"
                     },
                     "teamSize": "1-2 Members",
                     "studentCoordinators": [
@@ -1563,8 +1563,8 @@
                     "venue": "Mech CAD Lab",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "1:00 PM",
-                        "end": "3:00 PM"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
                     "teamSize": "Individual/Team",
                     "studentCoordinators": [
@@ -1597,7 +1597,7 @@
                     "venue": "Lathe Workshop",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:00 AM",
+                        "start": "11:00 AM",
                         "end": "12:00 PM"
                     },
                     "teamSize": "Individual/Team",
@@ -1619,6 +1619,42 @@
                     ]
                 },
                 {
+                    "id": "mech-t4",
+                    "name": "INVENTRA(project expo)",
+                    "category": "Technical",
+                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
+                    "rules": [
+                        "Team of 2–4 members",
+                        "Must have a working demo or prototype",
+                        "Project report must be submitted beforehand",
+                        "Presentation: 10 minutes + 3 minutes Q&A",
+                        "Judging based on innovation, feasibility, and execution"
+                    ],
+                    "venue": "Mech Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "2–4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "TBD",
+                            "phone": "-"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "TBD",
+                        "designation": "Assistant Professor, Mech",
+                        "phone": "-"
+                    },
+                    "tags": [
+                        "Project",
+                        "Innovation",
+                        "Demo"
+                    ]
+                },
+                {
                     "id": "mech-nt1",
                     "name": "Find The Song",
                     "category": "Non-Technical",
@@ -1631,8 +1667,8 @@
                     "venue": "Mech Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "1:00 PM",
-                        "end": "3:00 PM"
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -1667,7 +1703,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 PM",
-                        "end": "3:30 PM"
+                        "end": "3:00 PM"
                     },
                     "teamSize": "Team",
                     "studentCoordinators": [
@@ -1853,8 +1889,8 @@
                     "venue": "Automobile Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:00 AM",
-                        "end": "12:00 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "1-2 Members",
                     "studentCoordinators": [
@@ -1886,8 +1922,8 @@
                     "venue": "Automobile Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "11:00 AM",
-                        "end": "12:00 PM"
+                        "start": "10:00 AM",
+                        "end": "-"
                     },
                     "teamSize": "1-2 Members",
                     "studentCoordinators": [

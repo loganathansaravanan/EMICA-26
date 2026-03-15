@@ -5,112 +5,6 @@ import LogoReveal from './LogoReveal';
 import CountdownTimer from './CountdownTimer';
 import MagicalButton, { ComingSoonModal } from './MagicalButton';
 import { createPortal } from 'react-dom';
-import brochureImg from '../brochure/2K26_SYMPOSIM_3.jpeg';
-
-/* ── Brochure Modal ─────────────────────────────── */
-function BrochureModal({ onClose }) {
-    return createPortal(
-        <AnimatePresence>
-            <motion.div
-                key="brochure-backdrop"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                exit={{ opacity: 0 }}
-                transition={{ duration: 0.35 }}
-                onClick={onClose}
-                style={{
-                    position: 'fixed',
-                    inset: 0,
-                    zIndex: 1000,
-                    backdropFilter: 'blur(16px)',
-                    WebkitBackdropFilter: 'blur(16px)',
-                    background: 'rgba(6, 4, 20, 0.76)',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    cursor: 'pointer',
-                    padding: '20px',
-                }}
-            >
-                <motion.div
-                    key="brochure-card"
-                    initial={{ scale: 0.75, opacity: 0, y: 30 }}
-                    animate={{ scale: 1, opacity: 1, y: 0 }}
-                    exit={{ scale: 0.75, opacity: 0, y: 30 }}
-                    transition={{ type: 'spring', stiffness: 280, damping: 22 }}
-                    onClick={(e) => e.stopPropagation()}
-                    style={{
-                        background: 'linear-gradient(145deg, #1a0f2ee0 0%, #0b0b14e0 100%)',
-                        border: '1px solid #FFD70055',
-                        borderRadius: 24,
-                        padding: '12px',
-                        textAlign: 'center',
-                        boxShadow: '0 0 60px #FFD70044, 0 0 120px #9b59b633, 0 24px 80px rgba(0,0,0,0.8)',
-                        maxWidth: 'min(800px, 95vw)',
-                        maxHeight: '90vh',
-                        position: 'relative',
-                        display: 'flex',
-                        flexDirection: 'column',
-                    }}
-                >
-                    <div
-                        style={{
-                            position: 'absolute',
-                            inset: -2,
-                            borderRadius: 26,
-                            background: 'linear-gradient(135deg, #FFD70033, transparent, #9b59b633)',
-                            zIndex: -1,
-                            pointerEvents: 'none',
-                        }}
-                    />
-
-                    <motion.button
-                        whileHover={{ scale: 1.1, boxShadow: '0 0 20px #FFD700aa' }}
-                        whileTap={{ scale: 0.95 }}
-                        onClick={onClose}
-                        style={{
-                            position: 'absolute',
-                            top: -14,
-                            right: -14,
-                            width: 36,
-                            height: 36,
-                            borderRadius: '50%',
-                            background: '#FFD700',
-                            color: '#0b0b14',
-                            border: '1px solid rgba(255, 255, 255, 0.5)',
-                            fontSize: '22px',
-                            lineHeight: 1,
-                            fontWeight: 'bold',
-                            cursor: 'pointer',
-                            display: 'flex',
-                            alignItems: 'center',
-                            justifyContent: 'center',
-                            boxShadow: '0 4px 15px rgba(0,0,0,0.5)',
-                            zIndex: 10,
-                        }}
-                    >
-                        ×
-                    </motion.button>
-
-                    <div style={{ overflow: 'hidden', borderRadius: 14, flex: 1, display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                        <img
-                            src={brochureImg}
-                            alt="EMICA 26 Brochure"
-                            style={{
-                                maxWidth: '100%',
-                                maxHeight: 'calc(90vh - 24px)',
-                                objectFit: 'contain',
-                                display: 'block',
-                                borderRadius: 12
-                            }}
-                        />
-                    </div>
-                </motion.div>
-            </motion.div>
-        </AnimatePresence>,
-        document.body
-    );
-}
 
 /* ── Decorative twinkling stars ─────────────────── */
 const STARS = Array.from({ length: 60 }, (_, i) => ({
@@ -270,7 +164,7 @@ export default function HeroSection({ onRevealDoneCallback }) {
                             <line x1="16" y1="17" x2="8" y2="17" />
                             <polyline points="10 9 9 9 8 9" />
                         </svg>
-                        View Brochure
+                        Update Coming Soon
                     </motion.button>
                 </div>
             </motion.div>
@@ -300,7 +194,11 @@ export default function HeroSection({ onRevealDoneCallback }) {
                 )}
 
                 {modal === 'brochure' && (
-                    <BrochureModal onClose={() => setModal(null)} />
+                    <ComingSoonModal
+                        key="brochure-modal"
+                        title="Brochure"
+                        onClose={() => setModal(null)}
+                    />
                 )}
             </AnimatePresence>
         </section>
