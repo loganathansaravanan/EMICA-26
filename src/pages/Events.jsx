@@ -478,7 +478,7 @@ export default function Events() {
                 </motion.div>
             </AnimatePresence>
 
-            {/* ══════ Contact Section ══════ */}
+            {/* ══════ Contact Section ══════ 
             <motion.div
                 initial={{ opacity: 0, y: 30 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -558,7 +558,7 @@ export default function Events() {
                         ))}
                     </div>
                 </div>
-            </motion.div>
+            </motion.div>*/}
 
             {/* ── Bottom glow ── */}
             <div
