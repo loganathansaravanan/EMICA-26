@@ -84,11 +84,13 @@
                             "phone": "+91 81240 74540"
                         }
                     ],
-                    "staffCoordinator": {
-                        "name": "Mrs. Kavinmathi. B",
-                        "designation": "Assistant Professor, IT",
-                        "phone": "+91 99444 81256"
-                    },
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs. Kavinmathi. B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 99444 81256"
+                        }
+                    ],
                     "tags": [
                         "Debugging",
                         "Coding",
@@ -126,9 +128,14 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "MR. P. Manimozhi",
+                            "name": "Mr.V.Dheepan",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9994999662"
+                            "phone": "+91 6380325151"
+                        },
+                        {
+                            "name": "Mr.P.Loganathan",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 8300163488"
                         }
                     ],
                     "tags": [
@@ -168,9 +175,19 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "MR. P. Manimozhi",
+                            "name": "Mrs Mona Jacqueline G",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9994999662"
+                            "phone": "+91 9488389818"
+                        },
+                        {
+                            "name": "Mrs Jenisha S",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi. B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 99444 81256"
                         }
                     ],
                     "tags": [
@@ -371,7 +388,7 @@
                             "phone": "+91 7639857883"
                         },
                         {
-                            "name": "Muhammad azeela",
+                            "name": "Muhamudha azeela",
                             "phone": ""
                         }
                     ],
@@ -388,7 +405,7 @@
                 },
                 {
                     "id": "it-nt2",
-                    "name": "IPL Themed Event",
+                    "name": "IPL Auction",
                     "category": "Non-Technical",
                     "description": "This IPL Acution:\n\nThe event consists of three exciting rounds based on the Indian Premier League (IPL) to test participants’ cricket knowledge, observation skills, and strategic thinking.\n\nRound 1: IPL Quiz Participants answer questions related to IPL teams, players, records, and history. This round tests the cricket knowledge and quick thinking of the teams.\n\nRound 2: Historical moments of IPL Teams identify IPL players, team logos, stadiums, or memorable moments from pictures shown on the screen. This round checks visual recognition and cricket awareness.\n\nRound 3: IPL Auction Teams act as IPL franchise owners and use a virtual budget to bid for players and build their team. The winner is decided based on team balance, player selection, and budget management.Overall, the event is designed to be fun, interactive, and competitive, encouraging teamwork while celebrating the excitement of the Indian Premier League",
                     "rules": [
@@ -459,11 +476,18 @@
                             "phone": "+91 8939605612"
                         }
                     ],
-                    "staffCoordinator": {
-                        "name": "MR. P. Manimozhi",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 9994999662"
-                    },
+                    "staffCoordinator": [
+                        {
+                            "name": "Mr.V.Dheepan",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 6380325151"
+                        },
+                        {
+                            "name": "Mr.P.Loganathan",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 8300163488"
+                        }
+                    ],
                     "tags": [
                         "Research",
                         "Presentation",
@@ -503,11 +527,23 @@
                             "phone": "+91 8939605612"
                         }
                     ],
-                    "staffCoordinator": {
-                        "name": "MR. P. Manimozhi",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 9994999662"
-                    },
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs Mona Jacqueline G",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9488389818"
+                        },
+                        {
+                            "name": "Mrs Jenisha S",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi. B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 99444 81256"
+                        }
+                    ],
                     "tags": [
                         "Project",
                         "Innovation",
@@ -551,11 +587,13 @@
                             "phone": "+91 9150956912"
                         }
                     ],
-                    "staffCoordinator": {
-                        "name": "Mrs Mona Jacqueline G",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 9488389818"
-                    },
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs Mona Jacqueline G",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9488389818"
+                        }
+                    ],
                     "tags": [
                         "AI",
                         "Art",
@@ -590,11 +628,13 @@
                             "phone": "+91 6374138885"
                         }
                     ],
-                    "staffCoordinator": {
-                        "name": "Mrs Jenisha S",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 9342154114"
-                    },
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs Jenisha S",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        }
+                    ],
                     "tags": [
                         "Data Science",
                         "Analytics",
@@ -632,14 +672,14 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "MR. P. Manimozhi",
+                            "name": "Mr.V.Dheepan",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9994999662"
+                            "phone": "+91 6380325151"
                         },
                         {
-                            "name": "Dr.V.Deepika",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9442831596"
+                            "name": "Mr.P.Loganathan",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 8300163488"
                         }
                     ],
                     "tags": [
@@ -669,24 +709,29 @@
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "-",
-                            "phone": "-"
+                            "name": "S.Lakshanth - III CSE",
+                            "phone": "+91 74186 45163"
                         },
                         {
-                            "name": "-",
-                            "phone": "-"
+                            "name": "E.Saravanakumar - III CSE",
+                            "phone": "+91 99949 99662"
                         }
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "MR. P. Manimozhi",
+                            "name": "Mrs Mona Jacqueline G",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9994999662"
+                            "phone": "+91 9488389818"
                         },
                         {
-                            "name": "Dr.V.Deepika",
+                            "name": "Mrs Jenisha S",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9442831596"
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi. B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 99444 81256"
                         }
                     ],
                     "tags": [
@@ -1639,12 +1684,12 @@
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "TBD",
+                            "name": "-",
                             "phone": "-"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "TBD",
+                        "name": "-",
                         "designation": "Assistant Professor, Mech",
                         "phone": "-"
                     },
@@ -1725,79 +1770,6 @@
                         "Creative",
                         "Acting",
                         "Fun"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "civil",
-            "name": "Civil",
-            "fullName": "Civil Engineering",
-            "icon": "🏗️",
-            "color": "#fb923c",
-            "events": [
-                {
-                    "id": "civil-t1",
-                    "name": "?",
-                    "category": "Technical",
-                    "description": "?",
-                    "rules": [
-                        "?"
-                    ],
-                    "venue": "?",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "?",
-                        "end": "?"
-                    },
-                    "teamSize": "?",
-                    "studentCoordinators": [
-                        {
-                            "name": "?",
-                            "phone": "?"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "?",
-                        "designation": "?",
-                        "phone": "?"
-                    },
-                    "tags": [
-                        "Structure",
-                        "Load Testing",
-                        "Design"
-                    ]
-                },
-                {
-                    "id": "civil-nt1",
-                    "name": "?",
-                    "category": "Non-Technical",
-                    "description": "?",
-                    "rules": [
-                        "?"
-                    ],
-                    "venue": "?",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "?",
-                        "end": "?"
-                    },
-                    "teamSize": "?",
-                    "studentCoordinators": [
-                        {
-                            "name": "?",
-                            "phone": "?"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "?",
-                        "designation": "?",
-                        "phone": "?"
-                    },
-                    "tags": [
-                        "Outdoor",
-                        "Fun",
-                        "Adventure"
                     ]
                 }
             ]
@@ -2016,6 +1988,257 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "civil",
+            "name": "Civil",
+            "fullName": "Civil Engineering",
+            "icon": "🏗️",
+            "color": "#8B4513",
+            "events": [
+                {
+                    "id": "civil-t1",
+                    "name": "Idea Ignite (Paper Presentation)",
+                    "category": "Technical",
+                    "description": "Participants prepare and present an innovative topic related to civil engineering using presentation slides. The presentation will be evaluated based on clarity of content, creativity, technical knowledge, and presentation skills. The most informative and well-presented idea wins.",
+                    "rules": [
+                        "Team of 1-2 members",
+                        "Presentation using slides is mandatory",
+                        "Evaluated on clarity, creativity, technical knowledge, and presentation skills",
+                        "Judges' decision is final"
+                    ],
+                    "venue": "Civil Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "-",
+                        "end": "-"
+                    },
+                    "teamSize": "1-2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "M. Yeganathan",
+                            "phone": "+91 8838229123"
+                        },
+                        {
+                            "name": "Mahendravarman",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Prof. L. Periyasamy",
+                        "designation": "Assistant Professor, Civil",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Research",
+                        "Presentation",
+                        "Innovation"
+                    ]
+                },
+                {
+                    "id": "civil-t2",
+                    "name": "Future Builders Expo (Project Presentation)",
+                    "category": "Technical",
+                    "description": "Participants showcase working models or innovative projects related to construction technology, structural design, sustainable materials, or infrastructure development. They must explain the concept, working principle, and real-world application. The most practical, innovative, and well-explained project wins.",
+                    "rules": [
+                        "Team of 1-2 members",
+                        "Working model or innovative project required",
+                        "Must explain concept, working principle, and real-world application",
+                        "Judges' decision is final"
+                    ],
+                    "venue": "Civil Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "-",
+                        "end": "-"
+                    },
+                    "teamSize": "1-2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "G. Mahendravarman",
+                            "phone": "+91 7397127007"
+                        },
+                        {
+                            "name": "Yeganathan",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Prof. MD. Mubarak AK",
+                        "designation": "Assistant Professor, Civil",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Project",
+                        "Innovation",
+                        "Construction"
+                    ]
+                },
+                {
+                    "id": "civil-t3",
+                    "name": "SkyRise Challenge (Structure Design)",
+                    "category": "Technical",
+                    "description": "Participants must design and build a high-rise structure using ice cream sticks within the given time. The structure will be evaluated based on height, stability, creativity, and structural strength. The strongest and most efficient structure wins.",
+                    "rules": [
+                        "Ice cream sticks will be used for building",
+                        "Structure evaluated on height, stability, creativity, and structural strength",
+                        "Must be completed within the given time",
+                        "Judges' decision is final"
+                    ],
+                    "venue": "Civil Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "-",
+                        "end": "-"
+                    },
+                    "teamSize": "2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Tamilinban",
+                            "phone": "+91 7639163079"
+                        },
+                        {
+                            "name": "Mahisha",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Prof. L. Periyasamy",
+                        "designation": "Assistant Professor, Civil",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Structure",
+                        "Design",
+                        "Engineering"
+                    ]
+                },
+                {
+                    "id": "civil-t4",
+                    "name": "Draft Risk – CAD Modelling",
+                    "category": "Technical",
+                    "description": "Participants use CAD software to create technical drawings or 3D models based on a given problem or design requirement. The designs will be judged on accuracy, creativity, detailing, and technical presentation. The most precise and innovative design wins.",
+                    "rules": [
+                        "Individual or team participation",
+                        "CAD software will be used",
+                        "Designs judged on accuracy, creativity, detailing, and technical presentation",
+                        "Judges' decision is final"
+                    ],
+                    "venue": "Civil Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "-",
+                        "end": "-"
+                    },
+                    "teamSize": "Individual/Team",
+                    "studentCoordinators": [
+                        {
+                            "name": "S. Vineeth",
+                            "phone": "+91 9344160913"
+                        },
+                        {
+                            "name": "Damiki Bevan Lyngdoh",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Asst. Prof. Ashwini",
+                        "designation": "Assistant Professor, Civil",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "CAD",
+                        "3D Modelling",
+                        "Design"
+                    ]
+                },
+                {
+                    "id": "civil-nt1",
+                    "name": "Minute to Win",
+                    "category": "Non-Technical",
+                    "description": "Participants must complete fun challenges within one minute. Each task tests speed, balance, and coordination. Challenges include: Cookie Crawl, Cup Tower Challenge, Emoji Acting Challenge, Water Bottle Flip, Rubber Band Shoot, Biscuit Tower, Chair Zigzag Race, and Straw Pyramid. Participants who complete the challenge successfully within the time limit win.",
+                    "rules": [
+                        "Each challenge must be completed within one minute",
+                        "Challenges test speed, balance, and coordination",
+                        "Participants who complete the challenge within the time limit win",
+                        "Judges' decision is final"
+                    ],
+                    "venue": "Civil Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "-",
+                        "end": "-"
+                    },
+                    "teamSize": "Individual/Team",
+                    "studentCoordinators": [
+                        {
+                            "name": "S. Kaviya",
+                            "phone": "+91 6381233143"
+                        },
+                        {
+                            "name": "Kiruba",
+                            "phone": ""
+                        },
+                        {
+                            "name": "Deepak",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Asst. Prof. Ashwini",
+                        "designation": "Assistant Professor, Civil",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Fun",
+                        "Challenge",
+                        "Speed"
+                    ]
+                },
+                {
+                    "id": "civil-nt2",
+                    "name": "Mad Marketing",
+                    "category": "Non-Technical",
+                    "description": "Participants are given random useless objects such as an empty bottle, ice cream sticks, or a piece of paper. They must creatively market the object as a useful or innovative product within a short time. The pitch will be judged based on creativity, confidence, humor, and marketing skills. The most convincing and entertaining marketing presentation wins.",
+                    "rules": [
+                        "Random objects will be provided",
+                        "Must creatively market the object as a useful product",
+                        "Judged on creativity, confidence, humor, and marketing skills",
+                        "Judges' decision is final"
+                    ],
+                    "venue": "Civil Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "-",
+                        "end": "-"
+                    },
+                    "teamSize": "2-3 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "P. Vignesh",
+                            "phone": "+91 9003730613"
+                        },
+                        {
+                            "name": "Subramani",
+                            "phone": ""
+                        },
+                        {
+                            "name": "Sumitra",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "MD. Mubarak AK",
+                        "designation": "Assistant Professor, Civil",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Marketing",
+                        "Creative",
+                        "Fun"
+                    ]
+                }
+            ]
         }
     ],
     "schedule": {
@@ -2039,18 +2262,5 @@
             "description": "Prize distribution, vote of thanks, and closing ceremony"
         }
     },
-    "contacts": {
-        "technicalHead": {
-            "name": "Mr. R. Ponneela vignesh",
-            "phone": "+91 9976321540"
-        },
-        "nonTechnicalHead": {
-            "name": "Mrs. T. Arachelvi",
-            "phone": "+91 6382885679"
-        },
-        "registrationHelp": {
-            "name": "Mrs. G. Ramya",
-            "phone": "+91 9500447223"
-        }
-    }
+    "contacts": {}
 }

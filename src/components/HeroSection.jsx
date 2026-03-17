@@ -5,6 +5,7 @@ import LogoReveal from './LogoReveal';
 import CountdownTimer from './CountdownTimer';
 import MagicalButton, { ComingSoonModal } from './MagicalButton';
 import { createPortal } from 'react-dom';
+import brochureImage from '../brochure/sym brouchure.jpeg';
 
 /* ── Decorative twinkling stars ─────────────────── */
 const STARS = Array.from({ length: 60 }, (_, i) => ({
@@ -37,6 +38,139 @@ function Stars() {
                 />
             ))}
         </>
+    );
+}
+
+/* ── Brochure Viewer Modal ─────────────────── */
+function BrochureModal({ onClose }) {
+    return createPortal(
+        <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.3 }}
+            onClick={onClose}
+            style={{
+                position: 'fixed',
+                inset: 0,
+                zIndex: 10000,
+                background: 'rgba(0, 0, 0, 0.92)',
+                backdropFilter: 'blur(12px)',
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'center',
+                padding: '20px',
+                cursor: 'zoom-out',
+            }}
+        >
+            {/* Close Button */}
+            <motion.button
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.15 }}
+                onClick={onClose}
+                style={{
+                    position: 'fixed',
+                    top: '20px',
+                    right: '20px',
+                    zIndex: 10001,
+                    width: '44px',
+                    height: '44px',
+                    borderRadius: '50%',
+                    border: '1px solid rgba(255, 215, 0, 0.4)',
+                    background: 'rgba(26, 15, 46, 0.85)',
+                    backdropFilter: 'blur(8px)',
+                    color: '#FFD700',
+                    fontSize: '20px',
+                    cursor: 'pointer',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    transition: 'all 0.2s ease',
+                    boxShadow: '0 4px 20px rgba(0,0,0,0.5)',
+                }}
+                onMouseEnter={(e) => {
+                    e.currentTarget.style.background = 'rgba(255, 215, 0, 0.15)';
+                    e.currentTarget.style.transform = 'scale(1.1)';
+                }}
+                onMouseLeave={(e) => {
+                    e.currentTarget.style.background = 'rgba(26, 15, 46, 0.85)';
+                    e.currentTarget.style.transform = 'scale(1)';
+                }}
+            >
+                ✕
+            </motion.button>
+
+            {/* Header */}
+            <motion.div
+                initial={{ opacity: 0, y: -10 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.1 }}
+                style={{
+                    marginBottom: '16px',
+                    textAlign: 'center',
+                }}
+            >
+                <span style={{
+                    fontFamily: "'Cinzel', serif",
+                    fontSize: 'clamp(1rem, 2.5vw, 1.4rem)',
+                    color: '#FFD700',
+                    fontWeight: 700,
+                    letterSpacing: '0.15em',
+                    textShadow: '0 0 15px rgba(255, 215, 0, 0.5)',
+                }}>
+                    ✨ EMICA'26 Brochure
+                </span>
+            </motion.div>
+
+            {/* Brochure Image */}
+            <motion.div
+                initial={{ opacity: 0, scale: 0.85 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.85 }}
+                transition={{ duration: 0.4, ease: [0.22, 1, 0.36, 1] }}
+                onClick={(e) => e.stopPropagation()}
+                style={{
+                    maxWidth: '90vw',
+                    maxHeight: 'calc(100vh - 120px)',
+                    borderRadius: '12px',
+                    overflow: 'auto',
+                    boxShadow: '0 0 60px rgba(255, 215, 0, 0.15), 0 20px 60px rgba(0,0,0,0.6)',
+                    border: '1px solid rgba(255, 215, 0, 0.15)',
+                    cursor: 'default',
+                }}
+            >
+                <img
+                    src={brochureImage}
+                    alt="EMICA'26 Symposium Brochure"
+                    style={{
+                        display: 'block',
+                        width: '100%',
+                        maxWidth: '700px',
+                        height: 'auto',
+                        borderRadius: '12px',
+                    }}
+                />
+            </motion.div>
+
+            {/* Tap to close hint */}
+            <motion.p
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 0.5 }}
+                transition={{ delay: 0.5 }}
+                style={{
+                    marginTop: '14px',
+                    fontFamily: "'Inter', sans-serif",
+                    fontSize: '0.75rem',
+                    color: '#FFED8A',
+                    letterSpacing: '0.1em',
+                }}
+            >
+                Tap outside to close
+            </motion.p>
+        </motion.div>,
+        document.body
     );
 }
 
@@ -125,7 +259,7 @@ export default function HeroSection({ onRevealDoneCallback }) {
                     justifyContent: 'center',
                 }}
             >
-                <MagicalButton variant="primary" onClick={() => setModal('register')}>
+                <MagicalButton variant="primary" onClick={() => window.open('https://forms.gle/FYUhkw4VfyWUUaTd7', '_blank')}>
                     ✨ Register Now
                 </MagicalButton>
                 <MagicalButton variant="secondary" onClick={() => navigate('/events')}>
@@ -164,7 +298,7 @@ export default function HeroSection({ onRevealDoneCallback }) {
                             <line x1="16" y1="17" x2="8" y2="17" />
                             <polyline points="10 9 9 9 8 9" />
                         </svg>
-                        Update Coming Soon
+                        View Brochure
                     </motion.button>
                 </div>
             </motion.div>
@@ -183,20 +317,12 @@ export default function HeroSection({ onRevealDoneCallback }) {
                 }}
             />
 
-            {/* ── Coming Soon Modals ── */}
+            {/* ── Modals ── */}
             <AnimatePresence>
-                {modal === 'register' && (
-                    <ComingSoonModal
-                        key="register-modal"
-                        title="Registration"
-                        onClose={() => setModal(null)}
-                    />
-                )}
 
                 {modal === 'brochure' && (
-                    <ComingSoonModal
+                    <BrochureModal
                         key="brochure-modal"
-                        title="Brochure"
                         onClose={() => setModal(null)}
                     />
                 )}
