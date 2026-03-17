@@ -258,6 +258,45 @@ export default function Events() {
                             </p>
                         </div>
                     </div>
+
+                    {/* Chairman and Secretary separate card */}
+                    {(currentDept?.chairman || currentDept?.secretary) && (
+                        <div
+                            style={{
+                                marginTop: '16px',
+                                padding: 'clamp(16px, 3vw, 24px)',
+                                borderRadius: '16px',
+                                backgroundColor: 'rgba(20, 18, 35, 0.6)',
+                                backdropFilter: 'blur(12px)',
+                                border: `1px solid ${currentDept?.color || '#FFD700'}30`,
+                                display: 'grid',
+                                gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
+                                gap: '20px',
+                                textAlign: 'center',
+                            }}
+                        >
+                            {currentDept.chairman && (
+                                <div>
+                                    <div style={{ fontSize: '0.75rem', color: 'rgba(240, 230, 200, 0.6)', textTransform: 'uppercase', letterSpacing: '0.1em', marginBottom: '6px', fontFamily: "'Inter', sans-serif" }}>
+                                        ✨ Chairman
+                                    </div>
+                                    <h3 className="font-cinzel" style={{ margin: 0, fontSize: 'clamp(1.1rem, 3vw, 1.5rem)', color: currentDept?.color || '#FFD700', fontWeight: 700, letterSpacing: '0.04em', textShadow: `0 0 15px ${currentDept?.color || '#FFD700'}66` }}>
+                                        {currentDept.chairman}
+                                    </h3>
+                                </div>
+                            )}
+                            {currentDept.secretary && (
+                                <div>
+                                    <div style={{ fontSize: '0.75rem', color: 'rgba(240, 230, 200, 0.6)', textTransform: 'uppercase', letterSpacing: '0.1em', marginBottom: '6px', fontFamily: "'Inter', sans-serif" }}>
+                                        ⭐ Secretary
+                                    </div>
+                                    <h3 className="font-cinzel" style={{ margin: 0, fontSize: 'clamp(1.1rem, 3vw, 1.5rem)', color: currentDept?.color || '#FFD700', fontWeight: 700, letterSpacing: '0.04em', textShadow: `0 0 15px ${currentDept?.color || '#FFD700'}66` }}>
+                                        {currentDept.secretary}
+                                    </h3>
+                                </div>
+                            )}
+                        </div>
+                    )}
                 </motion.div>
             </AnimatePresence>
 

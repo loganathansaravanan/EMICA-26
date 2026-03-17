@@ -104,7 +104,7 @@ export default function Navbar() {
                         }}
                     />
                     <span
-                        className="font-cinzel"
+                        className="font-cinzel hidden sm:block"
                         style={{
                             fontSize: 'clamp(0.95rem, 2.2vw, 1.25rem)',
                             fontWeight: 700,
