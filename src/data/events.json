@@ -27,11 +27,11 @@
                         "Plagiarism results in immediate disqualification",
                         "judges decision is final Winner"
                     ],
-                    "venue": "Main Block",
+                    "venue": "Techno Park - Computer Lab",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
                     },
                     "teamSize": "1-2 members",
                     "studentCoordinators": [
@@ -61,7 +61,7 @@
                     "category": "Technical",
                     "description": "Round 1 : MCQ :Round 1 will contain 25  quiz questions on web development and tools and frame work for web design .\n\nRound 2 : DEVELOPMENT Round 2 will be actual web design and development. (For example -  login page , or to-do list ) The best design will be shortlisted \n\nOptional : ( round -3 ) If there are more participants then round 3 will be conducted. The round 3 will include both design and working web page or a task . (For example: BMI Calculator , to - do list ).",
                     "rules": [
-                        "Team of 2 members",
+                        "Team of upto 2 members",
                         "Don't use ai for script or editing",
                         "3 rounds with increasing difficulty",
                         "Time-based scoring",
@@ -70,10 +70,10 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
                     },
-                    "teamSize": "2 - 4 Members",
+                    "teamSize": "2  Members",
                     "studentCoordinators": [
                         {
                             "name": "Ranjith kumar. P - III CSE",
@@ -112,7 +112,7 @@
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
+                        "start": "10:00 AM",
                         "end": "-"
                     },
                     "teamSize": "1–2 Members",
@@ -128,14 +128,19 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mr.V.Dheepan",
+                            "name": "Mrs. G. Mona Jacqueline",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 6380325151"
+                            "phone": "+91 9488389818"
                         },
                         {
-                            "name": "Mr.P.Loganathan",
+                            "name": "Mrs. S. Jenisha",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi. B",
                             "designation": "Assistant Professor, IT",
-                            "phone": "+91 8300163488"
+                            "phone": "+91 99444 81256"
                         }
                     ],
                     "tags": [
@@ -159,7 +164,7 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
+                        "start": "10:00 AM",
                         "end": "-"
                     },
                     "teamSize": "2–4 Members",
@@ -175,19 +180,14 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mrs Mona Jacqueline G",
+                            "name": "Mr.V.Dheepan",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9488389818"
+                            "phone": "+91 6380325151"
                         },
                         {
-                            "name": "Mrs Jenisha S",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9342154114"
-                        },
-                        {
-                            "name": "Mrs. Kavinmathi. B",
+                            "name": "Mr.P.Loganathan",
                             "designation": "Assistant Professor, IT",
-                            "phone": "+91 99444 81256"
+                            "phone": "+91 8300163488"
                         }
                     ],
                     "tags": [
@@ -208,8 +208,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "10:00 AM",
+                        "end": "12:00 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -250,8 +250,8 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
                     },
                     "teamSize": "2 - 4 Members",
                     "studentCoordinators": [
@@ -275,7 +275,9 @@
                         "Fun"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Varsha S",
+            "secretary": "Balakrishnan S"
         },
         {
             "id": "it",
@@ -295,7 +297,7 @@
                         "Judges' decision is final",
                         "Use of external tools is prohibited"
                     ],
-                    "venue": "Main Block",
+                    "venue": "Main Block (A-109)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
@@ -335,7 +337,7 @@
                         "Internet access during the contest",
                         "Plagiarism results in immediate disqualification"
                     ],
-                    "venue": "Main Block",
+                    "venue": "Techno Park - Computer Lab",
                     "date": "2026-03-28",
                     "time": {
                         "start": "11:00 AM",
@@ -375,7 +377,7 @@
                         "Points for speed and accuracy",
                         "Judges' decision is final"
                     ],
-                    "venue": "Main Block",
+                    "venue": "Main Block (Smart class)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 AM",
@@ -415,7 +417,7 @@
                         "Auctioneer's decision is final",
                         "No communication between teams during bidding"
                     ],
-                    "venue": "Main Block",
+                    "venue": "Main Block (A-113)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "12:00 PM",
@@ -478,14 +480,19 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mr.V.Dheepan",
+                            "name": "Mrs. G. Mona Jacqueline",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 6380325151"
+                            "phone": "+91 9488389818"
                         },
                         {
-                            "name": "Mr.P.Loganathan",
+                            "name": "Mrs. S. Jenisha",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi. B",
                             "designation": "Assistant Professor, IT",
-                            "phone": "+91 8300163488"
+                            "phone": "+91 99444 81256"
                         }
                     ],
                     "tags": [
@@ -529,19 +536,14 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mrs Mona Jacqueline G",
+                            "name": "Mr.V.Dheepan",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9488389818"
+                            "phone": "+91 6380325151"
                         },
                         {
-                            "name": "Mrs Jenisha S",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9342154114"
-                        },
-                        {
-                            "name": "Mrs. Kavinmathi. B",
+                            "name": "Mr.P.Loganathan",
                             "designation": "Assistant Professor, IT",
-                            "phone": "+91 99444 81256"
+                            "phone": "+91 8300163488"
                         }
                     ],
                     "tags": [
@@ -550,7 +552,9 @@
                         "Demo"
                     ]
                 }
-            ]
+            ],
+            "chairman": "",
+            "secretary": "Hariharan M"
         },
         {
             "id": "aids",
@@ -570,11 +574,11 @@
                         "No external resources permitted during the event",
                         "judges decision is final Winner"
                     ],
-                    "venue": "Main Block",
+                    "venue": "Techno Park - Computer Lab",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
@@ -589,7 +593,7 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mrs Mona Jacqueline G",
+                            "name": "Mrs. G. Mona Jacqueline",
                             "designation": "Assistant Professor, AI&DS",
                             "phone": "+91 9488389818"
                         }
@@ -614,23 +618,23 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "11:00 AM",
+                        "end": "1:00 PM"
                     },
                     "teamSize": "Individual",
                     "studentCoordinators": [
                         {
-                            "name": "Samson Joel R - III AIDS",
+                            "name": "Samson Joel R - III AI&DS",
                             "phone": "+91 8122748830"
                         },
                         {
-                            "name": "Karishma - III AIDS",
+                            "name": "Karishma - III AI&DS",
                             "phone": "+91 6374138885"
                         }
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mrs Jenisha S",
+                            "name": "Mrs. S. Jenisha",
                             "designation": "Assistant Professor, AI&DS",
                             "phone": "+91 9342154114"
                         }
@@ -672,14 +676,19 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mr.V.Dheepan",
+                            "name": "Mrs. G. Mona Jacqueline",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 6380325151"
+                            "phone": "+91 9488389818"
                         },
                         {
-                            "name": "Mr.P.Loganathan",
+                            "name": "Mrs. S. Jenisha",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi. B",
                             "designation": "Assistant Professor, IT",
-                            "phone": "+91 8300163488"
+                            "phone": "+91 99444 81256"
                         }
                     ],
                     "tags": [
@@ -719,19 +728,14 @@
                     ],
                     "staffCoordinator": [
                         {
-                            "name": "Mrs Mona Jacqueline G",
+                            "name": "Mr.V.Dheepan",
                             "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9488389818"
+                            "phone": "+91 6380325151"
                         },
                         {
-                            "name": "Mrs Jenisha S",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9342154114"
-                        },
-                        {
-                            "name": "Mrs. Kavinmathi. B",
+                            "name": "Mr.P.Loganathan",
                             "designation": "Assistant Professor, IT",
-                            "phone": "+91 99444 81256"
+                            "phone": "+91 8300163488"
                         }
                     ],
                     "tags": [
@@ -752,22 +756,22 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Rathika S -III AIDS",
+                            "name": "Rathika S -III AI&DS",
                             "phone": "+91 8754049475"
                         },
                         {
-                            "name": "Sakthi Mani M -III AIDS",
+                            "name": "Sakthi Mani M -III AI&DS",
                             "phone": "+91 9843509731"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs Mona Jacqueline G",
+                        "name": "Mrs. G. Mona Jacqueline",
                         "designation": "Assistant Professor, AI&DS",
                         "phone": "+91 9488389818"
                     },
@@ -790,17 +794,17 @@
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "10:00 AM",
+                        "end": "12:00 PM"
                     },
                     "teamSize": "4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Gowtham G -III AIDS",
+                            "name": "Gowtham G -III AI&DS",
                             "phone": "+91 7339172197"
                         },
                         {
-                            "name": "Vaishnavi P -III AIDS",
+                            "name": "Vaishnavi P -III AI&DS",
                             "phone": "+91 8122079747"
                         }
                     ],
@@ -815,7 +819,9 @@
                         "Entertainment"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Vidhya Sri S S",
+            "secretary": "Balakrishnan R"
         },
         {
             "id": "eee",
@@ -834,7 +840,7 @@
                         "only one round",
                         "Judges' decision is final"
                     ],
-                    "venue": "EEE Block",
+                    "venue": "EEE Block (D-103)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
@@ -872,7 +878,7 @@
                         "No mobile phones allowed",
                         "Judges' decision is final"
                     ],
-                    "venue": "EEE Block",
+                    "venue": "EEE Block (D-101)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "11:00 AM",
@@ -986,7 +992,7 @@
                         "Time limit: 1 min to draw and 1 min to guess",
                         "No speaking, lip-syncing, or pointing at objects"
                     ],
-                    "venue": "EEE Block",
+                    "venue": "EEE Block (D-102)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "12:00 PM",
@@ -1023,7 +1029,7 @@
                         "30 seconds per clue",
                         "Knockout format"
                     ],
-                    "venue": "EEE Block",
+                    "venue": "EEE Block (D-103)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "2:00 PM",
@@ -1049,7 +1055,9 @@
                         "Fun"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Madhan",
+            "secretary": "Hariharan"
         },
         {
             "id": "ice",
@@ -1286,7 +1294,9 @@
                         "Fun"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Senthilnathan G",
+            "secretary": "Sakkthivelan S"
         },
         {
             "id": "ece",
@@ -1355,7 +1365,7 @@
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
-                        "end": "-"
+                        "end": "11:00 AM"
                     },
                     "teamSize": "1 - 3 Members",
                     "studentCoordinators": [
@@ -1405,8 +1415,8 @@
                             "phone": "+91 6380249693"
                         },
                         {
-                            "name": "RENUKA– IV ECE",
-                            "phone": "96000 36892"
+                            "name": "Ramesh. S- IV ECE",
+                            "phone": "+91 9750185980"
                         }
                     ],
                     "staffCoordinator": {
@@ -1442,11 +1452,11 @@
                     "studentCoordinators": [
                         {
                             "name": "MERCY GAYATHRI. I - III Ece",
-                            "phone": "7305066643"
+                            "phone": "+91 7305066643"
                         },
                         {
-                            "name": "Venkatesh - IV ECE",
-                            "phone": "8148066616"
+                            "name": "Madhanswaran. M - IV ECE",
+                            "phone": "+91 8148790059"
                         }
                     ],
                     "staffCoordinator": {
@@ -1464,37 +1474,48 @@
                     "id": "ece-nt1",
                     "name": "Chess & Carrom",
                     "category": "Non-Technical",
-                    "description": "Format: Individual event | Knockout format \nTime Limit: 10+5 minutes per player \nRules: Games will follow official rules of FIDE\nTouch-Move Rule: If a player touches a piece, it must be moved\nWinning: Checkmate, opponent resignation, or time over\nDecision: Referee/Organizers decision will be final",
+                    "description": "CHESS\nProve your tactical brilliance in this individual knockout tournament! The games strictly follow the official FIDE rules, including the touch-move rule. Compete in a fast-paced 10+5 minute time-controlled format where victory is claimed by checkmate, opponent resignation, or time out. Will you claim the board?\n\nCARROM\nPartner up for this thrilling black & white coin doubles tournament! Compete in a knockout format until one team successfully pockets all their coins along with the Queen. There are no time limits—only pure skill. Bring your own striker, report slightly before your match, and battle it out for exciting cash prizes!",
                     "rules": [
-                        "Individual event | Knockout format",
+                        "CHESS",
+                        "Format: Individual event | Knockout format",
                         "Time Limit: 10+5 minutes per player",
-                        "Games will follow official rules of FIDE",
+                        "Rules: Games will follow official rules of FIDE",
                         "Touch-Move Rule: If a player touches a piece, it must be moved",
                         "Winning: Checkmate, opponent resignation, or time over",
-                        "Referee/Organizers decision will be final"
+                        "Decision: Referee/Organizers decision will be final",
+                        "CARROM",
+                        "Format: Doubles | Knockout",
+                        "Game Type: Black & White Coins",
+                        "Winning Rule: Team that pockets all coins along with the Queen first wins",
+                        "Striker: Players may use their own striker",
+                        "Time: No time limit",
+                        "Reporting: Teams must report 15 minutes before the match",
+                        "Venue & Time: Will be announced in the WhatsApp group",
+                        "Participation: Open to all branches, boys and girls",
+                        "Prizes: Cash Prize for Winner & Runner-up | Participation Certificates for all"
                     ],
                     "venue": "Main Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
                     },
-                    "teamSize": "Individual",
+                    "teamSize": "2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "HARSHAN M– III ECE",
-                            "phone": "+91 8428209549"
-                        },
-                        {
-                            "name": "SURYA K - III ECE",
-                            "phone": "+91 9360653402"
-                        },
-                        {
-                            "name": "DAMIEN JERISH A – IV ECE",
+                            "name": "DAMIEN JERISH A – IV ECE (Chess)",
                             "phone": "+91 8610159795"
                         },
                         {
-                            "name": "Madhavan – IV ECE",
+                            "name": "HARSHAN M– III ECE (Chess)",
+                            "phone": "+91 8428209549"
+                        },
+                        {
+                            "name": "SURYA K - III ECE (Carrom)",
+                            "phone": "+91 9360653402"
+                        },
+                        {
+                            "name": "Madhavan – IV ECE (Carrom)",
                             "phone": "+91 8220263670"
                         }
                     ],
@@ -1530,15 +1551,15 @@
                         "start": "11:00 AM",
                         "end": "12:00 PM"
                     },
-                    "teamSize": "5 Members",
+                    "teamSize": "2 Members",
                     "studentCoordinators": [
                         {
                             "name": "AKAASH P– III ECE",
                             "phone": "+91 9787619447"
                         },
                         {
-                            "name": "Madhesh – IV ECE",
-                            "phone": "+91 8148790059"
+                            "name": "Chandrakkha – IV ECE",
+                            "phone": "+91 8667225692"
                         }
                     ],
                     "staffCoordinator": {
@@ -1552,7 +1573,9 @@
                         "Valorant"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Venkatesh V",
+            "secretary": "Sureka V"
         },
         {
             "id": "mech",
@@ -1772,7 +1795,9 @@
                         "Fun"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Nandhakumar",
+            "secretary": "Raguraman"
         },
         {
             "id": "auto",
@@ -1987,7 +2012,9 @@
                         "Fun"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Arulvendhan A",
+            "secretary": "Mukeshkannan R"
         },
         {
             "id": "civil",
@@ -1998,7 +2025,7 @@
             "events": [
                 {
                     "id": "civil-t1",
-                    "name": "Idea Ignite (Paper Presentation)",
+                    "name": "TECHTALK ARENA (Paper Presentation)",
                     "category": "Technical",
                     "description": "Participants prepare and present an innovative topic related to civil engineering using presentation slides. The presentation will be evaluated based on clarity of content, creativity, technical knowledge, and presentation skills. The most informative and well-presented idea wins.",
                     "rules": [
@@ -2010,7 +2037,7 @@
                     "venue": "Civil Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
+                        "start": "10:00 AM",
                         "end": "-"
                     },
                     "teamSize": "1-2 Members",
@@ -2037,7 +2064,7 @@
                 },
                 {
                     "id": "civil-t2",
-                    "name": "Future Builders Expo (Project Presentation)",
+                    "name": "INVENTRA (Project Presentation)",
                     "category": "Technical",
                     "description": "Participants showcase working models or innovative projects related to construction technology, structural design, sustainable materials, or infrastructure development. They must explain the concept, working principle, and real-world application. The most practical, innovative, and well-explained project wins.",
                     "rules": [
@@ -2049,7 +2076,7 @@
                     "venue": "Civil Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
+                        "start": "10:00 AM",
                         "end": "-"
                     },
                     "teamSize": "1-2 Members",
@@ -2088,8 +2115,8 @@
                     "venue": "Civil Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
@@ -2117,18 +2144,21 @@
                     "id": "civil-t4",
                     "name": "Draft Risk – CAD Modelling",
                     "category": "Technical",
-                    "description": "Participants use CAD software to create technical drawings or 3D models based on a given problem or design requirement. The designs will be judged on accuracy, creativity, detailing, and technical presentation. The most precise and innovative design wins.",
+                    "description": "Participants will be given a 2D building plan with specifications. Based on the given plan, participants must create the Plan, Elevation, and Section using AutoCAD. The drafting must be completed within a one-hour time limit. The designs will be judged on accuracy, creativity, detailing, and technical presentation. The most precise and well-presented drawing wins.",
                     "rules": [
                         "Individual or team participation",
-                        "CAD software will be used",
+                        "A 2D plan with specifications will be provided",
+                        "Participants must draft the Plan, Elevation, and Section using AutoCAD",
+                        "Only 2D drafting will be conducted",
+                        "Time limit: 1 hour",
                         "Designs judged on accuracy, creativity, detailing, and technical presentation",
                         "Judges' decision is final"
                     ],
                     "venue": "Civil Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
                     },
                     "teamSize": "Individual/Team",
                     "studentCoordinators": [
@@ -2158,6 +2188,7 @@
                     "category": "Non-Technical",
                     "description": "Participants must complete fun challenges within one minute. Each task tests speed, balance, and coordination. Challenges include: Cookie Crawl, Cup Tower Challenge, Emoji Acting Challenge, Water Bottle Flip, Rubber Band Shoot, Biscuit Tower, Chair Zigzag Race, and Straw Pyramid. Participants who complete the challenge successfully within the time limit win.",
                     "rules": [
+                        "Round 1 and round 2 will be conducted based on increasing  difficulty levels",
                         "Each challenge must be completed within one minute",
                         "Challenges test speed, balance, and coordination",
                         "Participants who complete the challenge within the time limit win",
@@ -2166,8 +2197,8 @@
                     "venue": "Civil Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
                     },
                     "teamSize": "Individual/Team",
                     "studentCoordinators": [
@@ -2201,6 +2232,7 @@
                     "category": "Non-Technical",
                     "description": "Participants are given random useless objects such as an empty bottle, ice cream sticks, or a piece of paper. They must creatively market the object as a useful or innovative product within a short time. The pitch will be judged based on creativity, confidence, humor, and marketing skills. The most convincing and entertaining marketing presentation wins.",
                     "rules": [
+                        "Round 1 and round 2 will be conducted based on increasing difficulty levels",
                         "Random objects will be provided",
                         "Must creatively market the object as a useful product",
                         "Judged on creativity, confidence, humor, and marketing skills",
@@ -2209,8 +2241,8 @@
                     "venue": "Civil Block",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "-",
-                        "end": "-"
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
                     },
                     "teamSize": "2-3 Members",
                     "studentCoordinators": [
@@ -2238,7 +2270,9 @@
                         "Fun"
                     ]
                 }
-            ]
+            ],
+            "chairman": "Subramanian S",
+            "secretary": "Mahisha M"
         }
     ],
     "schedule": {

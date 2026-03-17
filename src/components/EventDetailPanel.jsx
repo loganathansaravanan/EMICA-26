@@ -134,18 +134,52 @@ export default function EventDetailPanel({ event, onClose }) {
                         </h2>
 
                         {/* Description */}
-                        <p
-                            className="font-inter"
-                            style={{
-                                fontSize: 'clamp(0.88rem, 1.6vw, 1rem)',
-                                color: 'rgba(240, 230, 200, 0.72)',
-                                lineHeight: 1.8,
-                                margin: '0 0 32px',
-                                whiteSpace: 'pre-wrap',
-                            }}
-                        >
-                            {event.description}
-                        </p>
+                        <div style={{ margin: '0 0 32px' }}>
+                            {event.description && event.description.split('\n').map((line, i) => {
+                                const trimmedLine = line.trim();
+                                if (!trimmedLine) return <div key={i} style={{ height: '8px' }} />;
+                                
+                                const isHeader = trimmedLine === "CHESS" || trimmedLine === "CARROM";
+                                
+                                if (isHeader) {
+                                    return (
+                                        <div
+                                            key={i}
+                                            className="font-cinzel"
+                                            style={{
+                                                fontSize: 'clamp(1rem, 2vw, 1.2rem)',
+                                                color: '#FFD700',
+                                                fontWeight: 700,
+                                                marginTop: i > 0 ? '20px' : '0',
+                                                marginBottom: '8px',
+                                                letterSpacing: '0.06em',
+                                                borderBottom: '1px solid rgba(255, 215, 0, 0.2)',
+                                                paddingBottom: '6px',
+                                                textShadow: '0 0 10px rgba(255, 215, 0, 0.3)'
+                                            }}
+                                        >
+                                            {trimmedLine}
+                                        </div>
+                                    );
+                                }
+
+                                return (
+                                    <p
+                                        key={i}
+                                        className="font-inter"
+                                        style={{
+                                            fontSize: 'clamp(0.88rem, 1.6vw, 1rem)',
+                                            color: 'rgba(240, 230, 200, 0.72)',
+                                            lineHeight: 1.8,
+                                            margin: 0,
+                                            whiteSpace: 'pre-wrap',
+                                        }}
+                                    >
+                                        {line}
+                                    </p>
+                                );
+                            })}
+                        </div>
 
                         {/* Tags */}
                         {event.tags && event.tags.length > 0 && (
@@ -223,32 +257,58 @@ export default function EventDetailPanel({ event, onClose }) {
                                     gap: '10px',
                                 }}
                             >
-                                {event.rules.map((rule, i) => (
-                                    <li
-                                        key={i}
-                                        className="font-inter"
-                                        style={{
-                                            fontSize: 'clamp(0.8rem, 1.4vw, 0.9rem)',
-                                            color: 'rgba(240, 230, 200, 0.65)',
-                                            paddingLeft: '20px',
-                                            position: 'relative',
-                                            lineHeight: 1.6,
-                                        }}
-                                    >
-                                        <span
+                                {event.rules.map((rule, i) => {
+                                    const isHeader = rule === "CHESS" || rule === "CARROM";
+                                    
+                                    if (isHeader) {
+                                        return (
+                                            <div
+                                                key={i}
+                                                className="font-cinzel"
+                                                style={{
+                                                    fontSize: 'clamp(1rem, 2vw, 1.2rem)',
+                                                    color: '#FFD700',
+                                                    fontWeight: 700,
+                                                    marginTop: i > 0 ? '20px' : '0',
+                                                    marginBottom: '4px',
+                                                    letterSpacing: '0.06em',
+                                                    borderBottom: '1px solid rgba(255, 215, 0, 0.2)',
+                                                    paddingBottom: '6px',
+                                                    textShadow: '0 0 10px rgba(255, 215, 0, 0.3)'
+                                                }}
+                                            >
+                                                {rule}
+                                            </div>
+                                        );
+                                    }
+
+                                    return (
+                                        <li
+                                            key={i}
+                                            className="font-inter"
                                             style={{
-                                                position: 'absolute',
-                                                left: 0,
-                                                top: '4px',
-                                                color: '#FFD70088',
-                                                fontSize: '0.5rem',
+                                                fontSize: 'clamp(0.8rem, 1.4vw, 0.9rem)',
+                                                color: 'rgba(240, 230, 200, 0.65)',
+                                                paddingLeft: '20px',
+                                                position: 'relative',
+                                                lineHeight: 1.6,
                                             }}
                                         >
-                                            ✦
-                                        </span>
-                                        {rule}
-                                    </li>
-                                ))}
+                                            <span
+                                                style={{
+                                                    position: 'absolute',
+                                                    left: 0,
+                                                    top: '4px',
+                                                    color: '#FFD70088',
+                                                    fontSize: '0.5rem',
+                                                }}
+                                            >
+                                                ✦
+                                            </span>
+                                            {rule}
+                                        </li>
+                                    );
+                                })}
                             </ul>
                         </SectionBlock>
 
