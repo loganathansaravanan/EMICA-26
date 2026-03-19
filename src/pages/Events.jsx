@@ -327,7 +327,7 @@ export default function Events() {
                 >
                     {[
                         { icon: '📝', label: 'Registration', value: eventsData.schedule.registrationDesk.opens },
-                        { icon: '🎤', label: 'Inauguration', value: eventsData.schedule.inauguration.time },
+                        { icon: '🚩', label: 'Flag Hoisting', value: eventsData.schedule.FlagHoisting.time },
                         { icon: '🍽️', label: 'Lunch Break', value: eventsData.schedule.lunchBreak.time },
                         { icon: '🏆', label: 'Valedictory', value: eventsData.schedule.valedictory.time },
                     ].map((item) => (
