@@ -8,822 +8,6 @@
     },
     "departments": [
         {
-            "id": "cse",
-            "name": "CSE",
-            "fullName": "Computer Science & Engineering",
-            "icon": "💻",
-            "color": "#00d4ff",
-            "events": [
-                {
-                    "id": "cse-t1",
-                    "name": "Algowar (Code War)",
-                    "category": "Technical",
-                    "description": "The Code Battle contest consists of three rounds: MCQ, Coding Challenge, and Rapid Fire Coding, designed to test participants’ programming knowledge and problem-solving abilities.\n\nThe first round is an MCQ quiz containing questions from Java and Python programming, data structures, and basic algorithms, covering fundamental programming concepts, syntax, and output analysis.\n\nThe second round is a coding challenge with problems similar to those on the LeetCode platform, focusing on array and string-based problems with varying difficulty levels.\n\nThe final round is a rapid fire coding round where participants must quickly solve simple programming problems within a limited time. This round evaluates speed, accuracy, and logical thinking in coding",
-                    "rules": [
-                        "Team of 1–2 members",
-                        "Languages allowed: C, C++, Java, Python",
-                        "3 rounds with elimination after each",
-                        "No internet access during the contest",
-                        "Plagiarism results in immediate disqualification",
-                        "judges decision is final Winner"
-                    ],
-                    "venue": "Techno Park - Computer Lab",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "11:00 AM",
-                        "end": "12:00 PM"
-                    },
-                    "teamSize": "1-2 members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Aakash. K - III CSE",
-                            "phone": "+91 93441 75382"
-                        },
-                        {
-                            "name": "Jayasri.A - III CSE",
-                            "phone": "+91 74183 54882"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr. Loganathan. P",
-                        "designation": "Assistant Professor, IT",
-                        "phone": "+91 8838581170"
-                    },
-                    "tags": [
-                        "Coding",
-                        "DSA",
-                        "Competitive Programming"
-                    ]
-                },
-                {
-                    "id": "cse-t2",
-                    "name": "Web development Event",
-                    "category": "Technical",
-                    "description": "Round 1 : MCQ :Round 1 will contain 25  quiz questions on web development and tools and frame work for web design .\n\nRound 2 : DEVELOPMENT Round 2 will be actual web design and development. (For example -  login page , or to-do list ) The best design will be shortlisted \n\nOptional : ( round -3 ) If there are more participants then round 3 will be conducted. The round 3 will include both design and working web page or a task . (For example: BMI Calculator , to - do list ).",
-                    "rules": [
-                        "Team of upto 2 members",
-                        "Don't use ai for script or editing",
-                        "3 rounds with increasing difficulty",
-                        "Time-based scoring",
-                        "Judges decision is final"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
-                    },
-                    "teamSize": "2  Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Ranjith kumar. P - III CSE",
-                            "phone": "+91 88389 00846"
-                        },
-                        {
-                            "name": "Swetha Lakshmi. S - III CSE",
-                            "phone": "+91 81240 74540"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mrs. Kavinmathi. B",
-                            "designation": "Assistant Professor, IT",
-                            "phone": "+91 99444 81256"
-                        }
-                    ],
-                    "tags": [
-                        "Debugging",
-                        "Coding",
-                        "Logic"
-                    ]
-                },
-                {
-                    "id": "cse-t3",
-                    "name": "TECHTALK ARENA (paper presentation)",
-                    "category": "Technical",
-                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
-                    "rules": [
-                        "Team of 1–2 members",
-                        "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
-                        "Abstract submission required before event day",
-                        "Presentation: 8 minutes + 2 minutes Q&A",
-                        "PPT with maximum 15 slides"
-                    ],
-                    "venue": "Techno park seminar hall",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "1–2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "S.Lakshanth - III CSE",
-                            "phone": "+91 74186 45163"
-                        },
-                        {
-                            "name": "E.Saravanakumar - III CSE",
-                            "phone": "+91 73391 08896"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mrs. G. Mona Jacqueline",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9488389818"
-                        },
-                        {
-                            "name": "Mrs. S. Jenisha",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9342154114"
-                        },
-                        {
-                            "name": "Mrs. Kavinmathi. B",
-                            "designation": "Assistant Professor, IT",
-                            "phone": "+91 99444 81256"
-                        }
-                    ],
-                    "tags": [
-                        "Research",
-                        "Presentation",
-                        "Innovation"
-                    ]
-                },
-                {
-                    "id": "cse-t4",
-                    "name": "INVENTRA(project expo)",
-                    "category": "Technical",
-                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
-                    "rules": [
-                        "Team of 2–4 members",
-                        "Must have a working demo or prototype",
-                        "Project report must be submitted beforehand",
-                        "Presentation: 10 minutes + 3 minutes Q&A",
-                        "Judging based on innovation, feasibility, and execution"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "2–4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "S.Lakshanth - III CSE",
-                            "phone": "+91 74186 45163"
-                        },
-                        {
-                            "name": "E.Saravanakumar - III CSE",
-                            "phone": "+91 99949 99662"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mr.V.Dheepan",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 6380325151"
-                        },
-                        {
-                            "name": "Mr.P.Loganathan",
-                            "designation": "Assistant Professor, IT",
-                            "phone": "+91 8300163488"
-                        }
-                    ],
-                    "tags": [
-                        "Project",
-                        "Innovation",
-                        "Demo"
-                    ]
-                },
-                {
-                    "id": "cse-nt1",
-                    "name": "Connection",
-                    "category": "Non-Technical",
-                    "description": "Connection Game is a fun non-technical event that tests participants’ thinking ability, observation skills, and teamwork. Teams must find the common connection between given words, pictures, or clues within the given time. The event consists of three rounds with increasing difficulty.",
-                    "rules": [
-                        "Team of 2 - 4 members",
-                        "judges decision is final Winner"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "12:00 PM"
-                    },
-                    "teamSize": "2 - 4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "VaitheesWaran.M - III CSE",
-                            "phone": "+91 73055 18959"
-                        },
-                        {
-                            "name": "Shanmathy. A - III CSE",
-                            "phone": "+91 9361356009"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mrs. B. Kavinmathi",
-                        "designation": "Assistant Professor, IT",
-                        "phone": "+91 99444 81256"
-                    },
-                    "tags": [
-                        "Cricket",
-                        "Strategy",
-                        "Fun"
-                    ]
-                },
-                {
-                    "id": "cse-nt2",
-                    "name": "Brand It Now!!",
-                    "category": "Non-Technical",
-                    "description": " Brand It Now is a fun and fast-paced event where participants create creative advertisements for the given product on the spot. Using imagination, humor, and confidence, contestants turn simple or unusual products into entertaining and convincing ads. Get ready for quick thinking, creativity, and lots of fun!",
-                    "rules": [
-                        "Participants can take part individually or in teams of 2 to 4 members.",
-                        "Basic props will be provided if required for the performance.",
-                        "Preparation time will be provided before the presentation.",
-                        "Participants must present their advertisement creatively and professionally.",
-                        "Preparation time : 5 - 6 mins",
-                        "Presentation time : 1 - 2 mins",
-                        "The judges’ decision will be final and binding"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:00 PM"
-                    },
-                    "teamSize": "2 - 4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Hariraj.R - III CSE",
-                            "phone": "+91 93455 05218"
-                        },
-                        {
-                            "name": "Dhivyanavamathi. M - III CSE",
-                            "phone": "+91 78451 24252"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mrs. Jenisha. S",
-                        "designation": "Assistant Professor, CSE",
-                        "phone": "+91 93421 54114"
-                    },
-                    "tags": [
-                        "Memes",
-                        "Creative",
-                        "Fun"
-                    ]
-                }
-            ],
-            "chairman": "Varsha S",
-            "secretary": "Balakrishnan S"
-        },
-        {
-            "id": "it",
-            "name": "IT",
-            "fullName": "Information Technology",
-            "icon": "🌐",
-            "color": "#a78bfa",
-            "events": [
-                {
-                    "id": "it-t1",
-                    "name": " Promptify X",
-                    "category": "Technical",
-                    "description": "About Prompt Engineering:\n\nPrompt engineering is the process of creating clear and effective instructions for AI to get accurate and useful results.Participants will be given a simple reference image and must recreate it by writing an effective AI prompt. This round tests their ability to observe visual details and convert them into clear instructions for AI generation.Rounds in the Event.\n\n Round 1:  First 5 mins refer the basics of prompt Engineering.Then 10 mins Q/A 10 questions.\n\n Round 2: Advance in promoting.See the picture and write the prompt for it,then the prompt is exact to that picture i.e the image contains all the elements as same in that picture",
-                    "rules": [
-                        "Individual participation only",
-                        "2 rounds: Basics, Creative Prompting, and Prompt Battle",
-                        "Judges' decision is final",
-                        "Use of external tools is prohibited"
-                    ],
-                    "venue": "Main Block (A-109)",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "11:00 AM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "Hariharan.M -III IT",
-                            "phone": "+91 8838960948"
-                        },
-                        {
-                            "name": "Nandita S -III IT",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mrs.B.Kavinmathi",
-                        "designation": "Assistant Professor, IT",
-                        "phone": "+91 9944481256"
-                    },
-                    "tags": [
-                        "AI",
-                        "GenAI",
-                        "NLP"
-                    ]
-                },
-                {
-                    "id": "it-t2",
-                    "name": "code X paradise",
-                    "category": "Technical",
-                    "description": "This is Code arena:\n\nRound-1: Reverse Coding – Event Description: \n\n Reverse Coding is a fun and challenging programming event where participants must identify the logic behind a given output. Instead of writing code from a problem statement, participants will be provided with the expected output, and they must write the correct program to produce that output. This round tests the participant’s logical thinking, coding skills, and problem-solving ability. The participant who successfully writes the correct code within the given time will score the highest.\n\nRound-2 : HackerRank Contest – Event Description: \n\n The HackerRank Contest is a competitive coding event where participants solve programming challenges within a limited time using the HackerRank platform. Participants must write efficient code to solve various problems related to algorithms, logic, and data structures. The contest evaluates coding accuracy, problem-solving skills, and time management. Participants are ranked based on the number of problems solved and the time taken to complete them.",
-                    "rules": [
-                        "Team of 2 members",
-                        "Languages allowed: Any language",
-                        "2 rounds with elimination after each",
-                        "Internet access during the contest",
-                        "Plagiarism results in immediate disqualification"
-                    ],
-                    "venue": "Techno Park - Computer Lab",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "11:00 AM",
-                        "end": "12:00 PM"
-                    },
-                    "teamSize": "2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Hariharan.m -III IT",
-                            "phone": "+91 8838960948"
-                        },
-                        {
-                            "name": "Sripriya.g -III IT",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr.V.Dheepan",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 6380325151"
-                    },
-                    "tags": [
-                        "Coding",
-                        "DSA",
-                        "Competitive Programming"
-                    ]
-                },
-                {
-                    "id": "it-nt1",
-                    "name": "Rhythm Rush",
-                    "category": "Non-Technical",
-                    "description": "~Start music game description : \n\nStart Music is a fun game where players identify Tamil cinema songs using small clues. The clues may be a BGM (background music), a line of lyrics, or a picture related to the song. Players listen or look at the clue and try to guess the correct song as quickly as possible.\n\nThe player who correctly identifies the song first earns points. This game tests players’ memory, listening skills, and knowledge of Tamil movie songs, making it exciting and entertaining for music lovers. \n\n•Round 1 – BGM Round:Players listen to a short background music (BGM) clip from a Tamil movie song and guess the correct song.\n\n•Round 2 – Picture Round:Players see a picture related to a song (such as a movie scene, actor, or object) and identify the song connected to it.\n\n•Round 3 – Missing Lyrics Round:Players are given a line from a song with missing words and must fill in the correct lyrics",
-                    "rules": [
-                        "Team of 2 members",
-                        "3 rounds: Melody, Rapid Fire, and Finals",
-                        "No use of phones or Shazam-like apps",
-                        "Points for speed and accuracy",
-                        "Judges' decision is final"
-                    ],
-                    "venue": "Main Block (Smart class)",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 AM",
-                        "end": "3:00 PM"
-                    },
-                    "teamSize": "2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Jijendran.A - III IT",
-                            "phone": "+91 7639857883"
-                        },
-                        {
-                            "name": "Muhamudha azeela",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mrs.S.Jenisha",
-                        "designation": "Associate Professor, IT",
-                        "phone": "+91 9342154114"
-                    },
-                    "tags": [
-                        "Music",
-                        "Entertainment",
-                        "Fun"
-                    ]
-                },
-                {
-                    "id": "it-nt2",
-                    "name": "IPL Auction",
-                    "category": "Non-Technical",
-                    "description": "This IPL Acution:\n\nThe event consists of three exciting rounds based on the Indian Premier League (IPL) to test participants’ cricket knowledge, observation skills, and strategic thinking.\n\nRound 1: IPL Quiz Participants answer questions related to IPL teams, players, records, and history. This round tests the cricket knowledge and quick thinking of the teams.\n\nRound 2: Historical moments of IPL Teams identify IPL players, team logos, stadiums, or memorable moments from pictures shown on the screen. This round checks visual recognition and cricket awareness.\n\nRound 3: IPL Auction Teams act as IPL franchise owners and use a virtual budget to bid for players and build their team. The winner is decided based on team balance, player selection, and budget management.Overall, the event is designed to be fun, interactive, and competitive, encouraging teamwork while celebrating the excitement of the Indian Premier League",
-                    "rules": [
-                        "Team of 3–4 members",
-                        "Each team gets a virtual budget of ₹80 Crores",
-                        "Minimum 11 players must be bought",
-                        "Auctioneer's decision is final",
-                        "No communication between teams during bidding"
-                    ],
-                    "venue": "Main Block (A-113)",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
-                    },
-                    "teamSize": "3–4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Vikas.R - III IT",
-                            "phone": "9361846485"
-                        },
-                        {
-                            "name": "Lathiga.TS - III IT",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr.P.Loganathan",
-                        "designation": "Assistant Professor, IT",
-                        "phone": "+91 8300163488"
-                    },
-                    "tags": [
-                        "Cricket",
-                        "Strategy",
-                        "Fun"
-                    ]
-                },
-                {
-                    "id": "it-t3",
-                    "name": "TECHTALK ARENA (paper presentation)",
-                    "category": "Technical",
-                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
-                    "rules": [
-                        "Team of 1–2 members",
-                        "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
-                        "Abstract submission required before event day",
-                        "Presentation: 8 minutes + 2 minutes Q&A",
-                        "PPT with maximum 15 slides"
-                    ],
-                    "venue": "Techno park seminar hall",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "1–2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Lathiga T S III -IT",
-                            "phone": ""
-                        },
-                        {
-                            "name": "Gokul S G III -IT",
-                            "phone": "+91 9597583479"
-                        },
-                        {
-                            "name": "Vinoth K III -IT",
-                            "phone": "+91 8939605612"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mrs. G. Mona Jacqueline",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9488389818"
-                        },
-                        {
-                            "name": "Mrs. S. Jenisha",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9342154114"
-                        },
-                        {
-                            "name": "Mrs. Kavinmathi. B",
-                            "designation": "Assistant Professor, IT",
-                            "phone": "+91 99444 81256"
-                        }
-                    ],
-                    "tags": [
-                        "Research",
-                        "Presentation",
-                        "Innovation"
-                    ]
-                },
-                {
-                    "id": "it-t4",
-                    "name": "INVENTRA(project expo)",
-                    "category": "Technical",
-                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
-                    "rules": [
-                        "Team of 2–4 members",
-                        "Must have a working demo or prototype",
-                        "Project report must be submitted beforehand",
-                        "Presentation: 10 minutes + 3 minutes Q&A",
-                        "Judging based on innovation, feasibility, and execution"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "2–4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Lathiga T S III -IT",
-                            "phone": ""
-                        },
-                        {
-                            "name": "Gokul S G III -IT",
-                            "phone": "+91 9597583479"
-                        },
-                        {
-                            "name": "Vinoth K III -IT",
-                            "phone": "+91 8939605612"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mr.V.Dheepan",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 6380325151"
-                        },
-                        {
-                            "name": "Mr.P.Loganathan",
-                            "designation": "Assistant Professor, IT",
-                            "phone": "+91 8300163488"
-                        }
-                    ],
-                    "tags": [
-                        "Project",
-                        "Innovation",
-                        "Demo"
-                    ]
-                }
-            ],
-            "chairman": "",
-            "secretary": "Hariharan M"
-        },
-        {
-            "id": "aids",
-            "name": "AI&DS",
-            "fullName": "Artificial Intelligence & Data Science",
-            "icon": "🤖",
-            "color": "#34d399",
-            "events": [
-                {
-                    "id": "aids-t1",
-                    "name": "Bug buster",
-                    "category": "Technical",
-                    "description": "Debugging Challenge is a two-round Python and C programming event designed to test participants’ ability to identify, analyze, and fix errors in code. Participants must demonstrate logical thinking, problem-solving skills, and strong understanding of Programming concepts. The event challenges programmers to quickly debug faulty programs and produce correct outputs within the given time",
-                    "rules": [
-                        "Individual participation",
-                        "Participants must bring their own laptops",
-                        "No external resources permitted during the event",
-                        "judges decision is final Winner"
-                    ],
-                    "venue": "Techno Park - Computer Lab",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "11:00 AM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "Sureshkrishna G -III AI&DS",
-                            "phone": "+91 7904900115"
-                        },
-                        {
-                            "name": "Bhuvaneshwari N -III AI&DS",
-                            "phone": "+91 9150956912"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mrs. G. Mona Jacqueline",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9488389818"
-                        }
-                    ],
-                    "tags": [
-                        "AI",
-                        "Art",
-                        "GenAI"
-                    ]
-                },
-                {
-                    "id": "aids-t2",
-                    "name": "Technical quiz",
-                    "category": "Technical",
-                    "description": "The technical quiz test consist of  questions from Python programming, SQL databases, and Artificial Intelligence, covering concepts from basic to advanced levels.Participants will solve questions on Python syntax, SQL queries, and AI concepts, along with program and query output analysis",
-                    "rules": [
-                        "Individual participation",
-                        "Participants must bring their own laptops",
-                        "No external resources permitted during the event",
-                        "judges decision is final Winner"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "11:00 AM",
-                        "end": "1:00 PM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "Samson Joel R - III AI&DS",
-                            "phone": "+91 8122748830"
-                        },
-                        {
-                            "name": "Karishma - III AI&DS",
-                            "phone": "+91 6374138885"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mrs. S. Jenisha",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9342154114"
-                        }
-                    ],
-                    "tags": [
-                        "Data Science",
-                        "Analytics",
-                        "Python"
-                    ]
-                },
-                {
-                    "id": "aids-t3",
-                    "name": "TECHTALK ARENA (paper presentation)",
-                    "category": "Technical",
-                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
-                    "rules": [
-                        "Team of 1–2 members",
-                        "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
-                        "Abstract submission required before event day",
-                        "Presentation: 8 minutes + 2 minutes Q&A",
-                        "PPT with maximum 15 slides"
-                    ],
-                    "venue": "Techno park seminar hall",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "1–2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Vinoth K - III IT",
-                            "phone": "+91 8939605612"
-                        },
-                        {
-                            "name": "S.Lakshanth - III CSE",
-                            "phone": "+91 74186 45163"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mrs. G. Mona Jacqueline",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9488389818"
-                        },
-                        {
-                            "name": "Mrs. S. Jenisha",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 9342154114"
-                        },
-                        {
-                            "name": "Mrs. Kavinmathi. B",
-                            "designation": "Assistant Professor, IT",
-                            "phone": "+91 99444 81256"
-                        }
-                    ],
-                    "tags": [
-                        "Research",
-                        "Presentation",
-                        "Innovation"
-                    ]
-                },
-                {
-                    "id": "aids-t4",
-                    "name": "INVENTRA(project expo)",
-                    "category": "Technical",
-                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
-                    "rules": [
-                        "Team of 2–4 members",
-                        "Must have a working demo or prototype",
-                        "Project report must be submitted beforehand",
-                        "Presentation: 10 minutes + 3 minutes Q&A",
-                        "Judging based on innovation, feasibility, and execution"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "2–4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "S.Lakshanth - III CSE",
-                            "phone": "+91 74186 45163"
-                        },
-                        {
-                            "name": "E.Saravanakumar - III CSE",
-                            "phone": "+91 99949 99662"
-                        }
-                    ],
-                    "staffCoordinator": [
-                        {
-                            "name": "Mr.V.Dheepan",
-                            "designation": "Assistant Professor, AI&DS",
-                            "phone": "+91 6380325151"
-                        },
-                        {
-                            "name": "Mr.P.Loganathan",
-                            "designation": "Assistant Professor, IT",
-                            "phone": "+91 8300163488"
-                        }
-                    ],
-                    "tags": [
-                        "Project",
-                        "Innovation",
-                        "Demo"
-                    ]
-                },
-                {
-                    "id": "aids-nt1",
-                    "name": "Memory Challenge",
-                    "category": "Non-Technical",
-                    "description": "A fun non-technical event that tests participants’ memory, observation, and concentration through exciting challenges. Teams must quickly observe information and accurately recall patterns, sequences, and details to win",
-                    "rules": [
-                        "Team of 2 members",
-                        "judges decision is final Winner"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:00 PM"
-                    },
-                    "teamSize": "2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Rathika S -III AI&DS",
-                            "phone": "+91 8754049475"
-                        },
-                        {
-                            "name": "Sakthi Mani M -III AI&DS",
-                            "phone": "+91 9843509731"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mrs. G. Mona Jacqueline",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 9488389818"
-                    },
-                    "tags": [
-                        "Puzzle",
-                        "General Knowledge",
-                        "Fun"
-                    ]
-                },
-                {
-                    "id": "aids-nt2",
-                    "name": "Esports",
-                    "category": "Non-Technical",
-                    "description": "free fire tournament ,  PUBG tournamentGarena \n\n Free Fire Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches, earning points through eliminations and final placement. The team with the highest total points wins.\n\n PUBG: Battlegrounds / Battlegrounds Mobile India Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches and earn points through eliminations and final placement. The team with the highest total points will be declared the winner.",
-                    "rules": [
-                        "   Team of 4 members",
-                        "Garena Free Fire Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches, earning points through eliminations and final placement. The team with the highest total points wins.",
-                        "PUBG: Battlegrounds / Battlegrounds Mobile India Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches and earn points through eliminations and final placement. The team with the highest total points will be declared the winner."
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "12:00 PM"
-                    },
-                    "teamSize": "4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Gowtham G -III AI&DS",
-                            "phone": "+91 7339172197"
-                        },
-                        {
-                            "name": "Vaishnavi P -III AI&DS",
-                            "phone": "+91 8122079747"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr. Dheepan v",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 6380325151"
-                    },
-                    "tags": [
-                        "Acting",
-                        "Fun",
-                        "Entertainment"
-                    ]
-                }
-            ],
-            "chairman": "Vidhya Sri S S",
-            "secretary": "Balakrishnan R"
-        },
-        {
             "id": "eee",
             "name": "EEE",
             "fullName": "Electrical & Electronics Engineering",
@@ -834,11 +18,13 @@
                     "id": "eee-t1",
                     "name": "Electro Hunt",
                     "category": "Technical",
-                    "description": "A clue-based answer hunt related to Electrical and Electronics.",
+                    "description": "Electro Hunt is a technical clue-based event focused on electrical and electronics concepts. Participants must solve clues and progress through stages within a time limit. It tests subject knowledge, logical thinking, and speed. Each clue leads to the next challenge, making it engaging and competitive. Accuracy and quick responses are essential to win.",
                     "rules": [
-                        "Team of 2 members",
-                        "only one round",
-                        "Judges' decision is final"
+                        "Team size: 2 members",
+                        "Only one round will be conducted",
+                        "No external help or devices allowed",
+                        "Participants must follow the given clues sequentially",
+                        "Judges’ decision will be final"
                     ],
                     "venue": "EEE Block (D-103)",
                     "date": "2026-03-28",
@@ -858,7 +44,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs.M. Balasuriya",
+                        "name": "Mrs.Balasuriya.M",
                         "designation": "Assistant Professor, EEE",
                         "phone": "+91 6374280845"
                     },
@@ -872,11 +58,13 @@
                     "id": "eee-t2",
                     "name": "Circuit Crafting",
                     "category": "Technical",
-                    "description": "A hands-on circuit building challenge where teams race against time to construct and test basic electrical circuits using provided components.",
+                    "description": "Circuit Crafting is a hands-on technical event where participants build electrical circuits within a limited time. Teams will be given components and a problem statement to design and test a functional circuit. It evaluates practical knowledge, accuracy, and time management. Participants must ensure proper connections and working output. The event emphasizes real-time problem-solving skills.",
                     "rules": [
-                        "Team of 2 - 4 members",
-                        "No mobile phones allowed",
-                        "Judges' decision is final"
+                        "Team size: 2–4 members",
+                        "No mobile phones or external help allowed",
+                        "Components will be provided at the venue",
+                        "Circuit must be completed within the given time",
+                        "Judges’ decision will be final"
                     ],
                     "venue": "EEE Block (D-101)",
                     "date": "2026-03-28",
@@ -910,11 +98,13 @@
                     "id": "eee-t3",
                     "name": "TECHTALK ARENA (paper presentation)",
                     "category": "Technical",
-                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
+                    "description": "TechTalk Arena is a platform for presenting innovative ideas and research in emerging technologies. Participants will deliver a structured presentation on topics related to EEE such as power systems, renewable energy, or electric vehicles. The event evaluates technical knowledge, presentation skills, and clarity. Participants should effectively communicate their ideas to judges. Confidence and originality play a key role",
                     "rules": [
-                        "Team of 2 – 4 members",
-                        "Topics: Power Systems, Renewable Energy, Smart Grid, Electric Vehicles or relavent to EEE.",
-                        "Presentation: 5 - 8 minutes + 2 minutes Q&A"
+                        "Team size: 1–2 members",
+                        "Topics must be related to EEE domain",
+                        "Presentation time: 5–8 minutes + 2 minutes Q&A",
+                        "PPT is mandatory for presentation",
+                        "Judges’ decision will be final"
                     ],
                     "venue": "Techno park seminar hall",
                     "date": "2026-03-28",
@@ -934,7 +124,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs. HR. illakiah",
+                        "name": "Mrs.HR. Illakiah",
                         "designation": "Assistant Professor, EEE",
                         "phone": "+91 7010038872"
                     },
@@ -948,11 +138,12 @@
                     "id": "eee-t4",
                     "name": "INVENTRA(project expo)",
                     "category": "Technical",
-                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
+                    "description": "Inventra is a project exhibition where participants showcase innovative ideas through working models or prototypes. It focuses on solving real-world problems using electrical and electronics concepts. Teams must clearly explain the working, application, and technical aspects of their project. Creativity, feasibility, and presentation skills will be evaluated by judges. It is an opportunity to demonstrate both technical knowledge and innovation.",
                     "rules": [
-                        "Team of 2–4 members",
-                        "Working demo or prototype",
-                        "Judges decision is final"
+                        "Working model or prototype is mandatory",
+                        "Each team must explain their project clearly to judges",
+                        "Projects should be related to Electrical/Electronics or real-world applications",
+                        "Judges’ decision will be final"
                     ],
                     "venue": "EEE Block",
                     "date": "2026-03-28",
@@ -986,11 +177,13 @@
                     "id": "eee-nt1",
                     "name": "Brain and Chalk",
                     "category": "Non-Technical",
-                    "description": "A pick one paper from the box and draw it on the board. give time limit of 1 min to draw and 1 min to guess. otherwise other teams can oppurtunity to guess the picture. if the picture is guessed correctly then the team gets points.",
+                    "description": "Brain and Chalk is a creative drawing and guessing game. One participant draws a given word while teammates try to guess it within the time limit. It tests creativity, communication, and teamwork. The event is fast-paced and entertaining, requiring quick thinking and expression. Correct guesses earn points for the team.",
                     "rules": [
-                        "2-4 members participation",
-                        "Time limit: 1 min to draw and 1 min to guess",
-                        "No speaking, lip-syncing, or pointing at objects"
+                        "Team size: 2–4 members",
+                        "1 minute to draw and 1 minute to guess",
+                        "No speaking, lip-syncing, or gestures allowed",
+                        "Only drawing is permitted for communication",
+                        "Judges’ decision will be final"
                     ],
                     "venue": "EEE Block (D-102)",
                     "date": "2026-03-28",
@@ -1024,10 +217,14 @@
                     "id": "eee-nt2",
                     "name": "Beat the Clock 30",
                     "category": "Non-Technical",
-                    "description": "A clue-based answer hunt.",
+                    "description": "Beat the Clock 30 is a fun and fast-paced event consisting of multiple small tasks to be completed within a strict time limit. Each round challenges participants with different activities that test speed, coordination, and quick thinking. The team that successfully completes the maximum number of tasks within the given time will be declared the winner. It is designed to create an energetic and enjoyable experience for all participants.",
                     "rules": [
-                        "30 seconds per clue",
-                        "Knockout format"
+                        "Team size: 2–4 members",
+                        "Event consists of multiple short tasks",
+                        "Each task must be completed within the given time limit",
+                        "No use of mobile phones or external help",
+                        "Winner will be decided based on maximum tasks completed in time",
+                        "Judges’ decision will be final"
                     ],
                     "venue": "EEE Block (D-103)",
                     "date": "2026-03-28",
@@ -1058,245 +255,6 @@
             ],
             "chairman": "Madhan",
             "secretary": "Hariharan"
-        },
-        {
-            "id": "ice",
-            "name": "ICE",
-            "fullName": "Instrumentation & Control Engineering",
-            "icon": "🎛️",
-            "color": "#ec4899",
-            "events": [
-                {
-                    "id": "ice-t1",
-                    "name": "Quick start",
-                    "category": "Technical",
-                    "description": "Explain your startup idea.",
-                    "rules": [
-                        "Individual or team of 2 - 4 members",
-                        "PPT must for participants",
-                        "PPT explaination must be in 8 minutes",
-                        "Judges decision is final"
-                    ],
-                    "venue": "ICE Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "11:00 AM"
-                    },
-                    "teamSize": "2–4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Vidhyasagar J - III ICE",
-                            "phone": "+91 8248599521"
-                        },
-                        {
-                            "name": "Pandiselvam R - III ICE",
-                            "phone": "+91 8220650231"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mrs. A. Manjula",
-                        "designation": "Associate Professor, ICE",
-                        "phone": "+91 8681945446"
-                    },
-                    "tags": [
-                        "Startup",
-                        "Entrepreneurship",
-                        "Idea Presentation"
-                    ]
-                },
-                {
-                    "id": "ice-t2",
-                    "name": "Component Identification",
-                    "category": "Technical",
-                    "description": "Identify the components and their functions.",
-                    "rules": [
-                        "Individual participation",
-                        "component should be identified in 1 minute.",
-                        "Obsered componets should be written in paper",
-                        "2 rounds",
-                        "Judges decision is final"
-                    ],
-                    "venue": "ICE Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "11:00 AM",
-                        "end": "12:00 PM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "Mohamed sheik - III ICE",
-                            "phone": "+91 9092672972"
-                        },
-                        {
-                            "name": "Veerasamy - III ICE",
-                            "phone": "+91 9360298868"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr. D. Yuvaraj",
-                        "designation": "Assistant Professor, ICE",
-                        "phone": "+91 9500570308"
-                    },
-                    "tags": [
-                        "Identification",
-                        "Devices",
-                        "Electrical & Instrumentation"
-                    ]
-                },
-                {
-                    "id": "ice-t3",
-                    "name": "TECHTALK ARENA (paper presentation)",
-                    "category": "Technical",
-                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
-                    "rules": [
-                        "Team of 2–4 members",
-                        "Topics: IoT, Sensors, Automation, Robotics, Smart Systems",
-                        "Abstract submission required before event day",
-                        "Presentation: 8 minutes + 2 minutes Q&A"
-                    ],
-                    "venue": "Techno park seminar hall",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "2–4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Manoj C - III ICE",
-                            "phone": "+91 9809783170"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr. L.Sathish kumar",
-                        "designation": "Assistant Professor, ICE",
-                        "phone": "+91 9360253505"
-                    },
-                    "tags": [
-                        "Research",
-                        "Presentation",
-                        "Innovation"
-                    ]
-                },
-                {
-                    "id": "ice-t4",
-                    "name": "INVENTRA(project expo)",
-                    "category": "Technical",
-                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
-                    "rules": [
-                        "Team of 2–4 members",
-                        "Must have a working demo or prototype",
-                        "Project report must be submitted beforehand",
-                        "Presentation: 10 minutes + 3 minutes Q&A",
-                        "Judging based on innovation, feasibility, and execution"
-                    ],
-                    "venue": "ICE Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "2–4 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Senthilnathan - III ICE",
-                            "phone": "+91 9751008298"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr. D. Yuvaraj",
-                        "designation": "Assistant Professor, ICE",
-                        "phone": "+91 9500570308"
-                    },
-                    "tags": [
-                        "Project",
-                        "Innovation",
-                        "Demo"
-                    ]
-                },
-                {
-                    "id": "ice-nt1",
-                    "name": "Reels making",
-                    "category": "Non-Technical",
-                    "description": "Create a reel related to the given topics.",
-                    "rules": [
-                        "Team of 3–5 members",
-                        "Don't use AI for script or editing",
-                        "the reel will done by 45 mins",
-                        "reels must be 30 - 60 seconds"
-                    ],
-                    "venue": "ICE Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "12:00 PM",
-                        "end": "1:00 PM"
-                    },
-                    "teamSize": "3–5 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "Nishanth R - III ICE",
-                            "phone": "+91 9344987685"
-                        },
-                        {
-                            "name": "Sivaram SK - III ICE",
-                            "phone": "+91 8668143324"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mrs. S. Kanagavalli",
-                        "designation": "Assistant Professor, ICE",
-                        "phone": "+91 9025175215"
-                    },
-                    "tags": [
-                        "Reels",
-                        "Creative",
-                        "Fun"
-                    ]
-                },
-                {
-                    "id": "ice-nt2",
-                    "name": "Brand detection",
-                    "category": "Non-Technical",
-                    "description": "Identify the logo with in given time limits",
-                    "rules": [
-                        "Individual participation only",
-                        "2 rounds",
-                        "identify the logo with in given time limits and written in paper.",
-                        "judges decision is final"
-                    ],
-                    "venue": "ICE Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:00 PM"
-                    },
-                    "teamSize": "Individual",
-                    "studentCoordinators": [
-                        {
-                            "name": "Jegan Barath U - III ICE",
-                            "phone": "+91 8015305314"
-                        },
-                        {
-                            "name": "Kesavan M - III ICE",
-                            "phone": "+91 8807584019"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr. L. Sathish kumar",
-                        "designation": "Assistant Professor, ICE",
-                        "phone": "+91 9360253505"
-                    },
-                    "tags": [
-                        "Logo",
-                        "Game",
-                        "Fun"
-                    ]
-                }
-            ],
-            "chairman": "Senthilnathan G",
-            "secretary": "Sakkthivelan S"
         },
         {
             "id": "ece",
@@ -1333,11 +291,11 @@
                         },
                         {
                             "name": "Ealumalai – IV ECE",
-                            "phone": "+91 87542 65590"
+                            "phone": "+91 8754265590"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs. R.REKHA",
+                        "name": "Mrs.REKHA.R",
                         "designation": "Assistant Professor, ECE",
                         "phone": "+91 8778866539"
                     },
@@ -1375,11 +333,11 @@
                         },
                         {
                             "name": "Seshan – IV ECE",
-                            "phone": "+91 63836 81807"
+                            "phone": "+91 6383681807"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs. N.THIRISHA",
+                        "name": "Mrs.THIRISHA.N",
                         "designation": "Assistant Professor, ECE",
                         "phone": "+91 9489317646"
                     },
@@ -1420,9 +378,9 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs. G J PAULINE JOTHI ",
+                        "name": "Mrs.Pauline Jothi.G.J",
                         "designation": "Assistant Professor, ECE",
-                        "phone": "96005 78166"
+                        "phone": "9600578166"
                     },
                     "tags": [
                         "Research",
@@ -1455,14 +413,14 @@
                             "phone": "+91 7305066643"
                         },
                         {
-                            "name": "Madhanswaran. M - IV ECE",
-                            "phone": "+91 8148790059"
+                            "name": "Sanjai. S - IV ECE",
+                            "phone": "+91 8122177564"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr. D. CHIDHAMBARAM",
+                        "name": "Mr.Chidhambaram.D",
                         "designation": "Assistant Professor, ECE",
-                        "phone": "93445 03839"
+                        "phone": "9344503839"
                     },
                     "tags": [
                         "Project",
@@ -1520,7 +478,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "MS. SILVIA CELINE V",
+                        "name": "Ms.Silvia Celine.V",
                         "designation": "Assistant Professor, ECE",
                         "phone": ""
                     },
@@ -1558,12 +516,12 @@
                             "phone": "+91 9787619447"
                         },
                         {
-                            "name": "Chandrakkha – IV ECE",
-                            "phone": "+91 8667225692"
+                            "name": "Madhanswaran. M - IV ECE",
+                            "phone": "+91 8148790059"
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "MS. SILVIA CELINE V",
+                        "name": "Ms.Silvia Celine.V",
                         "designation": "Assistant Professor, ECE",
                         "phone": ""
                     },
@@ -1624,7 +582,7 @@
                     "category": "Technical",
                     "description": "Computer-Aided Design (CAD) is the use of computer software to create, modify, analyze, and optimize a design. It is widely used in engineering, architecture, product design, and manufacturing. (SOFTWARE: SOLID WORKS)",
                     "rules": [
-                        "Individual or Team",
+                        "Individual participation",
                         "Software: Solid Works only",
                         "Judges decision is final"
                     ],
@@ -1634,7 +592,7 @@
                         "start": "10:00 AM",
                         "end": "11:00 AM"
                     },
-                    "teamSize": "Individual/Team",
+                    "teamSize": "Individual",
                     "studentCoordinators": [
                         {
                             "name": "Premkumar.P",
@@ -1642,7 +600,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr. P. Sabarinath",
+                        "name": "Mr.Sabarinath.P",
                         "designation": "Assistant Professor, Mech",
                         "phone": "+91 8122952593"
                     },
@@ -1676,7 +634,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr. P. Sakthivel",
+                        "name": "Mr.Sakthivel.P",
                         "designation": "Assistant Professor, Mech",
                         "phone": "+91 9500441922"
                     },
@@ -1785,7 +743,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr. K.M. Arulmozhiselvan",
+                        "name": "Mr.Arulmozhiselvan.K.M",
                         "designation": "Assistant Professor, Mech",
                         "phone": "+91 9790514579"
                     },
@@ -1796,57 +754,311 @@
                     ]
                 }
             ],
-            "chairman": "Nandhakumar",
-            "secretary": "Raguraman"
+            "chairman": "Nandhakumar M",
+            "secretary": "Raguraman S"
         },
         {
-            "id": "auto",
-            "name": "Automobile",
-            "fullName": "Automobile Engineering",
-            "icon": "🚗",
-            "color": "#f87171",
+            "id": "ice",
+            "name": "ICE",
+            "fullName": "Instrumentation & Control Engineering",
+            "icon": "🎛️",
+            "color": "#ec4899",
             "events": [
                 {
-                    "id": "auto-t1",
-                    "name": "Digital Design Arena (CAD)",
+                    "id": "ice-t1",
+                    "name": "Quick start",
                     "category": "Technical",
-                    "description": "Participants use CAD software to create 3D models, technical drawings, or innovative designs based on a given problem or theme. The most precise, creative, and well-presented designs win.",
+                    "description": "Quick Start is an idea presentation event where participants pitch their startup concepts. It evaluates innovation, feasibility, and business understanding. Participants must clearly explain their idea using a presentation. The event encourages entrepreneurial thinking and problem-solving skills. Clear communication and originality are essential for scoring.",
                     "rules": [
-                        "judges decision is final Winner"
+                        "Individual or team of 2–4 members",
+                        "PPT presentation is mandatory",
+                        "Presentation time: 8 minutes",
+                        "Idea should be clearly explained and structured",
+                        "Judges’ decision will be final"
                     ],
-                    "venue": "Automobile Block (Cad Lab)",
+                    "venue": "ICE Block",
                     "date": "2026-03-28",
                     "time": {
                         "start": "10:00 AM",
                         "end": "11:00 AM"
                     },
-                    "teamSize": "1 Members",
+                    "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Arulvendhan A",
+                            "name": "Vidhyasagar J - III ICE",
+                            "phone": "+91 8248599521"
+                        },
+                        {
+                            "name": "Pandiselvam R - III ICE",
+                            "phone": "+91 8220650231"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mrs.Manjula.A",
+                        "designation": "Associate Professor, ICE",
+                        "phone": "+91 8681945446"
+                    },
+                    "tags": [
+                        "Startup",
+                        "Entrepreneurship",
+                        "Idea Presentation"
+                    ]
+                },
+                {
+                    "id": "ice-t2",
+                    "name": "Component Identification",
+                    "category": "Technical",
+                    "description": "Component Identification is a technical event where participants recognize electrical and instrumentation components and state their functions. It tests practical knowledge and observation skills within a limited time. Participants must quickly identify components and understand their real-time applications. Accuracy and speed are key factors for scoring. The event focuses on core fundamentals of instrumentation.",
+                    "rules": [
+                        "Individual participation only",
+                        "Each component must be identified within 1 minute",
+                        "Answers should be written on paper",
+                        "Event consists of 2 rounds",
+                        "Judges’ decision will be final"
+                    ],
+                    "venue": "ICE Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
+                    },
+                    "teamSize": "Individual",
+                    "studentCoordinators": [
+                        {
+                            "name": "Mohamed sheik - III ICE",
+                            "phone": "+91 9092672972"
+                        },
+                        {
+                            "name": "Veerasamy - III ICE",
+                            "phone": "+91 9360298868"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Yuvaraj.D",
+                        "designation": "Assistant Professor, ICE",
+                        "phone": "+91 9500570308"
+                    },
+                    "tags": [
+                        "Identification",
+                        "Devices",
+                        "Electrical & Instrumentation"
+                    ]
+                },
+                {
+                    "id": "ice-t3",
+                    "name": "TECHTALK ARENA (paper presentation)",
+                    "category": "Technical",
+                    "description": "TechTalk Arena provides a platform to present innovative ideas in instrumentation and emerging technologies. Participants will explain concepts related to IoT, sensors, automation, robotics, or smart systems. The event evaluates technical knowledge, clarity, and presentation skills. Participants must effectively communicate their ideas within the given time. Innovation and confidence are key to scoring.",
+                    "rules": [
+                        "Team size: 2–4 members",
+                        "Topics must be related to ICE domain",
+                        "Abstract submission required before event day",
+                        "Presentation: 8 minutes + 2 minutes Q&A",
+                        "Judges’ decision will be final"
+                    ],
+                    "venue": "Techno park seminar hall",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "2–4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Manoj C - III ICE",
+                            "phone": "+91 9809783170"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Sathish Kumar.L",
+                        "designation": "Assistant Professor, ICE",
+                        "phone": "+91 9360253505"
+                    },
+                    "tags": [
+                        "Research",
+                        "Presentation",
+                        "Innovation"
+                    ]
+                },
+                {
+                    "id": "ice-t4",
+                    "name": "INVENTRA(project expo)",
+                    "category": "Technical",
+                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
+                    "rules": [
+                        "Team of 2–4 members",
+                        "Must have a working demo or prototype",
+                        "Project report must be submitted beforehand",
+                        "Presentation: 10 minutes + 3 minutes Q&A",
+                        "Judging based on innovation, feasibility, and execution"
+                    ],
+                    "venue": "ICE Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "2–4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Senthilnathan - III ICE",
+                            "phone": "+91 9751008298"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Yuvaraj.D",
+                        "designation": "Assistant Professor, ICE",
+                        "phone": "+91 9500570308"
+                    },
+                    "tags": [
+                        "Project",
+                        "Innovation",
+                        "Demo"
+                    ]
+                },
+                {
+                    "id": "ice-nt1",
+                    "name": "Reels making",
+                    "category": "Non-Technical",
+                    "description": "Reels Making is a creative event where participants produce short videos based on given topics. It focuses on creativity, storytelling, and editing skills within a limited time. Teams must plan, shoot, and present engaging content. The event encourages originality and fun expression. Final reels will be evaluated based on creativity and presentation.",
+                    "rules": [
+                        "Team size: 3–5 members",
+                        "Reel must be completed within 45 minutes",
+                        "Duration: 30–60 seconds",
+                        "Use of AI for scripting or editing is not allowed",
+                        "Judges’ decision will be final"
+                    ],
+                    "venue": "ICE Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
+                    },
+                    "teamSize": "3–5 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Nishanth R - III ICE",
+                            "phone": "+91 9344987685"
+                        },
+                        {
+                            "name": "Sivaram SK - III ICE",
+                            "phone": "+91 8668143324"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mrs.Kanagavalli.S",
+                        "designation": "Assistant Professor, ICE",
+                        "phone": "+91 9025175215"
+                    },
+                    "tags": [
+                        "Reels",
+                        "Creative",
+                        "Fun"
+                    ]
+                },
+                {
+                    "id": "ice-nt2",
+                    "name": "Brand detection",
+                    "category": "Non-Technical",
+                    "description": "Brand Detection is a fun-based event where participants identify logos within a limited time. It tests memory, observation, and quick thinking skills. Participants must recognize brands accurately and write their answers. The event is simple yet engaging, making it enjoyable for everyone. Speed and correctness determine the winner.",
+                    "rules": [
+                        "Individual participation only",
+                        "Event consists of 2 rounds",
+                        "Logos must be identified within the given time",
+                        "Answers should be written on paper",
+                        "Judges’ decision will be final"
+                    ],
+                    "venue": "ICE Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
+                    },
+                    "teamSize": "Individual",
+                    "studentCoordinators": [
+                        {
+                            "name": "Jegan Barath U - III ICE",
+                            "phone": "+91 8015305314"
+                        },
+                        {
+                            "name": "Kesavan M - III ICE",
+                            "phone": "+91 8807584019"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Sathish Kumar.L",
+                        "designation": "Assistant Professor, ICE",
+                        "phone": "+91 9360253505"
+                    },
+                    "tags": [
+                        "Logo",
+                        "Game",
+                        "Fun"
+                    ]
+                }
+            ],
+            "chairman": "Senthilnathan G",
+            "secretary": "Sakkthivelan S"
+        },
+        {
+            "id": "it",
+            "name": "IT",
+            "fullName": "Information Technology",
+            "icon": "🌐",
+            "color": "#a78bfa",
+            "events": [
+                {
+                    "id": "it-t1",
+                    "name": " Promptify X",
+                    "category": "Technical",
+                    "description": "Event Overview: Prompt Engineering Challenge \n\n Prompt Engineering is the art of crafting precise and effective instructions to guide AI models toward accurate, high-quality results. In this challenge, participants will be tested on their ability to observe intricate visual details and translate them into clear, descriptive prompts for AI image generation. \n\n Round 1: The Foundation Basics Briefing (5 Mins): A quick dive into the core principles of prompt engineering, covering structure, style descriptors, and technical parameters. \n\n Knowledge Check (10 Mins): A fast-paced Q&A session consisting of 10 questions to test your understanding of AI interaction. \n\n Round 2: Visual Re-creation \n The Challenge: Participants will be shown a specific reference image. \n The Goal: Write a single, comprehensive prompt that instructs the AI to recreate the image as accurately as possible. \n\n Judging Criteria: Success is measured by how many elements from the original picture—such as composition, lighting, subjects, and color palette—appear in the AI-generated result.",
+                    "rules": [
+                        "Individual participation only",
+                        "2 rounds: Basics, Creative Prompting, and Prompt Battle",
+                        "Judges' decision is final",
+                        "Use of external tools is prohibited"
+                    ],
+                    "venue": "Main Block (A-109)",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
+                    },
+                    "teamSize": "Individual",
+                    "studentCoordinators": [
+                        {
+                            "name": "Hariharan.M -III IT",
+                            "phone": "+91 8838960948"
+                        },
+                        {
+                            "name": "Nandita S -III IT",
                             "phone": ""
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr.P.Parthipan",
-                        "designation": "Assistant Professor",
-                        "phone": ""
+                        "name": "Mrs.Kavinmathi. B",
+                        "designation": "Assistant Professor, IT",
+                        "phone": "+91 9944481256"
                     },
                     "tags": [
-                        "CAD",
-                        "Design",
-                        "Automotive"
+                        "AI",
+                        "GenAI",
+                        "NLP"
                     ]
                 },
                 {
-                    "id": "auto-t2",
-                    "name": "Auto Sleuths",
+                    "id": "it-t2",
+                    "name": "code X paradise",
                     "category": "Technical",
-                    "description": "Participants are given various automobile components like engine parts, suspension parts, or electrical components. They must identify each part correctly within a time limit. The fastest and most accurate participants win, testing their knowledge of automobile engineering systems.",
+                    "description": "This is Code arena:\n\n Round 1: Reverse Coding Think you can work backward? We give you the output; you figure out the logic. Decipher the pattern and write the code to match it. Speed and logic are your only allies.\n\n Round 2: HackerRank Contest The ultimate showdown. Solve a series of algorithmic challenges on the HackerRank platform. Accuracy and efficiency are the names of the game climb the leaderboard before the clock runs out.",
                     "rules": [
-                        "judges decision is final Winner"
+                        "Team of 2 members",
+                        "Languages allowed: Any language",
+                        "2 rounds with elimination after each",
+                        "Internet access during the contest",
+                        "Plagiarism results in immediate disqualification"
                     ],
-                    "venue": "Automobile Block (VC Lab)",
+                    "venue": "Techno Park - Computer Lab",
                     "date": "2026-03-28",
                     "time": {
                         "start": "11:00 AM",
@@ -1855,166 +1067,486 @@
                     "teamSize": "2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "R.Mukesh Kannan",
-                            "phone": ""
+                            "name": "Hariharan.m -III IT",
+                            "phone": "+91 8838960948"
                         },
                         {
-                            "name": "V.A.Vishak",
+                            "name": "Sripriya.g -III IT",
                             "phone": ""
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr.P.Parthipan",
-                        "designation": "Assistant Professor",
-                        "phone": ""
+                        "name": "Mr.Dheepan.V",
+                        "designation": "Assistant Professor, AI&DS",
+                        "phone": "+91 6380325151"
                     },
                     "tags": [
-                        "Mechanical",
-                        "Identification",
-                        "Automotive"
+                        "Coding",
+                        "DSA",
+                        "Competitive Programming"
                     ]
                 },
                 {
-                    "id": "auto-t3",
-                    "name": "TECHTALK ARENA (paper presentation)",
-                    "category": "Technical",
-                    "description": "Participants prepare and present a topic using slides, showcasing content clarity, creativity, and presentation skills. The best presentation with clear ideas and visuals wins.",
-                    "rules": [
-                        "Team of 1-2 members",
-                        "judges decision is final Winner"
-                    ],
-                    "venue": "Automobile Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "1-2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "M.Nivash",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr.V.Gopinath",
-                        "designation": "Assistant Professor",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "Research",
-                        "Presentation",
-                        "Automotive"
-                    ]
-                },
-                {
-                    "id": "auto-t4",
-                    "name": "INVENTRA (project Presentation)",
-                    "category": "Technical",
-                    "description": "Participants present projects related to automobile design, technology, or innovation, explaining the concept, working, and real-world application. The most practical, innovative, and well-explained project wins.",
-                    "rules": [
-                        "Team of 1-2 members",
-                        "judges decision is final Winner"
-                    ],
-                    "venue": "Automobile Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "10:00 AM",
-                        "end": "-"
-                    },
-                    "teamSize": "1-2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "G.Malarazhagan",
-                            "phone": ""
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Mr.V.Gopinath",
-                        "designation": "Assistant Professor",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "Project",
-                        "Innovation",
-                        "Automotive"
-                    ]
-                },
-                {
-                    "id": "auto-nt1",
-                    "name": "Fame Detective",
+                    "id": "it-nt1",
+                    "name": "Rhythm Rush",
                     "category": "Non-Technical",
-                    "description": "Participants are given clues about a famous personality. Using these hints, they must identify the celebrity as quickly as possible. Fastest correct guesses earn points, and the team with the highest score wins.",
+                    "description": "~Start music game description : \n\nStart Music is a fun game where players identify Tamil cinema songs using small clues. The clues may be a BGM (background music), a line of lyrics, or a picture related to the song. Players listen or look at the clue and try to guess the correct song as quickly as possible.\n\nThe player who correctly identifies the song first earns points. This game tests players’ memory, listening skills, and knowledge of Tamil movie songs, making it exciting and entertaining for music lovers. \n\n•Round 1 – BGM Round:Players listen to a short background music (BGM) clip from a Tamil movie song and guess the correct song.\n\n•Round 2 – Picture Round:Players see a picture related to a song (such as a movie scene, actor, or object) and identify the song connected to it.\n\n•Round 3 – Missing Lyrics Round:Players are given a line from a song with missing words and must fill in the correct lyrics",
                     "rules": [
-                        "judges decision is final Winner"
+                        "Team of 2 members",
+                        "3 rounds: Melody, Rapid Fire, and Finals",
+                        "No use of phones or Shazam-like apps",
+                        "Points for speed and accuracy",
+                        "Judges' decision is final"
                     ],
-                    "venue": "Automobile Block (D-107)",
+                    "venue": "Main Block (Smart class)",
                     "date": "2026-03-28",
                     "time": {
-                        "start": "2:00 PM",
+                        "start": "2:00 AM",
                         "end": "3:00 PM"
                     },
                     "teamSize": "2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "K.Bharath",
-                            "phone": ""
+                            "name": "Jijendran.A - III IT",
+                            "phone": "+91 7639857883"
                         },
                         {
-                            "name": "M.Sundaramohan",
+                            "name": "Muhamudha azeela",
                             "phone": ""
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr.V.Gopinath",
-                        "designation": "Assistant Professor",
-                        "phone": ""
+                        "name": "Mrs. Jenisha. S",
+                        "designation": "Associate Professor, AI&DS",
+                        "phone": "+91 9342154114"
                     },
                     "tags": [
-                        "Guessing",
-                        "Fun",
-                        "Celebrity"
+                        "Music",
+                        "Entertainment",
+                        "Fun"
                     ]
                 },
                 {
-                    "id": "auto-nt2",
-                    "name": "Mystery Sketch",
+                    "id": "it-nt2",
+                    "name": "IPL Auction",
                     "category": "Non-Technical",
-                    "description": "One person explains an object or scene, and the other team member draws it based on the explanation. The most accurate and creative drawings win.",
+                    "description": "This IPL Acution:\n\nThe event consists of three exciting rounds based on the Indian Premier League (IPL) to test participants’ cricket knowledge, observation skills, and strategic thinking.\n\nRound 1: IPL Quiz Participants answer questions related to IPL teams, players, records, and history. This round tests the cricket knowledge and quick thinking of the teams.\n\nRound 2: Historical moments of IPL Teams identify IPL players, team logos, stadiums, or memorable moments from pictures shown on the screen. This round checks visual recognition and cricket awareness.\n\nRound 3: IPL Auction Teams act as IPL franchise owners and use a virtual budget to bid for players and build their team. The winner is decided based on team balance, player selection, and budget management.Overall, the event is designed to be fun, interactive, and competitive, encouraging teamwork while celebrating the excitement of the Indian Premier League",
                     "rules": [
-                        "judges decision is final Winner"
+                        "Team of 3–4 members",
+                        "Each team gets a virtual budget of ₹80 Crores",
+                        "Minimum 11 players must be bought",
+                        "Auctioneer's decision is final",
+                        "No communication between teams during bidding"
                     ],
-                    "venue": "Automobile Block (D-108)",
+                    "venue": "Main Block (A-113)",
                     "date": "2026-03-28",
                     "time": {
                         "start": "12:00 PM",
                         "end": "1:00 PM"
                     },
-                    "teamSize": "2 Members",
+                    "teamSize": "3–4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "V.S.Gokulakrishnan",
-                            "phone": ""
+                            "name": "Vikas.R - III IT",
+                            "phone": "9361846485"
                         },
                         {
-                            "name": "K.Bharath",
+                            "name": "Lathiga.TS - III IT",
                             "phone": ""
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mr.P.Parthipan",
-                        "designation": "Assistant Professor",
-                        "phone": ""
+                        "name": "Mr. Loganathan. P",
+                        "designation": "Assistant Professor, IT",
+                        "phone": "+91 8300163488"
                     },
                     "tags": [
-                        "Drawing",
+                        "Cricket",
+                        "Strategy",
+                        "Fun"
+                    ]
+                },
+                {
+                    "id": "it-t3",
+                    "name": "TECHTALK ARENA (paper presentation)",
+                    "category": "Technical",
+                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
+                    "rules": [
+                        "Team of 1–2 members",
+                        "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
+                        "Abstract submission required before event day",
+                        "Presentation: 8 minutes + 2 minutes Q&A",
+                        "PPT with maximum 15 slides"
+                    ],
+                    "venue": "Techno park seminar hall",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "1–2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Lathiga T S III -IT",
+                            "phone": ""
+                        },
+                        {
+                            "name": "Gokul S G III -IT",
+                            "phone": "+91 9597583479"
+                        },
+                        {
+                            "name": "Vinoth K III -IT",
+                            "phone": "+91 8939605612"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs. Mona Jacqueline.G",
+                            "designation": "Assistant Professor, CSE",
+                            "phone": "+91 9488389818"
+                        },
+                        {
+                            "name": "Mrs. Jenisha.S",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi.B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 9944481256"
+                        }
+                    ],
+                    "tags": [
+                        "Research",
+                        "Presentation",
+                        "Innovation"
+                    ]
+                },
+                {
+                    "id": "it-t4",
+                    "name": "INVENTRA(project expo)",
+                    "category": "Technical",
+                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
+                    "rules": [
+                        "Team of 2–4 members",
+                        "Must have a working demo or prototype",
+                        "Project report must be submitted beforehand",
+                        "Presentation: 10 minutes + 3 minutes Q&A",
+                        "Judging based on innovation, feasibility, and execution"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "2–4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Lathiga T S III -IT",
+                            "phone": ""
+                        },
+                        {
+                            "name": "Gokul S G III -IT",
+                            "phone": "+91 9597583479"
+                        },
+                        {
+                            "name": "Vinoth K III -IT",
+                            "phone": "+91 8939605612"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mr.Dheepan.V",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 6380325151"
+                        },
+                        {
+                            "name": "Mr. Loganathan. P",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 8300163488"
+                        }
+                    ],
+                    "tags": [
+                        "Project",
+                        "Innovation",
+                        "Demo"
+                    ]
+                }
+            ],
+            "chairman": "",
+            "secretary": "Hariharan M"
+        },
+        {
+            "id": "cse",
+            "name": "CSE",
+            "fullName": "Computer Science & Engineering",
+            "icon": "💻",
+            "color": "#00d4ff",
+            "events": [
+                {
+                    "id": "cse-t1",
+                    "name": "Algowar (Code War)",
+                    "category": "Technical",
+                    "description": "The Code Battle contest consists of three rounds: MCQ, Coding Challenge, and Rapid Fire Coding, designed to test participants’ programming knowledge and problem-solving abilities.\n\nThe first round is an MCQ quiz containing questions from Java and Python programming, data structures, and basic algorithms, covering fundamental programming concepts, syntax, and output analysis.\n\nThe second round is a coding challenge with problems similar to those on the LeetCode platform, focusing on array and string-based problems with varying difficulty levels.\n\nThe final round is a rapid fire coding round where participants must quickly solve simple programming problems within a limited time. This round evaluates speed, accuracy, and logical thinking in coding",
+                    "rules": [
+                        "Team of 1–2 members",
+                        "Languages allowed: C, C++, Java, Python",
+                        "3 rounds with elimination after each",
+                        "Plagiarism results in immediate disqualification",
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Techno Park - Computer Lab",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
+                    },
+                    "teamSize": "1-2 members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Aakash. K - III CSE",
+                            "phone": "+91 9344175382"
+                        },
+                        {
+                            "name": "Jayasri.A - III CSE",
+                            "phone": "+91 7418354882"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr. Loganathan. P",
+                        "designation": "Assistant Professor, IT",
+                        "phone": "+91 8838581170"
+                    },
+                    "tags": [
+                        "Coding",
+                        "DSA",
+                        "Competitive Programming"
+                    ]
+                },
+                {
+                    "id": "cse-t2",
+                    "name": "Web development Event",
+                    "category": "Technical",
+                    "description": "Round 1 : MCQ :Round 1 will contain 25  quiz questions on web development and tools and frame work for web design .\n\nRound 2 : DEVELOPMENT Round 2 will be actual web design and development. (For example -  login page , or to-do list ) The best design will be shortlisted \n\nOptional : ( round -3 ) If there are more participants then round 3 will be conducted. The round 3 will include both design and working web page or a task . (For example: BMI Calculator , to - do list ).",
+                    "rules": [
+                        "Team of upto 2 members",
+                        "Don't use ai for script or editing",
+                        "3 rounds with increasing difficulty",
+                        "Time-based scoring",
+                        "Judges decision is final"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
+                    },
+                    "teamSize": "2  Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Dhinesh ram.S - III CSE",
+                            "phone": "+91 6382446979"
+                        },
+                        {
+                            "name": "Swetha Lakshmi.S - III CSE",
+                            "phone": "+91 8124074540"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs. Kavinmathi. B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 9944481256"
+                        }
+                    ],
+                    "tags": [
+                        "Debugging",
+                        "Coding",
+                        "Logic"
+                    ]
+                },
+                {
+                    "id": "cse-t3",
+                    "name": "TECHTALK ARENA (paper presentation)",
+                    "category": "Technical",
+                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
+                    "rules": [
+                        "Team of 1–2 members",
+                        "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
+                        "Abstract submission required before event day",
+                        "Presentation: 8 minutes + 2 minutes Q&A",
+                        "PPT with maximum 15 slides"
+                    ],
+                    "venue": "Techno park seminar hall",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "1–2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Lakshanth S - III CSE",
+                            "phone": "+91 7418645163"
+                        },
+                        {
+                            "name": "Saravanakumar E - III CSE",
+                            "phone": "+91 7339108896"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs. Mona Jacqueline.G",
+                            "designation": "Assistant Professor, CSE",
+                            "phone": "+91 9488389818"
+                        },
+                        {
+                            "name": "Mrs. Jenisha.S",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi.B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 9944481256"
+                        }
+                    ],
+                    "tags": [
+                        "Research",
+                        "Presentation",
+                        "Innovation"
+                    ]
+                },
+                {
+                    "id": "cse-t4",
+                    "name": "INVENTRA(project expo)",
+                    "category": "Technical",
+                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
+                    "rules": [
+                        "Team of 2–4 members",
+                        "Must have a working demo or prototype",
+                        "Project report must be submitted beforehand",
+                        "Presentation: 10 minutes + 3 minutes Q&A",
+                        "Judging based on innovation, feasibility, and execution"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "2–4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Lakshanth S - III CSE",
+                            "phone": "+91 7418645163"
+                        },
+                        {
+                            "name": "Saravanakumar E - III CSE",
+                            "phone": "+91 9994999662"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mr.Dheepan.V",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 6380325151"
+                        },
+                        {
+                            "name": "Mr.Loganathan.P",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 8300163488"
+                        }
+                    ],
+                    "tags": [
+                        "Project",
+                        "Innovation",
+                        "Demo"
+                    ]
+                },
+                {
+                    "id": "cse-nt1",
+                    "name": "Connection",
+                    "category": "Non-Technical",
+                    "description": "Connection Game is a fun non-technical event that tests participants’ thinking ability, observation skills, and teamwork. Teams must find the common connection between given words, pictures, or clues within the given time. The event consists of three rounds with increasing difficulty.",
+                    "rules": [
+                        "Team of 2 - 4 members",
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "12:00 PM"
+                    },
+                    "teamSize": "2 - 4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Vaithees Waran. M - III CSE",
+                            "phone": "+91 7305518959"
+                        },
+                        {
+                            "name": "Shanmathy. A - III CSE",
+                            "phone": "+91 9361356009"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mrs.Kavinmathi. B",
+                        "designation": "Assistant Professor, IT",
+                        "phone": "+91 9944481256"
+                    },
+                    "tags": [
+                        "Cricket",
+                        "Strategy",
+                        "Fun"
+                    ]
+                },
+                {
+                    "id": "cse-nt2",
+                    "name": "Brand It Now!!",
+                    "category": "Non-Technical",
+                    "description": " Brand It Now is a fun and fast-paced event where participants create creative advertisements for the given product on the spot. Using imagination, humor, and confidence, contestants turn simple or unusual products into entertaining and convincing ads. Get ready for quick thinking, creativity, and lots of fun!",
+                    "rules": [
+                        "Participants can take part individually or in teams of 2 to 4 members. ",
+                        "Basic props will be provided if required for the performance. ",
+                        "Preparation time will be provided before the presentation. ",
+                        "Participants must present their advertisement creatively and professionally. ",
+                        "Limited preparation time will be provided.",
+                        "Each team will have a fixed time limit for presentation.",
+                        "The judges’ decision will be final."
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
+                    },
+                    "teamSize": "2 - 4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Hariraj.R - III CSE",
+                            "phone": "+91 9345505218"
+                        },
+                        {
+                            "name": "Dhivyanavamathi. M - III CSE",
+                            "phone": "+91 7845124252"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mrs. Jenisha. S",
+                        "designation": "Assistant Professor, AI&DS",
+                        "phone": "+91 9342154114"
+                    },
+                    "tags": [
+                        "Memes",
                         "Creative",
                         "Fun"
                     ]
                 }
             ],
-            "chairman": "Arulvendhan A",
-            "secretary": "Mukeshkannan R"
+            "chairman": "Varsha S",
+            "secretary": "Balakrishnan S"
         },
         {
             "id": "civil",
@@ -2043,7 +1575,7 @@
                     "teamSize": "1-2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "M. Yeganathan",
+                            "name": "Yeganathan M",
                             "phone": "+91 8838229123"
                         },
                         {
@@ -2052,7 +1584,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Prof. L. Periyasamy",
+                        "name": "Prof. Periyasamy. L",
                         "designation": "Assistant Professor, Civil",
                         "phone": ""
                     },
@@ -2130,7 +1662,7 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Prof. L. Periyasamy",
+                        "name": "Prof. Periyasamy. L",
                         "designation": "Assistant Professor, Civil",
                         "phone": ""
                     },
@@ -2163,7 +1695,7 @@
                     "teamSize": "Individual/Team",
                     "studentCoordinators": [
                         {
-                            "name": "S. Vineeth",
+                            "name": "Vineeth S",
                             "phone": "+91 9344160913"
                         },
                         {
@@ -2203,7 +1735,7 @@
                     "teamSize": "Individual/Team",
                     "studentCoordinators": [
                         {
-                            "name": "S. Kaviya",
+                            "name": "Kaviya S",
                             "phone": "+91 6381233143"
                         },
                         {
@@ -2247,7 +1779,7 @@
                     "teamSize": "2-3 Members",
                     "studentCoordinators": [
                         {
-                            "name": "P. Vignesh",
+                            "name": "Vignesh P",
                             "phone": "+91 9003730613"
                         },
                         {
@@ -2273,6 +1805,490 @@
             ],
             "chairman": "Subramanian S",
             "secretary": "Mahisha M"
+        },
+        {
+            "id": "aids",
+            "name": "AI&DS",
+            "fullName": "Artificial Intelligence & Data Science",
+            "icon": "🤖",
+            "color": "#34d399",
+            "events": [
+                {
+                    "id": "aids-t1",
+                    "name": "Bug buster",
+                    "category": "Technical",
+                    "description": "Debugging Challenge is a two-round Python and C programming event designed to test participants’ ability to identify, analyze, and fix errors in code. Participants must demonstrate logical thinking, problem-solving skills, and strong understanding of Programming concepts. The event challenges programmers to quickly debug faulty programs and produce correct outputs within the given time",
+                    "rules": [
+                        "Individual participation",
+                        "Participants must bring their own laptops",
+                        "No external resources permitted during the event",
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Techno Park - Computer Lab",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
+                    },
+                    "teamSize": "Individual",
+                    "studentCoordinators": [
+                        {
+                            "name": "Sureshkrishna G -III AI&DS",
+                            "phone": "+91 7904900115"
+                        },
+                        {
+                            "name": "Bhuvaneshwari N -III AI&DS",
+                            "phone": "+91 9150956912"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs. Mona Jacqueline G",
+                            "designation": "Assistant Professor, CSE",
+                            "phone": "+91 9488389818"
+                        }
+                    ],
+                    "tags": [
+                        "AI",
+                        "Art",
+                        "GenAI"
+                    ]
+                },
+                {
+                    "id": "aids-t2",
+                    "name": "Technical quiz",
+                    "category": "Technical",
+                    "description": "The technical quiz test consist of  questions from Python programming, SQL databases, and Artificial Intelligence, covering concepts from basic to advanced levels.Participants will solve questions on Python syntax, SQL queries, and AI concepts, along with program and query output analysis",
+                    "rules": [
+                        "Individual participation",
+                        "Participants must bring their own laptops",
+                        "No external resources permitted during the event",
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "11:00 AM",
+                        "end": "1:00 PM"
+                    },
+                    "teamSize": "Individual",
+                    "studentCoordinators": [
+                        {
+                            "name": "Samson Joel R - III AI&DS",
+                            "phone": "+91 8122748830"
+                        },
+                        {
+                            "name": "Karishma - III AI&DS",
+                            "phone": "+91 6374138885"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs.Jenisha S",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        }
+                    ],
+                    "tags": [
+                        "Data Science",
+                        "Analytics",
+                        "Python"
+                    ]
+                },
+                {
+                    "id": "aids-t3",
+                    "name": "TECHTALK ARENA (paper presentation)",
+                    "category": "Technical",
+                    "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
+                    "rules": [
+                        "Team of 1–2 members",
+                        "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
+                        "Abstract submission required before event day",
+                        "Presentation: 8 minutes + 2 minutes Q&A",
+                        "PPT with maximum 15 slides"
+                    ],
+                    "venue": "Techno park seminar hall",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "1–2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Vinoth K - III IT",
+                            "phone": "+91 8939605612"
+                        },
+                        {
+                            "name": "Lakshanth S - III CSE",
+                            "phone": "+91 7418645163"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mrs. Mona Jacqueline G",
+                            "designation": "Assistant Professor, CSE",
+                            "phone": "+91 9488389818"
+                        },
+                        {
+                            "name": "Mrs. Jenisha S",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 9342154114"
+                        },
+                        {
+                            "name": "Mrs. Kavinmathi B",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 9944481256"
+                        }
+                    ],
+                    "tags": [
+                        "Research",
+                        "Presentation",
+                        "Innovation"
+                    ]
+                },
+                {
+                    "id": "aids-t4",
+                    "name": "INVENTRA(project expo)",
+                    "category": "Technical",
+                    "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
+                    "rules": [
+                        "Team of 2–4 members",
+                        "Must have a working demo or prototype",
+                        "Project report must be submitted beforehand",
+                        "Presentation: 10 minutes + 3 minutes Q&A",
+                        "Judging based on innovation, feasibility, and execution"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "2–4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Lakshanth S - III CSE",
+                            "phone": "+91 7418645163"
+                        },
+                        {
+                            "name": "Saravanakumar E - III CSE",
+                            "phone": "+91 9994999662"
+                        }
+                    ],
+                    "staffCoordinator": [
+                        {
+                            "name": "Mr.Dheepan V",
+                            "designation": "Assistant Professor, AI&DS",
+                            "phone": "+91 6380325151"
+                        },
+                        {
+                            "name": "Mr.Loganathan P",
+                            "designation": "Assistant Professor, IT",
+                            "phone": "+91 8300163488"
+                        }
+                    ],
+                    "tags": [
+                        "Project",
+                        "Innovation",
+                        "Demo"
+                    ]
+                },
+                {
+                    "id": "aids-nt1",
+                    "name": "Memory Challenge",
+                    "category": "Non-Technical",
+                    "description": "A fun non-technical event that tests participants’ memory, observation, and concentration through exciting challenges. Teams must quickly observe information and accurately recall patterns, sequences, and details to win",
+                    "rules": [
+                        "Team of 2 members",
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
+                    },
+                    "teamSize": "2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Rathika S -III AI&DS",
+                            "phone": "+91 8754049475"
+                        },
+                        {
+                            "name": "Sakthi Mani M -III AI&DS",
+                            "phone": "+91 9843509731"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mrs. Mona Jacqueline G",
+                        "designation": "Assistant Professor, CSE",
+                        "phone": "+91 9488389818"
+                    },
+                    "tags": [
+                        "Puzzle",
+                        "General Knowledge",
+                        "Fun"
+                    ]
+                },
+                {
+                    "id": "aids-nt2",
+                    "name": "Esports",
+                    "category": "Non-Technical",
+                    "description": "Free Fire tournament ,  PUBG tournamentGarena \n\n Free Fire Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches, earning points through eliminations and final placement. The team with the highest total points wins.\n\n PUBG: Battlegrounds / Battlegrounds Mobile India Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches and earn points through eliminations and final placement. The team with the highest total points will be declared the winner.",
+                    "rules": [
+                        "   Team of 4 members",
+                        "Garena Free Fire Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches, earning points through eliminations and final placement. The team with the highest total points wins.",
+                        "PUBG: Battlegrounds / Battlegrounds Mobile India Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches and earn points through eliminations and final placement. The team with the highest total points will be declared the winner."
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "12:00 PM"
+                    },
+                    "teamSize": "4 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Gowtham G -III AI&DS",
+                            "phone": "+91 7339172197"
+                        },
+                        {
+                            "name": "Vaishnavi P -III AI&DS",
+                            "phone": "+91 8122079747"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr. Dheepan v",
+                        "designation": "Assistant Professor, AI&DS",
+                        "phone": "+91 6380325151"
+                    },
+                    "tags": [
+                        "Acting",
+                        "Fun",
+                        "Entertainment"
+                    ]
+                }
+            ],
+            "chairman": "Vidhya Sri S S",
+            "secretary": "Balakrishnan R"
+        },
+        {
+            "id": "auto",
+            "name": "Automobile",
+            "fullName": "Automobile Engineering",
+            "icon": "🚗",
+            "color": "#f87171",
+            "events": [
+                {
+                    "id": "auto-t1",
+                    "name": "Digital Design Arena (CAD)",
+                    "category": "Technical",
+                    "description": "Participants use CAD software to create 3D models, technical drawings, or innovative designs based on a given problem or theme. The most precise, creative, and well-presented designs win.",
+                    "rules": [
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Automobile Block (Cad Lab)",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "11:00 AM"
+                    },
+                    "teamSize": "1 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Arulvendhan A",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Parthipan P",
+                        "designation": "Assistant Professor",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "CAD",
+                        "Design",
+                        "Automotive"
+                    ]
+                },
+                {
+                    "id": "auto-t2",
+                    "name": "Auto Sleuths",
+                    "category": "Technical",
+                    "description": "Participants are given various automobile components like engine parts, suspension parts, or electrical components. They must identify each part correctly within a time limit. The fastest and most accurate participants win, testing their knowledge of automobile engineering systems.",
+                    "rules": [
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Automobile Block (VC Lab)",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "11:00 AM",
+                        "end": "12:00 PM"
+                    },
+                    "teamSize": "2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Mukesh Kannan R",
+                            "phone": ""
+                        },
+                        {
+                            "name": "Vishak V.A",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Parthipan P",
+                        "designation": "Assistant Professor",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Mechanical",
+                        "Identification",
+                        "Automotive"
+                    ]
+                },
+                {
+                    "id": "auto-t3",
+                    "name": "TECHTALK ARENA (paper presentation)",
+                    "category": "Technical",
+                    "description": "Participants prepare and present a topic using slides, showcasing content clarity, creativity, and presentation skills. The best presentation with clear ideas and visuals wins.",
+                    "rules": [
+                        "Team of 1-2 members",
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Automobile Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "1-2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Nivash M",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Gopinath V",
+                        "designation": "Assistant Professor",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Research",
+                        "Presentation",
+                        "Automotive"
+                    ]
+                },
+                {
+                    "id": "auto-t4",
+                    "name": "INVENTRA (project Presentation)",
+                    "category": "Technical",
+                    "description": "Participants present projects related to automobile design, technology, or innovation, explaining the concept, working, and real-world application. The most practical, innovative, and well-explained project wins.",
+                    "rules": [
+                        "Team of 1-2 members",
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Automobile Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "10:00 AM",
+                        "end": "-"
+                    },
+                    "teamSize": "1-2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Malarazhagan G",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Gopinath V",
+                        "designation": "Assistant Professor",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Project",
+                        "Innovation",
+                        "Automotive"
+                    ]
+                },
+                {
+                    "id": "auto-nt1",
+                    "name": "Fame Detective",
+                    "category": "Non-Technical",
+                    "description": "Participants are given clues about a famous personality. Using these hints, they must identify the celebrity as quickly as possible. Fastest correct guesses earn points, and the team with the highest score wins.",
+                    "rules": [
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Automobile Block (D-107)",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
+                    },
+                    "teamSize": "2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Bharath K",
+                            "phone": ""
+                        },
+                        {
+                            "name": "Sundaramohan M",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Gopinath V",
+                        "designation": "Assistant Professor",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Guessing",
+                        "Fun",
+                        "Celebrity"
+                    ]
+                },
+                {
+                    "id": "auto-nt2",
+                    "name": "Mystery Sketch",
+                    "category": "Non-Technical",
+                    "description": "One person explains an object or scene, and the other team member draws it based on the explanation. The most accurate and creative drawings win.",
+                    "rules": [
+                        "judges decision is final Winner"
+                    ],
+                    "venue": "Automobile Block (D-108)",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "12:00 PM",
+                        "end": "1:00 PM"
+                    },
+                    "teamSize": "2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "Gokulakrishnan V.S",
+                            "phone": ""
+                        },
+                        {
+                            "name": "Bharath K",
+                            "phone": ""
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Mr.Parthipan P",
+                        "designation": "Assistant Professor",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Drawing",
+                        "Creative",
+                        "Fun"
+                    ]
+                }
+            ],
+            "chairman": "Arulvendhan A",
+            "secretary": "Mukeshkannan R"
         }
     ],
     "schedule": {
@@ -2281,9 +2297,9 @@
             "closes": "10:30 AM",
             "venue": "Main Entrance – College Gate"
         },
-        "inauguration": {
-            "time": "9:00 - 10:00 AM",
-            "venue": "Main Stage – Auditorium",
+        "FlagHoisting": {
+            "time": "9:30 AM - 9:45 AM",
+            "venue": "Main Block",
             "chiefGuest": "To be announced"
         },
         "lunchBreak": {
