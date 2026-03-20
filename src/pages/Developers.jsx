@@ -30,6 +30,7 @@ const DEVELOPERS = [
         role: 'All Graphic Designer',
         department: "CSE",
         image: LakshanthImg,
+        imagePosition: 'top',
         instagramLink: 'https://www.instagram.com/chocolate_lux5',
         linkedinLink: 'https://www.linkedin.com/in/lakshanth-s-8813162a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         portfolioLink: '',
