@@ -1,6 +1,8 @@
 import { motion } from 'framer-motion';
 import MagicParticles from '../components/MagicParticles';
 import LocationCard from '../components/LocationCard';
+import raviImg from '../assets/chairman photo/ravi.jpeg';
+import anushaImg from '../assets/chairman photo/anusha ravi.jpeg';
 
 /* ── Reusable animated section card ───────────────── */
 function SectionCard({ title, children, delay = 0 }) {
@@ -21,21 +23,23 @@ function SectionCard({ title, children, delay = 0 }) {
                 boxShadow: '0 8px 40px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 215, 0, 0.06)',
             }}
         >
-            <h2
-                className="font-cinzel"
-                style={{
-                    fontSize: 'clamp(1.1rem, 3vw, 1.5rem)',
-                    fontWeight: 700,
-                    background: 'linear-gradient(135deg, #FFD700 0%, #FFED8A 100%)',
-                    WebkitBackgroundClip: 'text',
-                    WebkitTextFillColor: 'transparent',
-                    backgroundClip: 'text',
-                    margin: '0 0 18px',
-                    letterSpacing: '0.06em',
-                }}
-            >
-                {title}
-            </h2>
+            {title && (
+                <h2
+                    className="font-cinzel"
+                    style={{
+                        fontSize: 'clamp(1.1rem, 3vw, 1.5rem)',
+                        fontWeight: 700,
+                        background: 'linear-gradient(135deg, #FFD700 0%, #FFED8A 100%)',
+                        WebkitBackgroundClip: 'text',
+                        WebkitTextFillColor: 'transparent',
+                        backgroundClip: 'text',
+                        margin: '0 0 18px',
+                        letterSpacing: '0.06em',
+                    }}
+                >
+                    {title}
+                </h2>
+            )}
             <div
                 className="font-inter"
                 style={{
@@ -108,27 +112,91 @@ export default function About() {
                     zIndex: 10,
                 }}
             >
+                {/* Leadership */}
+                <SectionCard delay={0.15}>
+                    <div
+                        style={{
+                            display: 'flex',
+                            flexWrap: 'wrap',
+                            gap: '32px',
+                            justifyContent: 'center',
+                            marginTop: '0px'
+                        }}
+                    >
+                        {/* Chairman */}
+                        <div style={{ textAlign: 'center' }}>
+                            <div
+                                style={{
+                                    width: '160px',
+                                    height: '160px',
+                                    borderRadius: '50%',
+                                    overflow: 'hidden',
+                                    margin: '0 auto 16px',
+                                    border: '3px solid rgba(255, 215, 0, 0.4)',
+                                    boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
+                                }}
+                            >
+                                <img
+                                    src={raviImg}
+                                    alt="Dr. P.V. Ravi, Chairman"
+                                    style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                                />
+                            </div>
+                            <h3 className="font-cinzel" style={{ margin: '0 0 4px', fontSize: '1.1rem', color: '#FFD700' }}>
+                                Dr. P.V. Ravi
+                            </h3>
+                            <p className="font-inter" style={{ margin: 0, fontSize: '0.85rem', color: 'rgba(240, 230, 200, 0.7)' }}>
+                                Chairman
+                            </p>
+                        </div>
+
+                        {/* CEO */}
+                        <div style={{ textAlign: 'center' }}>
+                            <div
+                                style={{
+                                    width: '160px',
+                                    height: '160px',
+                                    borderRadius: '50%',
+                                    overflow: 'hidden',
+                                    margin: '0 auto 16px',
+                                    border: '3px solid rgba(255, 215, 0, 0.4)',
+                                    boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
+                                }}
+                            >
+                                <img
+                                    src={anushaImg}
+                                    alt="Dr. Anusha ravi, CEO"
+                                    style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                                />
+                            </div>
+                            <h3 className="font-cinzel" style={{ margin: '0 0 4px', fontSize: '1.1rem', color: '#FFD700' }}>
+                                Dr. Anusha ravi
+                            </h3>
+                            <p className="font-inter" style={{ margin: 0, fontSize: '0.85rem', color: 'rgba(240, 230, 200, 0.7)' }}>
+                                CEO
+                            </p>
+                        </div>
+                    </div>
+                </SectionCard>
+
                 {/* About TCE */}
-                <SectionCard title="Tamilnadu College of Engineering" delay={0.15}>
+                <SectionCard title="Tamilnadu College of Engineering" delay={0.25}>
                     <p style={{ marginBottom: '14px' }}>
-                        Tamilnadu College of Engineering was sponsored by Tamilnadu Technical Education
-                        Foundation (Regd.) established in the year 1984. The Institution was founded by
-                        eminent philanthropists Late Lion T.N. Palanisamy B.A., MJF and Dr. P.V. Ravi Ph.D.,
-                        who are pioneering educators having unmatched rich experience in the field of education
-                        with the belief that the continuous perusal of knowledge is the sole path to success.
-                    </p>
-                    <p style={{ marginBottom: '14px' }}>
+                        Tamilnadu College of Engineering is a first self-financing college sponsored by
+                        Tamilnadu Technical Education Foundation (Regd.) established in the year 1984.
                         The primary focus of the Institution is to expose the young minds to the world of
                         technology, instilling in them confidence and fortitude to face new challenges enabling
                         them to shine in their chosen fields.
                     </p>
                     <p>
-                        The College is recognized by the Government of Tamilnadu, approved by All India Council
-                        for Technical Education, New Delhi, and affiliated to Anna University. The National
-                        Board of Accreditation (NBA), AICTE, New Delhi previously accredited the courses
-                        B.E (Computer Science Engineering), B.E (Mechanical Engineering), B.E (Civil Engineering),
-                        and B.E (Electronics and Communication Engineering), M.E (Computer Science Engineering),
-                        M.E (Structural Engineering).
+                        The College is recognized by the Government of Tamilnadu, approved by All India
+                        Council for Technical Education, New Delhi, accredited with grade A by NAAC and
+                        affiliated to Anna University . The College offers the courses B.E (Computer Science
+                        Engineering), B.E (Mechanical Engineering), B.E (Civil Engineering), B.E (Electronics
+                        and Communication Engineering),B.E (Electrical and Electronics Engineering),B.E
+                        (Automobile Engineering),B. Tech (Artificial Intelligence and Data Science ),
+                        B.Tech(Information and Technology), M. E (Computer Science Engineering), M.E
+                        (Structural Engineering) and Master of Business Administration.
                     </p>
                 </SectionCard>
 

@@ -69,7 +69,7 @@ function SocialButton({ href, children, hoverColor }) {
     );
 }
 
-export default function DeveloperCard({ name, role, department, image, instagramLink, linkedinLink, portfolioLink }) {
+export default function DeveloperCard({ name, role, department, image, instagramLink, linkedinLink, portfolioLink, imagePosition = 'center' }) {
     return (
         <motion.div
             initial={{ opacity: 0, y: 40 }}
@@ -126,6 +126,7 @@ export default function DeveloperCard({ name, role, department, image, instagram
                         width: '100%',
                         height: '100%',
                         objectFit: 'cover',
+                        objectPosition: imagePosition,
                     }}
                 />
             </div>
