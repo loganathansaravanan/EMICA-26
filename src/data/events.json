@@ -978,7 +978,7 @@
                     "studentCoordinators": [
                         {
                             "name": "Jegan Barath U - III ICE",
-                            "phone": "+91 8015305314"
+                            "phone": "+91 9360458343"
                         },
                         {
                             "name": "Kesavan M - III ICE",
@@ -2035,11 +2035,11 @@
                     "id": "aids-nt2",
                     "name": "Esports",
                     "category": "Non-Technical",
-                    "description": "Free Fire tournament ,  PUBG tournamentGarena \n\n Free Fire Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches, earning points through eliminations and final placement. The team with the highest total points wins.\n\n PUBG: Battlegrounds / Battlegrounds Mobile India Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches and earn points through eliminations and final placement. The team with the highest total points will be declared the winner.",
+                    "description": "Free Fire tournament ,  PUBG tournamentGarena \n\n\n Garena Free Fire Solo Tournament:\n\nAn individual battle royale event where players compete in custom room matches, earning points through eliminations and final placement. The player with the highest total points will be declared the winner.\n\n\nPUBG: Battlegrounds / Battlegrounds Mobile India Solo Tournament:\n\nA solo battle royale event where individual players compete in custom room matches, earning points through eliminations and final placement. The player with the highest total points will be declared the winner.",
                     "rules": [
-                        "   Team of 4 members",
-                        "Garena Free Fire Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches, earning points through eliminations and final placement. The team with the highest total points wins.",
-                        "PUBG: Battlegrounds / Battlegrounds Mobile India Tournament:A squad-based battle royale event where teams of 4 compete in custom room matches and earn points through eliminations and final placement. The team with the highest total points will be declared the winner."
+                        "Individual event.",
+                        "Garena Free Fire Tournament:A solo-based battle royale event.the highest total points will be declared the winner.",
+                        "PUBG: Battlegrounds / Battlegrounds Mobile India Tournament:A solo-based battle royale event. the highest total points will be declared the winner."
                     ],
                     "venue": "Main Block",
                     "date": "2026-03-28",
@@ -2047,7 +2047,7 @@
                         "start": "10:00 AM",
                         "end": "12:00 PM"
                     },
-                    "teamSize": "4 Members",
+                    "teamSize": "Individual",
                     "studentCoordinators": [
                         {
                             "name": "Gowtham G -III AI&DS",
