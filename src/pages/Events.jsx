@@ -115,6 +115,23 @@ export default function Events() {
                 >
                     <span style={{ color: '#00d4ff' }}>Explore the magic</span>
                 </p>
+                <p
+                    className="font-inter"
+                    style={{
+                        fontSize: 'clamp(0.9rem, 2vw, 1.1rem)',
+                        color: '#ff6b6b',
+                        marginTop: '16px',
+                        letterSpacing: '0.03em',
+                        fontWeight: 600,
+                        backgroundColor: 'rgba(255, 107, 107, 0.12)',
+                        display: 'inline-block',
+                        padding: '10px 24px',
+                        borderRadius: '25px',
+                        border: '1.5px solid rgba(255, 107, 107, 0.25)'
+                    }}
+                >
+                    ⚠️ Notice: If the number of participants is less than 5, the event will be cancelled. Plan accordingly.
+                </p>
             </motion.div>
 
             {/* ══════ Department Selector ══════ */}

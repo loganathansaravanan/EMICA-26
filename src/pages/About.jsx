@@ -195,7 +195,7 @@ export default function About() {
                         Engineering), B.E (Mechanical Engineering), B.E (Civil Engineering), B.E (Electronics
                         and Communication Engineering),B.E (Electrical and Electronics Engineering),B.E
                         (Automobile Engineering),B. Tech (Artificial Intelligence and Data Science ),
-                        B.Tech(Information and Technology), M. E (Computer Science Engineering), M.E
+                        B.Tech(Information Technology), M. E (Computer Science Engineering), M.E
                         (Structural Engineering) and Master of Business Administration.
                     </p>
                 </SectionCard>

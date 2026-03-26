@@ -429,66 +429,6 @@
                     ]
                 },
                 {
-                    "id": "ece-nt1",
-                    "name": "Chess & Carrom",
-                    "category": "Non-Technical",
-                    "description": "CHESS\nProve your tactical brilliance in this individual knockout tournament! The games strictly follow the official FIDE rules, including the touch-move rule. Compete in a fast-paced 10+5 minute time-controlled format where victory is claimed by checkmate, opponent resignation, or time out. Will you claim the board?\n\nCARROM\nPartner up for this thrilling black & white coin doubles tournament! Compete in a knockout format until one team successfully pockets all their coins along with the Queen. There are no time limits—only pure skill. Bring your own striker, report slightly before your match, and battle it out for exciting cash prizes!",
-                    "rules": [
-                        "CHESS",
-                        "Format: Individual event | Knockout format",
-                        "Time Limit: 10+5 minutes per player",
-                        "Rules: Games will follow official rules of FIDE",
-                        "Touch-Move Rule: If a player touches a piece, it must be moved",
-                        "Winning: Checkmate, opponent resignation, or time over",
-                        "Decision: Referee/Organizers decision will be final",
-                        "CARROM",
-                        "Format: Doubles | Knockout",
-                        "Game Type: Black & White Coins",
-                        "Winning Rule: Team that pockets all coins along with the Queen first wins",
-                        "Striker: Players may use their own striker",
-                        "Time: No time limit",
-                        "Reporting: Teams must report 15 minutes before the match",
-                        "Venue & Time: Will be announced in the WhatsApp group",
-                        "Participation: Open to all branches, boys and girls",
-                        "Prizes: Cash Prize for Winner & Runner-up | Participation Certificates for all"
-                    ],
-                    "venue": "Main Block",
-                    "date": "2026-03-28",
-                    "time": {
-                        "start": "2:00 PM",
-                        "end": "3:00 PM"
-                    },
-                    "teamSize": "2 Members",
-                    "studentCoordinators": [
-                        {
-                            "name": "DAMIEN JERISH A – IV ECE (Chess)",
-                            "phone": "+91 8610159795"
-                        },
-                        {
-                            "name": "HARSHAN M– III ECE (Chess)",
-                            "phone": "+91 8428209549"
-                        },
-                        {
-                            "name": "SURYA K - III ECE (Carrom)",
-                            "phone": "+91 9360653402"
-                        },
-                        {
-                            "name": "Madhavan – IV ECE (Carrom)",
-                            "phone": "+91 8220263670"
-                        }
-                    ],
-                    "staffCoordinator": {
-                        "name": "Ms.Silvia Celine.V",
-                        "designation": "Assistant Professor, ECE",
-                        "phone": ""
-                    },
-                    "tags": [
-                        "Esports",
-                        "Gaming",
-                        "BGMI"
-                    ]
-                },
-                {
                     "id": "ece-nt2",
                     "name": "RAPID FIRE QUIZ",
                     "category": "Non-Technical",
@@ -1053,6 +993,7 @@
                     "description": "This is Code arena:\n\n Round 1: Reverse Coding Think you can work backward? We give you the output; you figure out the logic. Decipher the pattern and write the code to match it. Speed and logic are your only allies.\n\n Round 2: HackerRank Contest The ultimate showdown. Solve a series of algorithmic challenges on the HackerRank platform. Accuracy and efficiency are the names of the game climb the leaderboard before the clock runs out.",
                     "rules": [
                         "Team of 2 members",
+                        "HackerRank account is mandatory",
                         "Languages allowed: Any language",
                         "2 rounds with elimination after each",
                         "Internet access during the contest",
@@ -1187,16 +1128,12 @@
                     "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Lathiga T S III -IT",
-                            "phone": ""
+                            "name": "Lakshanth S - III CSE",
+                            "phone": "+91 7418645163"
                         },
                         {
-                            "name": "Gokul S G III -IT",
-                            "phone": "+91 9597583479"
-                        },
-                        {
-                            "name": "Vinoth K III -IT",
-                            "phone": "+91 8939605612"
+                            "name": "Saravanakumar E - III CSE",
+                            "phone": "+91 7339108896"
                         }
                     ],
                     "staffCoordinator": [
@@ -1290,7 +1227,7 @@
                     "category": "Technical",
                     "description": "The Code Battle contest consists of three rounds: MCQ, Coding Challenge, and Rapid Fire Coding, designed to test participants’ programming knowledge and problem-solving abilities.\n\nThe first round is an MCQ quiz containing questions from Java and Python programming, data structures, and basic algorithms, covering fundamental programming concepts, syntax, and output analysis.\n\nThe second round is a coding challenge with problems similar to those on the LeetCode platform, focusing on array and string-based problems with varying difficulty levels.\n\nThe final round is a rapid fire coding round where participants must quickly solve simple programming problems within a limited time. This round evaluates speed, accuracy, and logical thinking in coding",
                     "rules": [
-                        "Team of 1–2 members",
+                        "Team of 2 members",
                         "Languages allowed: C, C++, Java, Python",
                         "3 rounds with elimination after each",
                         "Plagiarism results in immediate disqualification",
@@ -1302,7 +1239,7 @@
                         "start": "11:00 AM",
                         "end": "12:00 PM"
                     },
-                    "teamSize": "1-2 members",
+                    "teamSize": "2 members",
                     "studentCoordinators": [
                         {
                             "name": "Aakash. K - III CSE",
@@ -1326,7 +1263,7 @@
                 },
                 {
                     "id": "cse-t2",
-                    "name": "Web development Event",
+                    "name": "web design",
                     "category": "Technical",
                     "description": "Round 1 : MCQ :Round 1 will contain 25  quiz questions on web development and tools and frame work for web design .\n\nRound 2 : DEVELOPMENT Round 2 will be actual web design and development. (For example -  login page , or to-do list ) The best design will be shortlisted \n\nOptional : ( round -3 ) If there are more participants then round 3 will be conducted. The round 3 will include both design and working web page or a task . (For example: BMI Calculator , to - do list ).",
                     "rules": [
@@ -1372,7 +1309,7 @@
                     "category": "Technical",
                     "description": "Present your research findings or innovative ideas on emerging technology topics. Showcase your knowledge and public speaking skills before expert judges.",
                     "rules": [
-                        "Team of 1–2 members",
+                        "Team of 2-4 members",
                         "Topics: AI/ML, IoT, Blockchain, Cloud Computing, Cybersecurity",
                         "Abstract submission required before event day",
                         "Presentation: 8 minutes + 2 minutes Q&A",
@@ -1384,7 +1321,7 @@
                         "start": "10:00 AM",
                         "end": "-"
                     },
-                    "teamSize": "1–2 Members",
+                    "teamSize": "2-4 Members",
                     "studentCoordinators": [
                         {
                             "name": "Lakshanth S - III CSE",
@@ -1424,7 +1361,7 @@
                     "category": "Technical",
                     "description": "Exhibit your innovative project with a working prototype or demo. Impress the judges with your creativity, technical depth, and real-world impact.",
                     "rules": [
-                        "Team of 2–4 members",
+                        "Team of 2-4 members",
                         "Must have a working demo or prototype",
                         "Project report must be submitted beforehand",
                         "Presentation: 10 minutes + 3 minutes Q&A",
@@ -1436,15 +1373,19 @@
                         "start": "10:00 AM",
                         "end": "-"
                     },
-                    "teamSize": "2–4 Members",
+                    "teamSize": "2-4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Lakshanth S - III CSE",
-                            "phone": "+91 7418645163"
+                            "name": "Lathiga T S III -IT",
+                            "phone": ""
                         },
                         {
-                            "name": "Saravanakumar E - III CSE",
-                            "phone": "+91 7339108896"
+                            "name": "Gokul S G III -IT",
+                            "phone": "+91 9597583479"
+                        },
+                        {
+                            "name": "Vinoth K III -IT",
+                            "phone": "+91 8939605612"
                         }
                     ],
                     "staffCoordinator": [
@@ -1471,7 +1412,7 @@
                     "category": "Non-Technical",
                     "description": "Connection Game is a fun non-technical event that tests participants’ thinking ability, observation skills, and teamwork. Teams must find the common connection between given words, pictures, or clues within the given time. The event consists of three rounds with increasing difficulty.",
                     "rules": [
-                        "Team of 2 - 4 members",
+                        "Team of 2  members",
                         "judges decision is final Winner"
                     ],
                     "venue": "Main Block",
@@ -1480,7 +1421,7 @@
                         "start": "10:00 AM",
                         "end": "12:00 PM"
                     },
-                    "teamSize": "2 - 4 Members",
+                    "teamSize": "2 Members",
                     "studentCoordinators": [
                         {
                             "name": "Vaithees Waran. M - III CSE",
@@ -1522,7 +1463,7 @@
                         "start": "2:00 PM",
                         "end": "3:00 PM"
                     },
-                    "teamSize": "2 - 4 Members",
+                    "teamSize": "2 Members",
                     "studentCoordinators": [
                         {
                             "name": "Hariraj.R - III CSE",
@@ -1916,12 +1857,12 @@
                     "teamSize": "1–2 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Vinoth K - III IT",
-                            "phone": "+91 8939605612"
-                        },
-                        {
                             "name": "Lakshanth S - III CSE",
                             "phone": "+91 7418645163"
+                        },
+                        {
+                            "name": "Saravanakumar E - III CSE",
+                            "phone": "+91 7339108896"
                         }
                     ],
                     "staffCoordinator": [
@@ -1968,12 +1909,16 @@
                     "teamSize": "2–4 Members",
                     "studentCoordinators": [
                         {
-                            "name": "Lakshanth S - III CSE",
-                            "phone": "+91 7418645163"
+                            "name": "Lathiga T S III -IT",
+                            "phone": ""
                         },
                         {
-                            "name": "Saravanakumar E - III CSE",
-                            "phone": "+91 7339108896"
+                            "name": "Gokul S G III -IT",
+                            "phone": "+91 9597583479"
+                        },
+                        {
+                            "name": "Vinoth K III -IT",
+                            "phone": "+91 8939605612"
                         }
                     ],
                     "staffCoordinator": [
@@ -2307,7 +2252,7 @@
             "venue": "College Canteen & Food Stalls"
         },
         "valedictory": {
-            "time": "4:00 PM",
+            "time": "3:00 PM",
             "venue": "Main Stage – Auditorium",
             "description": "Prize distribution, vote of thanks, and closing ceremony"
         }
