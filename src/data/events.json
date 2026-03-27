@@ -429,7 +429,7 @@
                     ]
                 },
                 {
-                    "id": "ece-nt2",
+                    "id": "ece-nt1",
                     "name": "RAPID FIRE QUIZ",
                     "category": "Non-Technical",
                     "description": "Test your speed and knowledge in this fast-paced quiz! Teams will face a series of rapid-fire questions to score points and prove their expertise.",
@@ -469,6 +469,66 @@
                         "Esports",
                         "Gaming",
                         "Valorant"
+                    ]
+                },
+                {
+                    "id": "ece-nt2",
+                    "name": "Chess & Carrom",
+                    "category": "Non-Technical",
+                    "description": "CHESS\nProve your tactical brilliance in this individual knockout tournament! The games strictly follow the official FIDE rules, including the touch-move rule. Compete in a fast-paced 10+5 minute time-controlled format where victory is claimed by checkmate, opponent resignation, or time out. Will you claim the board?\n\nCARROM\nPartner up for this thrilling black & white coin doubles tournament! Compete in a knockout format until one team successfully pockets all their coins along with the Queen. There are no time limits—only pure skill. Bring your own striker, report slightly before your match, and battle it out for exciting cash prizes!",
+                    "rules": [
+                        "CHESS",
+                        "Format: Individual event | Knockout format",
+                        "Time Limit: 10+5 minutes per player",
+                        "Rules: Games will follow official rules of FIDE",
+                        "Touch-Move Rule: If a player touches a piece, it must be moved",
+                        "Winning: Checkmate, opponent resignation, or time over",
+                        "Decision: Referee/Organizers decision will be final",
+                        "CARROM",
+                        "Format: Doubles | Knockout",
+                        "Game Type: Black & White Coins",
+                        "Winning Rule: Team that pockets all coins along with the Queen first wins",
+                        "Striker: Players may use their own striker",
+                        "Time: No time limit",
+                        "Reporting: Teams must report 15 minutes before the match",
+                        "Venue & Time: Will be announced in the WhatsApp group",
+                        "Participation: Open to all branches, boys and girls",
+                        "Prizes: Cash Prize for Winner & Runner-up | Participation Certificates for all"
+                    ],
+                    "venue": "Main Block",
+                    "date": "2026-03-28",
+                    "time": {
+                        "start": "2:00 PM",
+                        "end": "3:00 PM"
+                    },
+                    "teamSize": "2 Members",
+                    "studentCoordinators": [
+                        {
+                            "name": "DAMIEN JERISH A – IV ECE (Chess)",
+                            "phone": "+91 8610159795"
+                        },
+                        {
+                            "name": "HARSHAN M– III ECE (Chess)",
+                            "phone": "+91 8428209549"
+                        },
+                        {
+                            "name": "SURYA K - III ECE (Carrom)",
+                            "phone": "+91 9360653402"
+                        },
+                        {
+                            "name": "Madhavan – IV ECE (Carrom)",
+                            "phone": "+91 8220263670"
+                        }
+                    ],
+                    "staffCoordinator": {
+                        "name": "Ms.Silvia Celine.V",
+                        "designation": "Assistant Professor, ECE",
+                        "phone": ""
+                    },
+                    "tags": [
+                        "Esports",
+                        "Gaming",
+                        "BGMI"
                     ]
                 }
             ],
@@ -1433,9 +1493,9 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs.Kavinmathi. B",
-                        "designation": "Assistant Professor, IT",
-                        "phone": "+91 9944481256"
+                        "name": "Mrs. Jenisha. S",
+                        "designation": "Assistant Professor, AI&DS",
+                        "phone": "+91 9342154114"
                     },
                     "tags": [
                         "Cricket",
@@ -1475,9 +1535,9 @@
                         }
                     ],
                     "staffCoordinator": {
-                        "name": "Mrs. Jenisha. S",
-                        "designation": "Assistant Professor, AI&DS",
-                        "phone": "+91 9342154114"
+                        "name": "Mrs.Kavinmathi. B",
+                        "designation": "Assistant Professor, IT",
+                        "phone": "+91 9944481256"
                     },
                     "tags": [
                         "Memes",
